@@ -49,7 +49,10 @@ while True:
         "offset": offset,
         "order": "-goals",        # Sắp xếp theo bàn thắng
         "accumulation": "total",
-        "group": "attack"         # Nhóm Tấn công
+        "group": "attack",        # Nhóm Tấn công
+        
+        # Đã cập nhật chuẩn xác 100% các keys từ JSON
+        "fields": "goals,expectedGoals,bigChancesMissed,successfulDribbles,totalShots,goalConversionPercentage,rating"
     }
 
     response = requests.get(
@@ -85,11 +88,13 @@ while True:
         all_rows.append({
             "Team": team_info.get("name"),
             "Name": player_info.get("name"),
+            
+            # Map chuẩn xác 100% theo JSON gốc
             "Goals": stats.get("goals", 0),
             "Expected goals (xG)": stats.get("expectedGoals", 0),
             "Big chances missed": stats.get("bigChancesMissed", 0),
             "Succ. dribbles": stats.get("successfulDribbles", 0),
-            "Total shots": stats.get("totalShots", 0),
+            "Total shots": stats.get("totalShots", 0), 
             "Goal conversion %": stats.get("goalConversionPercentage", 0),
             "Average Sofascore rating": stats.get("rating", 0)
         })
