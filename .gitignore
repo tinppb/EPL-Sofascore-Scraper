@@ -1,0 +1,17 @@
+data/raw/
+venv/
+env/
+.venv/
+.ipynb_checkpoints/
+Thumbs.db
+.vscode/
+.idea/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+logs/*
+
+!logs/.gitkeep
