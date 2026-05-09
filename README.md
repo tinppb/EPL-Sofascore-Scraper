@@ -74,8 +74,8 @@ python crawler/goalkeeping.py
 ---
 
 ## Kiến Trúc Dự Án
-Dự án được thiết kế theo mô hình **Modular (Mô-đun hóa)**:
-- **Orchestrator (`main.py`):** Đóng vai trò nhạc trưởng, điều phối việc gọi lần lượt các script con thông qua thư viện `subprocess`, quản lý thời gian nghỉ (`time.sleep`) và log tiến trình ra màn hình.
+Dự án được thiết kế theo Module:
+- **Orchestrator (`main.py`):** Đóng vai trò điều phối việc gọi lần lượt các script con thông qua thư viện `subprocess`, quản lý thời gian nghỉ (`time.sleep`) và log tiến trình ra màn hình.
 - **Workers (`crawler/*.py`):** Chứa các script độc lập. Mỗi script chịu trách nhiệm gọi một cấu hình API riêng biệt, phân trang dữ liệu (pagination) và xử lý JSON cho từng nhóm chỉ số cụ thể.
 - **Data Layer (`data/`):** Tách biệt rõ ràng giữa Dữ liệu thô (`raw/` JSON) dùng để đối chiếu backup và Dữ liệu đã xử lý (`processed/` CSV) dành cho End-user.
 
@@ -129,18 +129,18 @@ PREMIER_LEAGUE25_26/
 │   └── passing.py
 │
 ├── data/                     # Thư mục lưu trữ dữ liệu
-│   ├── processed/            # Dữ liệu dạng CSV đã được làm sạch 
+│   ├── processed/            
 │   │   ├── attack_stats.csv
 │   │   ├── defense_stats.csv
 │   │   ├── goalkeeping.csv
 │   │   └── passing_stats.csv
-│   └── raw/                  # Dữ liệu dạng JSON thô (Được ignore trên Git)
+│   └── raw/                  # Dữ liệu dạng JSON thô
 │       ├── attack/
 │       ├── defense/
 │       ├── goalkeeping/
 │       └── passing/
 │
-├── .gitignore                # Quản lý các file không đưa lên Git
+├── .gitignore                
 ├── main.py                   # Điểm bắt đầu (Orchestrator) của hệ thống
 ├── README.md                 # Tài liệu mô tả dự án
 └── requirements.txt          # Danh sách thư viện cần thiết
@@ -150,14 +150,18 @@ PREMIER_LEAGUE25_26/
 
 ## Khắc Phục Sự Cố
 
-**1. Lỗi `ModuleNotFoundError: No module named 'curl_cffi'` khi chạy `main.py`**
+**1. Lỗi kết nối, Timeout hoặc văng lỗi HTTP 403 Forbidden**
+- **Nguyên nhân:** Địa chỉ IP mạng của bạn đang bị chặn truy cập vào Sofascore, hoặc nhà mạng (ISP) chặn kết nối.
+- **Khắc phục:** Hãy bật phần mềm **Cloudflare WARP (1.1.1.1)** hoặc **VPN** trên máy tính rồi chạy lại script.
+
+**2. Lỗi `ModuleNotFoundError: No module named 'curl_cffi'` khi chạy `main.py`**
 - **Nguyên nhân:** Lệnh subprocess không tìm thấy thư viện trong môi trường ảo.
 - **Khắc phục:** Đảm bảo đã kích hoạt môi trường ảo. `main.py` đã được thiết kế sử dụng `sys.executable` thay cho chữ `python` cứng để tự động trỏ đúng vào Python của môi trường ảo.
 
-**2. Code chạy bị treo hoặc báo lỗi HTTP 403 / HTTP 429**
+**3. Code chạy bị treo hoặc báo lỗi HTTP 429 Too Many Requests**
 - **Nguyên nhân:** Gửi request quá nhanh khiến cơ chế Anti-Bot phát hiện. Hoặc do bạn thay đổi thư viện sang `requests` thông thường.
 - **Khắc phục:** Tuyệt đối giữ nguyên hàm gọi qua thư viện `curl_cffi`. Đảm bảo trong code luôn có `time.sleep(1.5)` đến `time.sleep(3)` để mô phỏng thao tác của người thật.
 
-**3. Cột dữ liệu toàn số 0**
+**4. Cột dữ liệu toàn số 0**
 - **Nguyên nhân:** Tên tham số khai báo trong `fields` không khớp với Database của Sofascore (VD: Thủ môn phải gọi `cleanSheet` thay vì `cleanSheets`).
 - **Khắc phục:** Code hiện tại trên nhánh `main` đã được fix chuẩn xác 100% các keys. Nếu xuất hiện ở cột mới, hãy tự in JSON cục bộ (`print(json.dumps(data))`) để dò tìm tên biến thực tế.
