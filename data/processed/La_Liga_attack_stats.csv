@@ -1,0 +1,585 @@
+﻿#,League,Team,Name,Goals,Expected goals (xG),Big chances missed,Succ. dribbles,Total shots,Goal conversion %,Average Sofascore rating
+1,La Liga,Real Madrid,Kylian Mbappé,24,23.0,18,76,132,18.18,7.63
+2,La Liga,Mallorca,Vedat Muriqi,22,17.04,17,15,104,21.15,7.09
+3,La Liga,Osasuna,Ante Budimir,17,15.43,12,3,88,19.32,6.91
+4,La Liga,FC Barcelona,Lamine Yamal,16,12.81,7,133,117,13.68,7.93
+5,La Liga,Real Madrid,Vinicius Júnior,15,13.33,13,85,96,15.63,7.55
+6,La Liga,Real Sociedad,Mikel Oyarzabal,15,15.21,17,34,78,19.23,7.07
+7,La Liga,FC Barcelona,Ferran Torres,15,12.75,19,7,65,23.08,6.85
+8,La Liga,Celta Vigo,Borja Iglesias,14,10.06,6,11,45,31.11,6.8
+9,La Liga,FC Barcelona,Robert Lewandowski,13,13.34,15,9,59,22.03,6.8
+10,La Liga,Deportivo Alavés,Toni Martínez,12,9.74,10,17,87,13.79,7.0
+11,La Liga,Atlético Madrid,Alexander Sørloth,12,9.59,17,10,64,18.75,6.79
+12,La Liga,FC Barcelona,Raphinha,11,9.79,5,20,58,18.97,7.45
+13,La Liga,Villarreal,Georges Mikautadze,11,9.83,18,30,61,18.03,6.92
+14,La Liga,Deportivo Alavés,Lucas Boyé,11,9.09,8,37,59,18.64,6.78
+15,La Liga,Rayo Vallecano,Jorge de Frutos,10,10.04,10,23,59,16.95,6.93
+16,La Liga,Villarreal,Alberto Moleiro,10,5.49,6,31,43,23.26,6.9
+17,La Liga,Real Betis,Cucho Hernández,10,9.66,7,27,80,12.5,6.85
+18,La Liga,Elche,André Silva,10,10.42,8,14,54,18.52,6.82
+19,La Liga,Real Betis,Abdessamad Ezzalzouli,9,8.23,8,38,68,13.24,7.32
+20,La Liga,Villarreal,Gerard Moreno,9,6.22,3,14,37,24.32,7.12
+21,La Liga,Real Oviedo,Federico Viñas,9,8.49,10,45,54,16.67,6.96
+22,La Liga,Levante UD,Carlos Espí,9,4.97,8,11,44,20.45,6.86
+23,La Liga,Valencia,Hugo Duro,9,7.44,7,3,32,28.13,6.69
+24,La Liga,Sevilla,Akor Adams,9,9.74,9,13,56,16.07,6.68
+25,La Liga,Girona FC,Vladyslav Vanat,9,8.52,9,9,27,33.33,6.64
+26,La Liga,Athletic Club,Gorka Guruzeta,9,9.5,9,7,70,12.86,6.54
+27,La Liga,Villarreal,Nicolas Pépé,8,8.15,7,56,59,13.56,7.23
+28,La Liga,Real Betis,Antony,8,8.34,13,19,80,10.0,7.2
+29,La Liga,Atlético Madrid,Julián Alvarez,8,7.7,8,26,54,14.81,6.96
+30,La Liga,Real Sociedad,Gonçalo Guedes,8,3.86,3,18,46,17.39,6.91
+31,La Liga,Elche,Rafa Mir,8,8.08,13,5,69,11.59,6.66
+32,La Liga,Real Betis,Pablo Fornals,7,3.7,2,24,41,17.07,7.09
+33,La Liga,FC Barcelona,Dani Olmo,7,7.49,9,13,66,10.61,7.06
+34,La Liga,Mallorca,Samú Costa,7,3.93,2,14,37,18.92,6.97
+35,La Liga,Levante UD,Iván Romero,7,8.36,11,35,57,12.28,6.94
+36,La Liga,Atlético Madrid,Antoine Griezmann,7,7.18,7,8,41,17.07,6.87
+37,La Liga,FC Barcelona,Marcus Rashford,7,7.0,9,25,71,9.86,6.86
+38,La Liga,Celta Vigo,Ferran Jutglà,7,5.74,8,20,43,16.28,6.86
+39,La Liga,Villarreal,Tajon Buchanan,7,2.06,2,21,27,25.93,6.82
+40,La Liga,Real Sociedad,Orri Óskarsson,7,4.63,4,3,20,35.0,6.77
+41,La Liga,Osasuna,Raúl García de Haro,7,5.98,5,12,33,21.21,6.75
+42,La Liga,Levante UD,Etta Eyong,7,8.67,10,10,48,14.58,6.68
+43,La Liga,FC Barcelona,Fermín López,6,6.66,7,42,63,9.52,7.1
+44,La Liga,Athletic Club,Nico Williams,6,5.32,4,66,45,13.33,6.98
+45,La Liga,Girona FC,Viktor Tsygankov,6,5.68,4,23,39,15.38,6.94
+46,La Liga,Elche,Álvaro Rodriguez,6,8.4,17,36,70,8.57,6.91
+47,La Liga,Real Sociedad,Brais Méndez,6,5.8,5,20,36,16.67,6.9
+48,La Liga,Valencia,Largie Ramazani,6,6.71,4,21,45,13.33,6.85
+49,La Liga,Espanyol,Pere Milla,6,6.62,7,7,55,10.91,6.71
+50,La Liga,Getafe,Mauro Arambarri,6,6.89,5,27,54,11.11,6.7
+51,La Liga,Athletic Club,Robert Navarro,6,3.86,0,18,18,33.33,6.67
+52,La Liga,Espanyol,Kike García,6,8.02,11,9,57,10.53,6.65
+53,La Liga,Real Oviedo,Ilyas Chaira,6,6.55,6,29,74,8.11,6.62
+54,La Liga,Espanyol,Roberto Fernández,6,8.04,7,9,55,10.91,6.6
+55,La Liga,Real Madrid,Federico Valverde,5,2.87,1,22,50,10.0,7.31
+56,La Liga,Girona FC,Azzedine Ounahi,5,2.83,0,53,40,12.5,7.2
+57,La Liga,Deportivo Alavés,Carlos Vicente,5,3.56,1,11,12,41.67,6.95
+58,La Liga,Espanyol,Carlos Romero,5,2.58,2,39,36,13.89,6.92
+59,La Liga,Atlético Madrid,Nicolás González,5,4.21,6,24,43,11.63,6.9
+60,La Liga,Celta Vigo,Iago Aspas,5,4.4,2,11,27,18.52,6.87
+61,La Liga,Osasuna,Victor Muñoz,5,5.71,9,74,77,6.49,6.79
+62,La Liga,Sevilla,Djibril Sow,5,1.7,1,6,17,29.41,6.77
+63,La Liga,Real Madrid,Jude Bellingham,4,6.92,8,34,48,8.33,7.25
+64,La Liga,Real Madrid,Arda Güler,4,4.57,3,27,49,8.16,7.19
+65,La Liga,Villarreal,Pape Gueye,4,3.85,4,15,44,9.09,7.08
+66,La Liga,Real Sociedad,Carlos Soler,4,2.51,4,13,34,11.76,7.0
+67,La Liga,Elche,Germán Valera,4,2.47,1,35,25,16.0,6.97
+68,La Liga,Atlético Madrid,Giuliano Simeone,4,4.84,7,28,34,11.76,6.92
+69,La Liga,Real Betis,Aitor Ruibal,4,3.85,3,15,31,12.9,6.83
+70,La Liga,Celta Vigo,Hugo Álvarez,4,2.44,3,13,11,36.36,6.81
+71,La Liga,Rayo Vallecano,Álvaro García,4,6.5,8,4,47,8.51,6.77
+72,La Liga,Getafe,Martín Satriano,4,2.78,1,20,28,14.29,6.77
+73,La Liga,Celta Vigo,Williot Swedberg,4,3.46,3,9,20,20.0,6.73
+74,La Liga,Real Oviedo,Alberto Reina,4,3.17,3,13,20,20.0,6.68
+75,La Liga,Getafe,Borja Mayoral,4,2.92,3,6,14,28.57,6.65
+76,La Liga,Sevilla,Alexis Sánchez,4,3.2,3,7,23,17.39,6.62
+77,La Liga,Real Madrid,Gonzalo García,4,4.2,5,2,16,25.0,6.59
+78,La Liga,Athletic Club,Oihan Sancet,4,6.25,7,16,45,8.89,6.57
+79,La Liga,Sevilla,Isaac Romero,4,5.14,8,9,38,10.53,6.49
+80,La Liga,Osasuna,Alejandro Catena,3,2.5,1,6,17,17.65,6.96
+81,La Liga,FC Barcelona,Ronald Araújo,3,1.39,2,0,11,27.27,6.89
+82,La Liga,Villarreal,Santi Comesaña,3,4.15,4,11,26,11.54,6.87
+83,La Liga,Real Sociedad,Ander Barrenetxea,3,2.45,5,52,33,9.09,6.86
+84,La Liga,Levante UD,Carlos Álvarez,3,2.72,2,19,30,10.0,6.81
+85,La Liga,Atlético Madrid,Thiago Almada,3,3.72,5,20,21,14.29,6.8
+86,La Liga,Espanyol,Leandro Cabrera,3,2.65,5,6,38,7.89,6.79
+87,La Liga,Real Sociedad,Luka Sučić,3,1.53,2,11,19,15.79,6.78
+88,La Liga,Valencia,Arnaut Danjuma,3,4.66,8,27,36,8.33,6.77
+89,La Liga,Mallorca,Pablo Torre,3,1.24,3,14,20,15.0,6.77
+90,La Liga,Sevilla,Ruben Vargas,3,2.97,0,17,36,8.33,6.75
+91,La Liga,Girona FC,Joel Roca,3,3.04,4,31,37,8.11,6.74
+92,La Liga,Girona FC,Thomas Lemar,3,1.88,1,19,16,18.75,6.73
+93,La Liga,Rayo Vallecano,Isi Palazón,3,5.3,6,23,53,5.66,6.73
+94,La Liga,Villarreal,Ayoze Pérez,3,4.69,5,10,19,15.79,6.68
+95,La Liga,Levante UD,Iker Losada,3,1.69,2,4,13,23.08,6.68
+96,La Liga,Valencia,Diego López,3,2.29,4,11,23,13.04,6.67
+97,La Liga,Rayo Vallecano,Sergio Camello,3,2.09,4,14,17,17.65,6.66
+98,La Liga,Real Betis,Cédric Bakambu,3,3.38,5,1,21,14.29,6.64
+99,La Liga,Getafe,Luis Vázquez,3,1.56,1,3,19,15.79,6.64
+100,La Liga,Valencia,Umar Sadiq,3,3.19,5,13,26,11.54,6.63
+101,La Liga,Girona FC,Cristhian Stuani,3,4.64,6,2,12,25.0,6.63
+102,La Liga,Getafe,Adrian Liso,3,2.08,2,15,26,11.54,6.54
+103,La Liga,FC Barcelona,Pedri,2,1.57,4,36,21,9.52,7.58
+104,La Liga,Real Madrid,Dean Huijsen,2,2.26,2,2,20,10.0,7.31
+105,La Liga,Real Madrid,Éder Militão,2,1.78,1,3,21,9.52,7.27
+106,La Liga,Elche,Aleix Febas,2,2.06,1,49,22,9.09,7.18
+107,La Liga,Atlético Madrid,Koke,2,0.55,0,3,12,16.67,7.14
+108,La Liga,Valencia,Guido Rodríguez,2,0.87,0,6,12,16.67,7.09
+109,La Liga,Real Sociedad,Takefusa Kubo,2,2.35,2,35,27,7.41,7.06
+110,La Liga,Real Madrid,Álvaro Carreras,2,0.31,0,16,8,25.0,7.03
+111,La Liga,Valencia,Pepelu,2,3.52,2,7,23,8.7,7.03
+112,La Liga,Real Betis,Giovani Lo Celso,2,2.42,2,15,28,7.14,7.01
+113,La Liga,Atlético Madrid,Alex Baena,2,1.83,1,13,24,8.33,7.0
+114,La Liga,Rayo Vallecano,Pathé Ismaël Ciss,2,3.18,6,5,18,11.11,6.98
+115,La Liga,Real Madrid,Raúl Asencio,2,1.24,2,1,14,14.29,6.97
+116,La Liga,Levante UD,Adrián de la Fuente,2,3.04,3,5,34,5.88,6.94
+117,La Liga,Deportivo Alavés,Antonio Blanco,2,1.15,0,22,37,5.41,6.89
+118,La Liga,FC Barcelona,Marc Bernal,2,1.0,1,10,6,33.33,6.89
+119,La Liga,Valencia,Eray Cömert,2,1.13,0,0,9,22.22,6.82
+120,La Liga,Celta Vigo,Javier Rueda,2,1.3,2,18,11,18.18,6.82
+121,La Liga,Osasuna,Rubén García,2,1.75,2,14,26,7.69,6.81
+122,La Liga,Valencia,Luis Rioja,2,1.92,0,33,36,5.56,6.81
+123,La Liga,Elche,Martim Neto,2,0.84,1,21,12,16.67,6.8
+124,La Liga,Celta Vigo,Sergio Carreira,2,1.47,2,22,13,15.38,6.8
+125,La Liga,Athletic Club,Aitor Paredes,2,1.11,1,3,13,15.38,6.8
+126,La Liga,Sevilla,Peque Fernández,2,0.97,0,16,14,14.29,6.8
+127,La Liga,Athletic Club,Mikel Jauregizar,2,1.47,0,10,32,6.25,6.79
+128,La Liga,Levante UD,Víctor García,2,1.96,1,12,19,10.53,6.79
+129,La Liga,Mallorca,Manu Morlanes,2,1.85,1,8,11,18.18,6.79
+130,La Liga,Deportivo Alavés,Nahuel Tenaglia,2,1.43,1,10,19,10.53,6.79
+131,La Liga,Real Betis,Héctor Bellerín,2,0.38,0,6,6,33.33,6.78
+132,La Liga,Atlético Madrid,Nahuel Molina,2,0.48,1,15,14,14.29,6.77
+133,La Liga,Rayo Vallecano,Pacha,2,1.57,3,15,18,11.11,6.77
+134,La Liga,Atlético Madrid,Ademola Lookman,2,2.52,2,5,17,11.76,6.74
+135,La Liga,Espanyol,Tyrhys Dolan,2,2.4,2,34,32,6.25,6.74
+136,La Liga,Sevilla,Neal Maupay,2,1.46,2,3,11,18.18,6.73
+137,La Liga,Sevilla,Nemanja Gudelj,2,1.29,0,5,30,6.67,6.69
+138,La Liga,Rayo Vallecano,Nobel Mendy,2,1.58,2,3,11,18.18,6.68
+139,La Liga,Rayo Vallecano,Randy Nteka,2,1.31,3,2,9,22.22,6.67
+140,La Liga,Mallorca,Mateo Joseph,2,5.09,8,18,33,6.06,6.66
+141,La Liga,Mallorca,Jan Virgili,2,2.33,1,46,32,6.25,6.65
+142,La Liga,Celta Vigo,Jones El-Abdellaoui,2,2.59,3,11,17,11.76,6.65
+143,La Liga,Atlético Madrid,Conor Gallagher,2,1.11,1,3,13,15.38,6.64
+144,La Liga,Espanyol,Pol Lozano,2,0.75,0,3,16,12.5,6.64
+145,La Liga,Athletic Club,Álex Berenguer,2,4.08,7,20,41,4.88,6.63
+146,La Liga,Real Oviedo,Salomón Rondón,2,3.03,4,9,24,8.33,6.61
+147,La Liga,Espanyol,Javi Puado,2,3.47,6,5,15,13.33,6.59
+148,La Liga,Celta Vigo,Pablo Durán,2,3.89,5,7,33,6.06,6.58
+149,La Liga,Rayo Vallecano,Fran Pérez,2,1.66,2,13,15,13.33,6.58
+150,La Liga,Athletic Club,Iñaki Williams,2,4.83,9,9,48,4.17,6.58
+151,La Liga,Villarreal,Alfon González,2,1.75,2,6,17,11.76,6.57
+152,La Liga,Villarreal,Tani Oluwaseyi,2,3.24,6,8,15,13.33,6.52
+153,La Liga,Getafe,Mario Martín,2,2.01,2,12,25,8.0,6.52
+154,La Liga,Rayo Vallecano,Alemão,2,3.16,5,6,19,10.53,6.46
+155,La Liga,Atlético Madrid,Iker Luque,1,0.4,1,0,3,33.33,7.5
+156,La Liga,FC Barcelona,Frenkie de Jong,1,1.17,0,5,7,14.29,7.31
+157,La Liga,Real Madrid,Aurélien Tchouaméni,1,2.36,4,3,39,2.56,7.24
+158,La Liga,Getafe,Christantus Uche,1,1.42,1,6,6,16.67,7.2
+159,La Liga,Sevilla,Dodi Lukebakio,1,0.08,0,1,2,50.0,7.2
+160,La Liga,FC Barcelona,João Cancelo,1,0.37,0,21,11,9.09,7.18
+161,La Liga,FC Barcelona,Pau Cubarsí,1,0.54,0,1,10,10.0,7.18
+162,La Liga,FC Barcelona,Eric García,1,2.92,3,2,24,4.17,7.09
+163,La Liga,Espanyol,Edu Expósito,1,2.09,3,30,39,2.56,7.07
+164,La Liga,Villarreal,Rafa Marín,1,0.37,0,1,5,20.0,7.05
+165,La Liga,Real Sociedad,Álvaro Odriozola,1,0.52,0,0,1,100.0,7.05
+166,La Liga,Real Betis,Diego Llorente,1,0.8,0,0,3,33.33,7.05
+167,La Liga,Celta Vigo,Marcos Alonso,1,2.12,1,15,22,4.55,7.04
+168,La Liga,Real Oviedo,Eric Bailly,1,0.29,0,5,4,25.0,7.03
+169,La Liga,Atlético Madrid,Pablo Barrios,1,1.79,1,33,23,4.35,7.02
+170,La Liga,Real Madrid,Eduardo Camavinga,1,1.14,0,13,12,8.33,7.0
+171,La Liga,Rayo Vallecano,Florian Lejeune,1,2.12,1,8,45,2.22,6.99
+172,La Liga,Villarreal,Santiago Mouriño,1,1.06,0,13,14,7.14,6.98
+173,La Liga,Athletic Club,Iñigo Ruiz de Galarreta,1,0.71,0,30,20,5.0,6.98
+174,La Liga,Real Betis,Sergi Altimira,1,0.31,0,4,6,16.67,6.98
+175,La Liga,Sevilla,Kike Salas,1,1.06,0,7,15,6.67,6.98
+176,La Liga,Real Betis,Marc Bartra,1,0.78,0,6,16,6.25,6.97
+177,La Liga,Elche,Gonzalo Villar,1,0.2,0,5,3,33.33,6.97
+178,La Liga,Atlético Madrid,Miguel Llorente,1,0.18,0,1,3,33.33,6.95
+179,La Liga,Celta Vigo,Miguel Román,1,0.91,1,3,8,12.5,6.95
+180,La Liga,Mallorca,Pablo Maffeo,1,0.41,0,31,7,14.29,6.95
+181,La Liga,Sevilla,Andres Castrin,1,0.42,0,7,9,11.11,6.94
+182,La Liga,Osasuna,Iker Benito,1,0.6,0,1,2,50.0,6.93
+183,La Liga,Celta Vigo,Óscar Mingueza,1,0.63,0,14,14,7.14,6.93
+184,La Liga,Elche,David Affengruber,1,0.84,2,9,13,7.69,6.92
+185,La Liga,Real Madrid,Rodrygo,1,2.58,3,18,27,3.7,6.92
+186,La Liga,FC Barcelona,Jules Koundé,1,1.62,5,19,13,7.69,6.91
+187,La Liga,Real Madrid,Antonio Rüdiger,1,0.91,1,0,12,8.33,6.91
+188,La Liga,Mallorca,Sergi Darder,1,2.0,2,34,34,2.94,6.91
+189,La Liga,Elche,Pedro Bigas,1,0.67,1,3,10,10.0,6.88
+190,La Liga,Girona FC,Vitor Reis,1,1.47,4,7,16,6.25,6.87
+191,La Liga,Celta Vigo,Bryan Zaragoza,1,2.01,0,27,26,3.85,6.86
+192,La Liga,Elche,Adam Boayar,1,0.3,0,1,5,20.0,6.86
+193,La Liga,Levante UD,Kervin Arriaga,1,0.38,0,8,10,10.0,6.86
+194,La Liga,Elche,Lucas Cepeda,1,0.89,1,5,13,7.69,6.86
+195,La Liga,Girona FC,Axel Witsel,1,2.39,5,8,20,5.0,6.85
+196,La Liga,Getafe,Juan Iglesias,1,1.0,0,27,23,4.35,6.85
+197,La Liga,Levante UD,Pablo Martínez,1,1.91,1,12,28,3.57,6.84
+198,La Liga,Valencia,Baptiste Santamaria,1,0.37,0,6,6,16.67,6.83
+199,La Liga,Real Betis,Álvaro Fidalgo,1,0.51,0,2,4,25.0,6.83
+200,La Liga,Girona FC,Fran Beltrán,1,0.53,0,7,12,8.33,6.83
+201,La Liga,Girona FC,Arnau Martínez,1,0.95,0,10,16,6.25,6.83
+202,La Liga,Mallorca,Omar Mascarell,1,0.18,0,5,4,25.0,6.82
+203,La Liga,Rayo Vallecano,Óscar Valentín,1,1.01,0,3,13,7.69,6.82
+204,La Liga,Sevilla,Chidera Ejuke,1,1.56,2,55,22,4.55,6.82
+205,La Liga,Atlético Madrid,Robin Le Normand,1,0.62,1,0,6,16.67,6.82
+206,La Liga,Elche,Marc Aguado,1,0.21,0,0,3,33.33,6.82
+207,La Liga,Villarreal,Manor Solomon,1,0.42,0,6,2,50.0,6.82
+208,La Liga,Valencia,Mouctar Diakhaby,1,0.53,0,1,4,25.0,6.81
+209,La Liga,Real Sociedad,Jon Martin,1,1.92,4,8,14,7.14,6.81
+210,La Liga,Real Sociedad,Duje Ćaleta-Car,1,1.14,1,0,12,8.33,6.81
+211,La Liga,Real Betis,Marc Roca,1,1.29,2,11,14,7.14,6.81
+212,La Liga,Rayo Vallecano,Josep Chavarría,1,0.61,1,16,18,5.56,6.81
+213,La Liga,Girona FC,Claudio Echeverri,1,1.84,1,16,16,6.25,6.81
+214,La Liga,Osasuna,Enzo Boyomo,1,0.81,0,3,8,12.5,6.81
+215,La Liga,Real Oviedo,David Costas,1,0.68,1,7,2,50.0,6.8
+216,La Liga,Sevilla,Lucien Agoumé,1,0.89,0,11,15,6.67,6.8
+217,La Liga,Levante UD,Jon Ander Olasagasti,1,1.51,3,9,24,4.17,6.79
+218,La Liga,Espanyol,Miguel Rubio,1,0.72,0,1,2,50.0,6.77
+219,La Liga,Villarreal,Alfonso Pedraza,1,1.13,1,18,11,9.09,6.77
+220,La Liga,Atlético Madrid,Javier Boñar,1,0.33,0,1,2,50.0,6.77
+221,La Liga,Real Oviedo,Leander Dendoncker,1,0.8,1,4,9,11.11,6.76
+222,La Liga,Villarreal,Sergi Cardona,1,0.97,0,4,16,6.25,6.76
+223,La Liga,Real Betis,Valentín Gómez,1,0.74,1,12,10,10.0,6.75
+224,La Liga,Real Oviedo,David Carmo,1,0.91,0,2,10,10.0,6.75
+225,La Liga,Real Sociedad,Jon Gorrotxategi,1,0.79,0,10,13,7.69,6.74
+226,La Liga,Osasuna,Abel Bretones,1,0.63,0,13,11,9.09,6.74
+227,La Liga,Celta Vigo,Ilaix Moriba,1,1.36,2,13,17,5.88,6.74
+228,La Liga,FC Barcelona,Roony Bardghji,1,1.34,3,19,20,5.0,6.72
+229,La Liga,Sevilla,Oso,1,1.07,1,10,12,8.33,6.72
+230,La Liga,Athletic Club,Alejandro Rego Mora,1,0.41,0,6,11,9.09,6.71
+231,La Liga,Elche,Tete Morente,1,0.51,0,7,7,14.29,6.71
+232,La Liga,Celta Vigo,Fer López,1,0.82,1,19,9,11.11,6.7
+233,La Liga,Levante UD,José Luis Morales,1,2.21,4,9,11,9.09,6.7
+234,La Liga,Deportivo Alavés,Pablo Ibáñez,1,4.15,3,31,45,2.22,6.69
+235,La Liga,Girona FC,Hugo Rincón,1,0.86,2,9,7,14.29,6.69
+236,La Liga,Valencia,Javier Guerra,1,1.76,2,19,19,5.26,6.69
+237,La Liga,Real Madrid,Franco Mastantuono,1,2.61,3,18,27,3.7,6.69
+238,La Liga,Deportivo Alavés,Denis Suárez,1,0.94,2,23,8,12.5,6.69
+239,La Liga,Levante UD,Unai Elgezabal,1,0.67,1,0,3,33.33,6.68
+240,La Liga,Sevilla,Batista Mendy,1,1.14,0,10,17,5.88,6.68
+241,La Liga,Deportivo Alavés,Ángel Pérez,1,0.81,1,16,10,10.0,6.68
+242,La Liga,Athletic Club,Dani Vivian,1,1.17,2,5,16,6.25,6.67
+243,La Liga,Deportivo Alavés,Abderrahman Rebbach,1,2.2,3,13,32,3.13,6.67
+244,La Liga,Real Madrid,Fran García,1,0.75,1,2,5,20.0,6.66
+245,La Liga,Real Sociedad,Jon Aramburu,1,1.89,2,10,20,5.0,6.65
+246,La Liga,Elche,Hector Fort,1,0.58,1,8,11,9.09,6.65
+247,La Liga,Osasuna,Valentin Rosier,1,0.48,1,24,14,7.14,6.65
+248,La Liga,Sevilla,José Ángel Carmona,1,0.77,1,15,20,5.0,6.64
+249,La Liga,Athletic Club,Nico Serrano,1,0.65,0,6,15,6.67,6.63
+250,La Liga,Deportivo Alavés,Ander Guevara,1,0.24,0,5,5,20.0,6.63
+251,La Liga,Getafe,Domingos Duarte,1,0.83,0,0,12,8.33,6.62
+252,La Liga,Real Betis,Rodrigo Riquelme,1,2.16,4,11,24,4.17,6.61
+253,La Liga,Osasuna,Asier Osambela,1,0.29,0,0,3,33.33,6.61
+254,La Liga,Espanyol,Ramón Terrats,1,1.45,0,8,14,7.14,6.6
+255,La Liga,Osasuna,Kike Barja,1,0.58,0,5,5,20.0,6.6
+256,La Liga,Espanyol,Jofre Carreras,1,1.79,0,16,20,5.0,6.6
+257,La Liga,Real Betis,Chimy Ávila,1,1.61,2,0,8,12.5,6.6
+258,La Liga,Valencia,Lucas Beltrán,1,4.05,7,16,34,2.94,6.59
+259,La Liga,Valencia,José Luis Gayà,1,0.81,1,11,13,7.69,6.58
+260,La Liga,Getafe,Juanmi,1,0.15,2,1,2,50.0,6.58
+261,La Liga,Levante UD,Goduine Koyalipou,1,1.02,1,9,10,10.0,6.57
+262,La Liga,Atlético Madrid,Rodrigo Mendoza,1,1.27,0,20,16,6.25,6.57
+263,La Liga,Getafe,Kiko Femenía,1,0.69,1,7,8,12.5,6.56
+264,La Liga,Elche,John Donald,1,0.73,1,2,6,16.67,6.55
+265,La Liga,Elche,Grady Diangana,1,1.01,1,7,14,7.14,6.54
+266,La Liga,Athletic Club,Unai Gómez,1,1.54,2,5,14,7.14,6.54
+267,La Liga,Mallorca,Takuma Asano,1,1.37,2,2,11,9.09,6.54
+268,La Liga,Levante UD,Manuel Sánchez,1,0.77,1,12,13,7.69,6.54
+269,La Liga,Levante UD,Jeremy Toljan,1,0.97,0,5,9,11.11,6.54
+270,La Liga,Espanyol,Charles Pickel,1,0.8,1,4,9,11.11,6.52
+271,La Liga,Levante UD,Alan Matturro,1,0.62,0,0,8,12.5,6.52
+272,La Liga,Elche,Adrià Pedrosa,1,0.54,1,5,11,9.09,6.5
+273,La Liga,Mallorca,Mateu Morey,1,0.3,0,4,4,25.0,6.5
+274,La Liga,Athletic Club,Maroan Sannadi,1,1.1,0,1,8,12.5,6.48
+275,La Liga,Deportivo Alavés,Ibrahim Diabaté,1,1.24,2,1,10,10.0,6.47
+276,La Liga,Real Oviedo,Luka Ilić,1,0.69,3,3,9,11.11,6.44
+277,La Liga,Osasuna,Aitor Fernández,0,,0,1,0,0.0,8.4
+278,La Liga,Levante UD,Pablo Cuñat,0,,0,0,0,0.0,7.75
+279,La Liga,Elche,Matías Dituro,0,,0,0,0,0.0,7.45
+280,La Liga,Rayo Vallecano,Dani Cárdenas,0,,0,0,0,0.0,7.43
+281,La Liga,FC Barcelona,Joan García,0,,0,1,0,0.0,7.35
+282,La Liga,Real Oviedo,Aarón Escandell,0,,0,2,0,0.0,7.25
+283,La Liga,Getafe,David Soria,0,,0,0,0,0.0,7.21
+284,La Liga,Levante UD,Mathew Ryan,0,0.16,0,0,2,0.0,7.2
+285,La Liga,Atlético Madrid,Marc Pubill,0,0.23,0,3,8,0.0,7.19
+286,La Liga,Elche,Iñaki Peña,0,,0,0,0,0.0,7.19
+287,La Liga,FC Barcelona,Wojciech Szczęsny,0,,0,0,0,0.0,7.17
+288,La Liga,Villarreal,Juan Foyth,0,0.12,0,3,2,0.0,7.15
+289,La Liga,Villarreal,Yéremy Pino,0,0.16,0,0,2,0.0,7.1
+290,La Liga,Girona FC,Vladyslav Krapyvtsov,0,,0,0,0,0.0,7.1
+291,La Liga,Real Madrid,Andriy Lunin,0,,0,0,0,0.0,7.08
+292,La Liga,Valencia,Stole Dimitrievski,0,,0,0,0,0.0,7.08
+293,La Liga,Real Betis,Pau López,0,,0,0,0,0.0,7.08
+294,La Liga,Espanyol,Marko Dmitrović,0,,0,0,0,0.0,7.07
+295,La Liga,Girona FC,Paulo Gazzaniga,0,,0,0,0,0.0,7.07
+296,La Liga,Mallorca,Leo Román,0,,0,0,0,0.0,7.07
+297,La Liga,Mallorca,Lucas Bergström,0,,0,0,0,0.0,7.06
+298,La Liga,FC Barcelona,Gerard Martín,0,0.17,0,5,6,0.0,7.04
+299,La Liga,Getafe,Luis Milla,0,1.05,1,20,20,0.0,7.03
+300,La Liga,Celta Vigo,Ionuț Radu,0,,0,1,0,0.0,7.01
+301,La Liga,Osasuna,Sergio Herrera,0,,0,0,0,0.0,7.01
+302,La Liga,Celta Vigo,Hugo Sotelo,0,0.09,0,1,2,0.0,7.01
+303,La Liga,Atlético Madrid,Jan Oblak,0,,0,0,0,0.0,7.0
+304,La Liga,Real Madrid,Daniel Yañez,0,,0,0,0,0.0,7.0
+305,La Liga,Villarreal,Adrià Altimira,0,,0,0,0,0.0,7.0
+306,La Liga,Real Betis,Álvaro Valles,0,,0,1,0,0.0,7.0
+307,La Liga,Villarreal,Luiz Júnior,0,,0,0,0,0.0,6.99
+308,La Liga,Rayo Vallecano,Augusto Batalla,0,,0,4,0,0.0,6.99
+309,La Liga,Real Betis,Sofyan Amrabat,0,0.25,0,5,7,0.0,6.99
+310,La Liga,Villarreal,Arnau Tenas,0,,0,0,0,0.0,6.99
+311,La Liga,Real Sociedad,Álex Remiro,0,,0,1,0,0.0,6.96
+312,La Liga,Sevilla,Odysseas Vlachodimos,0,,0,1,0,0.0,6.96
+313,La Liga,Atlético Madrid,Marcos Llorente,0,1.98,2,13,18,0.0,6.96
+314,La Liga,Girona FC,Daley Blind,0,0.26,0,12,5,0.0,6.95
+315,La Liga,Mallorca,Antonio Raíllo,0,0.54,1,0,12,0.0,6.95
+316,La Liga,Athletic Club,Yuri Berchiche,0,0.53,0,9,22,0.0,6.95
+317,La Liga,Deportivo Alavés,Antonio Sivera,0,,0,0,0,0.0,6.95
+318,La Liga,Real Madrid,Dani Ceballos,0,0.04,0,3,3,0.0,6.94
+319,La Liga,Atlético Madrid,José María Giménez,0,1.74,3,2,13,0.0,6.93
+320,La Liga,Real Madrid,Thibaut Courtois,0,,0,0,0,0.0,6.92
+321,La Liga,Valencia,André Almeida,0,0.59,1,15,9,0.0,6.92
+322,La Liga,Athletic Club,Aymeric Laporte,0,1.61,2,2,14,0.0,6.92
+323,La Liga,Valencia,Julen Agirrezabala,0,,0,0,0,0.0,6.91
+324,La Liga,Celta Vigo,Alvaro Núñez,0,0.29,0,15,6,0.0,6.91
+325,La Liga,Sevilla,César Azpilicueta,0,0.01,0,1,1,0.0,6.9
+326,La Liga,Villarreal,Willy Kambwala,0,,0,0,0,0.0,6.9
+327,La Liga,Osasuna,Moi Gómez,0,0.39,0,9,11,0.0,6.9
+328,La Liga,Athletic Club,Unai Simón,0,,0,0,0,0.0,6.89
+329,La Liga,FC Barcelona,Pablo Gavi,0,,0,0,0,0.0,6.89
+330,La Liga,Atlético Madrid,Juan Musso,0,,0,0,0,0.0,6.88
+331,La Liga,Rayo Vallecano,Andrei Rațiu,0,2.19,3,56,29,0.0,6.88
+332,La Liga,Real Oviedo,Dani Calvo,0,0.19,0,1,2,0.0,6.86
+333,La Liga,Girona FC,Alejandro Francés,0,0.56,1,7,9,0.0,6.86
+334,La Liga,Celta Vigo,Carl Starfelt,0,0.55,2,1,4,0.0,6.86
+335,La Liga,Osasuna,Jon Moncayola,0,1.96,3,12,22,0.0,6.86
+336,La Liga,Villarreal,Dani Parejo,0,0.17,0,8,2,0.0,6.86
+337,La Liga,Levante UD,Ugo Raghouber,0,0.07,0,9,3,0.0,6.85
+338,La Liga,Real Madrid,Trent Alexander-Arnold,0,0.26,0,5,8,0.0,6.85
+339,La Liga,Osasuna,Javi Galán,0,0.19,0,37,5,0.0,6.85
+340,La Liga,Atlético Madrid,Johnny Cardoso,0,0.08,0,5,2,0.0,6.84
+341,La Liga,Elche,Víctor Chust,0,0.41,1,7,8,0.0,6.84
+342,La Liga,Girona FC,Iván Martín,0,0.84,2,25,11,0.0,6.84
+343,La Liga,Valencia,Filip Ugrinić,0,0.9,0,15,18,0.0,6.83
+344,La Liga,Athletic Club,Yeray Álvarez,0,,0,0,0,0.0,6.83
+345,La Liga,Atlético Madrid,Dávid Hancko,0,1.27,2,8,20,0.0,6.83
+346,La Liga,Real Oviedo,Haissem Hassan,0,1.54,2,56,31,0.0,6.83
+347,La Liga,Osasuna,Aimar Oroz,0,1.63,0,28,28,0.0,6.83
+348,La Liga,Villarreal,Alexander Freeman,0,0.02,0,3,1,0.0,6.83
+349,La Liga,Levante UD,Matias Moreno,0,0.96,2,4,10,0.0,6.82
+350,La Liga,Espanyol,Fernando Calero,0,1.76,4,2,12,0.0,6.82
+351,La Liga,Atlético Madrid,Obed Vargas,0,0.12,0,5,3,0.0,6.82
+352,La Liga,Real Sociedad,Sergio Gómez,0,0.96,2,12,11,0.0,6.81
+353,La Liga,Real Sociedad,Beñat Turrientes,0,0.74,0,19,19,0.0,6.81
+354,La Liga,Real Betis,Nelson Deossa,0,0.45,0,28,17,0.0,6.81
+355,La Liga,Getafe,Zaid Romero,0,0.48,0,11,6,0.0,6.81
+356,La Liga,Atlético Madrid,Clément Lenglet,0,0.24,0,3,4,0.0,6.81
+357,La Liga,Elche,Josan,0,0.26,0,7,3,0.0,6.8
+358,La Liga,Mallorca,Zito Luvumbo,0,0.4,1,9,6,0.0,6.8
+359,La Liga,Sevilla,Gabriel Suazo,0,0.47,0,14,5,0.0,6.8
+360,La Liga,Real Oviedo,Nicolas Fonseca,0,0.33,0,2,7,0.0,6.79
+361,La Liga,Villarreal,Renato Veiga,0,0.28,0,0,9,0.0,6.78
+362,La Liga,Real Betis,Isco,0,0.11,0,1,3,0.0,6.78
+363,La Liga,FC Barcelona,Andreas Christensen,0,0.08,0,0,2,0.0,6.78
+364,La Liga,Real Oviedo,Santiago Colombatto,0,0.61,0,5,14,0.0,6.78
+365,La Liga,Real Oviedo,Santi Cazorla,0,0.36,0,8,7,0.0,6.78
+366,La Liga,Rayo Vallecano,Unai López,0,0.85,1,12,21,0.0,6.78
+367,La Liga,Atlético Madrid,Matteo Ruggeri,0,0.14,0,4,5,0.0,6.77
+368,La Liga,Celta Vigo,Javi Rodríguez,0,0.67,1,6,12,0.0,6.77
+369,La Liga,Deportivo Alavés,Jon Pacheco,0,0.3,0,3,4,0.0,6.77
+370,La Liga,Real Madrid,Dani Carvajal,0,0.36,1,1,5,0.0,6.76
+371,La Liga,Espanyol,Clemens Riedel,0,0.13,0,1,3,0.0,6.76
+372,La Liga,Villarreal,Pau Navarro,0,0.02,0,6,1,0.0,6.75
+373,La Liga,FC Barcelona,Alejandro Balde,0,0.3,0,21,8,0.0,6.75
+374,La Liga,Mallorca,Jan Salas,0,,0,1,0,0.0,6.75
+375,La Liga,Real Oviedo,Lucas Ahijado,0,0.92,2,11,8,0.0,6.74
+376,La Liga,Rayo Vallecano,Iván Balliu,0,0.33,1,4,2,0.0,6.74
+377,La Liga,Real Betis,Angel Ortiz,0,0.04,0,7,1,0.0,6.74
+378,La Liga,FC Barcelona,Marc Casadó,0,0.84,1,2,10,0.0,6.73
+379,La Liga,Celta Vigo,Matías Vecino,0,0.08,0,0,2,0.0,6.73
+380,La Liga,Getafe,Abdel Abqar,0,0.3,1,2,7,0.0,6.73
+381,La Liga,Valencia,Unai Núñez,0,0.21,1,0,5,0.0,6.72
+382,La Liga,Osasuna,Lucas Torró,0,1.24,1,8,21,0.0,6.72
+383,La Liga,Girona FC,Yáser Asprilla,0,0.58,0,13,15,0.0,6.72
+384,La Liga,Real Madrid,David Alaba,0,0.19,0,0,3,0.0,6.71
+385,La Liga,Mallorca,Johan Mojica,0,0.52,1,15,16,0.0,6.71
+386,La Liga,Levante UD,Oriol Rey,0,0.47,0,1,8,0.0,6.71
+387,La Liga,Osasuna,Iker Muñoz,0,0.33,0,4,8,0.0,6.71
+388,La Liga,Osasuna,Raúl Moro,0,0.23,0,12,6,0.0,6.7
+389,La Liga,Real Madrid,Endrick,0,,0,1,0,0.0,6.7
+390,La Liga,Real Madrid,Víctor Valdepeñas,0,,0,1,0,0.0,6.7
+391,La Liga,Real Sociedad,Job Ochieng,0,,0,0,0,0.0,6.7
+392,La Liga,Sevilla,Federico Gattoni,0,,0,0,0,0.0,6.7
+393,La Liga,Real Oviedo,Omar Falah,0,,0,0,0,0.0,6.7
+394,La Liga,Valencia,Rubén Iranzo,0,,0,0,0,0.0,6.7
+395,La Liga,Celta Vigo,Hugo Burcio,0,,0,0,0,0.0,6.7
+396,La Liga,Girona FC,Marc-André Ter Stegen,0,,0,0,0,0.0,6.7
+397,La Liga,Rayo Vallecano,Samu Becerra,0,,0,0,0,0.0,6.7
+398,La Liga,Sevilla,Adnan Januzaj,0,0.25,0,8,7,0.0,6.7
+399,La Liga,Real Madrid,David Jiménez,0,0.11,1,0,1,0.0,6.7
+400,La Liga,Mallorca,Miguel Calatayud,0,0.05,0,0,1,0.0,6.7
+401,La Liga,Mallorca,Martin Valjent,0,0.77,1,4,15,0.0,6.7
+402,La Liga,Espanyol,Omar El Hilali,0,0.01,0,7,1,0.0,6.7
+403,La Liga,Athletic Club,Jesús Areso,0,0.12,0,13,3,0.0,6.7
+404,La Liga,Levante UD,Unai Vencedor,0,,0,4,0,0.0,6.69
+405,La Liga,Mallorca,David López,0,0.31,0,1,4,0.0,6.69
+406,La Liga,Villarreal,Thomas Partey,0,0.36,0,7,8,0.0,6.69
+407,La Liga,Valencia,César Tárrega,0,0.43,0,9,9,0.0,6.69
+408,La Liga,Osasuna,Jorge Herrando,0,0.29,1,3,3,0.0,6.69
+409,La Liga,Deportivo Alavés,Jonny Otto,0,0.55,2,25,9,0.0,6.69
+410,La Liga,Celta Vigo,Carlos Domínguez,0,0.52,1,0,2,0.0,6.69
+411,La Liga,Getafe,Coba Da Costa,0,0.31,0,10,5,0.0,6.68
+412,La Liga,Espanyol,Rubén Sánchez,0,0.22,0,15,8,0.0,6.68
+413,La Liga,Elche,Léo Pétrot,0,0.64,0,3,8,0.0,6.68
+414,La Liga,Real Betis,Ricardo Rodríguez,0,0.12,0,1,3,0.0,6.68
+415,La Liga,Rayo Vallecano,Luiz Felipe,0,0.38,0,0,3,0.0,6.68
+416,La Liga,Deportivo Alavés,Calebe Gonçalves,0,0.13,0,16,5,0.0,6.68
+417,La Liga,Real Betis,Natan,0,0.5,0,3,10,0.0,6.68
+418,La Liga,Real Oviedo,Ovie Ejaria,0,0.14,0,4,3,0.0,6.68
+419,La Liga,Celta Vigo,Yoel Lago,0,,0,1,0,0.0,6.67
+420,La Liga,Real Oviedo,Thiago Fernández,0,0.52,0,16,12,0.0,6.66
+421,La Liga,Sevilla,Juanlu Sánchez,0,0.81,0,26,14,0.0,6.66
+422,La Liga,Real Madrid,Brahim Díaz,0,0.91,1,15,11,0.0,6.65
+423,La Liga,Sevilla,Ørjan Nyland,0,,0,0,0,0.0,6.65
+424,La Liga,Deportivo Alavés,Carlos Benavídez,0,0.23,0,0,3,0.0,6.65
+425,La Liga,Elche,Mourad El Ghezouani,0,0.07,0,0,1,0.0,6.65
+426,La Liga,Celta Vigo,Manu Fernández,0,0.05,0,1,2,0.0,6.65
+427,La Liga,Celta Vigo,Mihailo Ristić,0,0.02,0,6,1,0.0,6.65
+428,La Liga,Sevilla,Marcão,0,0.71,1,1,10,0.0,6.65
+429,La Liga,Rayo Vallecano,Ilias Akhomach,0,1.94,4,14,24,0.0,6.65
+430,La Liga,Espanyol,Urko González,0,0.7,0,14,16,0.0,6.64
+431,La Liga,Girona FC,Álex Moreno,0,1.48,2,30,15,0.0,6.64
+432,La Liga,Deportivo Alavés,Youssef Enriquez,0,0.79,1,8,11,0.0,6.64
+433,La Liga,Espanyol,Cyril Ngonge,0,0.47,1,5,11,0.0,6.63
+434,La Liga,Getafe,Ismael Bekhoucha,0,0.02,0,2,1,0.0,6.63
+435,La Liga,Osasuna,Juan Cruz,0,0.39,1,2,1,0.0,6.63
+436,La Liga,Getafe,Diego Rico,0,0.33,0,6,11,0.0,6.63
+437,La Liga,Getafe,Sebastián Boselli,0,0.3,1,0,3,0.0,6.63
+438,La Liga,Real Oviedo,Javi López,0,0.45,1,18,6,0.0,6.63
+439,La Liga,Real Sociedad,Yangel Herrera,0,0.4,1,5,6,0.0,6.63
+440,La Liga,Valencia,Jesús Vázquez,0,0.3,0,17,8,0.0,6.63
+441,La Liga,Sevilla,Fábio Cardoso,0,,0,0,0,0.0,6.63
+442,La Liga,Sevilla,Miguel Sierra,0,0.18,0,2,4,0.0,6.63
+443,La Liga,Mallorca,Marash Kumbulla,0,0.1,0,1,3,0.0,6.63
+444,La Liga,Valencia,José Copete,0,1.54,3,7,13,0.0,6.62
+445,La Liga,Real Sociedad,Igor Zubeldia,0,0.26,0,1,6,0.0,6.62
+446,La Liga,Real Oviedo,Nacho Vidal,0,1.62,3,12,14,0.0,6.62
+447,La Liga,Deportivo Alavés,Facundo Garcés,0,0.35,1,0,8,0.0,6.62
+448,La Liga,Real Oviedo,Abdel Rahim,0,0.04,0,7,2,0.0,6.62
+449,La Liga,Rayo Vallecano,Gerard Gumbau,0,0.43,0,6,15,0.0,6.62
+450,La Liga,Real Oviedo,Kwasi Sibo,0,0.36,0,4,9,0.0,6.62
+451,La Liga,Getafe,Djené,0,0.13,0,9,4,0.0,6.61
+452,La Liga,Levante UD,Paco Cortés,0,0.5,0,9,12,0.0,6.61
+453,La Liga,Elche,Alex Sanchez,0,,0,0,0,0.0,6.6
+454,La Liga,Getafe,Álex Sola,0,,0,0,0,0.0,6.6
+455,La Liga,Elche,Jairo Izquierdo,0,,0,0,0,0.0,6.6
+456,La Liga,Real Oviedo,Borja Sánchez,0,,0,0,0,0.0,6.6
+457,La Liga,FC Barcelona,Xavi Espart,0,,0,2,0,0.0,6.6
+458,La Liga,Real Madrid,Jorge Cestero,0,,0,0,0,0.0,6.6
+459,La Liga,Real Oviedo,Josip Brekalo,0,0.29,0,4,9,0.0,6.6
+460,La Liga,Real Madrid,César Palacios,0,0.14,0,2,1,0.0,6.6
+461,La Liga,Girona FC,Donny van de Beek,0,0.09,0,0,2,0.0,6.6
+462,La Liga,Elche,Federico Redondo,0,0.07,0,0,1,0.0,6.6
+463,La Liga,Villarreal,Carlos Maciá,0,0.06,0,1,1,0.0,6.6
+464,La Liga,Real Madrid,Manuel Ángel Morán,0,0.05,0,1,2,0.0,6.6
+465,La Liga,Espanyol,Luca Koleosho,0,0.04,0,4,1,0.0,6.6
+466,La Liga,Atlético Madrid,Jano Monserrate,0,0.02,0,1,1,0.0,6.6
+467,La Liga,Athletic Club,Andoni Gorosabel,0,0.25,0,11,5,0.0,6.6
+468,La Liga,Athletic Club,Mikel Vesga,0,0.15,1,6,3,0.0,6.6
+469,La Liga,Sevilla,Manu Bueno,0,0.05,0,1,2,0.0,6.59
+470,La Liga,Mallorca,Marc Domenech,0,0.11,0,1,3,0.0,6.59
+471,La Liga,Valencia,Dani Raba,0,0.41,0,3,10,0.0,6.58
+472,La Liga,Rayo Vallecano,Óscar Trejo,0,0.17,0,0,1,0.0,6.58
+473,La Liga,Elche,Buba Sangare,0,0.1,0,4,1,0.0,6.58
+474,La Liga,Atlético Madrid,Julio Díaz,0,0.03,0,7,1,0.0,6.58
+475,La Liga,FC Barcelona,Dro Fernández,0,,0,4,0,0.0,6.57
+476,La Liga,Getafe,Alejandro Mestanza,0,0.02,0,2,1,0.0,6.57
+477,La Liga,Rayo Vallecano,Pedro Díaz,0,1.53,1,10,39,0.0,6.56
+478,La Liga,Girona FC,Bryan Gil,0,1.8,2,29,21,0.0,6.56
+479,La Liga,Real Betis,Junior Firpo,0,0.46,0,3,5,0.0,6.56
+480,La Liga,Deportivo Alavés,Carles Aleñá,0,2.71,2,13,30,0.0,6.56
+481,La Liga,Osasuna,Sheraldo Becker,0,0.13,0,0,3,0.0,6.56
+482,La Liga,Mallorca,Antonio Sánchez,0,0.4,1,5,6,0.0,6.55
+483,La Liga,Real Madrid,Ferland Mendy,0,,0,2,0,0.0,6.55
+484,La Liga,Athletic Club,Beñat Prados,0,0.03,0,1,1,0.0,6.55
+485,La Liga,Getafe,Javier Muñoz,0,0.36,0,4,13,0.0,6.55
+486,La Liga,Mallorca,Toni Lato,0,,0,7,0,0.0,6.54
+487,La Liga,Valencia,Thierry Correia,0,0.35,0,8,5,0.0,6.53
+488,La Liga,Levante UD,Kareem Tunde,0,1.0,1,14,17,0.0,6.52
+489,La Liga,Real Sociedad,Arsen Zakharyan,0,1.02,2,0,14,0.0,6.52
+490,La Liga,Real Sociedad,Aritz Elustondo,0,0.33,1,0,3,0.0,6.51
+491,La Liga,Mallorca,Javi Llabrés,0,0.49,2,1,5,0.0,6.51
+492,La Liga,FC Barcelona,Tomás Marqués,0,,0,0,0,0.0,6.5
+493,La Liga,Real Madrid,Diego Aguado,0,,0,0,0,0.0,6.5
+494,La Liga,Rayo Vallecano,Abdul Mumin,0,,0,0,0,0.0,6.5
+495,La Liga,Celta Vigo,Hugo González,0,,0,0,0,0.0,6.5
+496,La Liga,Real Sociedad,Ibai Aguirre,0,,0,0,0,0.0,6.5
+497,La Liga,Real Betis,Ivan Corralejo,0,,0,0,0,0.0,6.5
+498,La Liga,Real Oviedo,Marco Esteban,0,,0,0,0,0.0,6.5
+499,La Liga,Getafe,Hugo Solozábal,0,,0,0,0,0.0,6.5
+500,La Liga,Levante UD,Nacho Pérez,0,,0,0,0,0.0,6.5
+501,La Liga,Girona FC,Portu,0,1.36,3,0,9,0.0,6.5
+502,La Liga,Deportivo Alavés,Aitor Mañas,0,0.68,2,2,2,0.0,6.5
+503,La Liga,Atlético Madrid,Javi Morcillo,0,0.25,0,0,2,0.0,6.5
+504,La Liga,Celta Vigo,Damián Rodríguez,0,0.06,0,0,3,0.0,6.5
+505,La Liga,Getafe,José Luis Pérez,0,0.04,0,0,1,0.0,6.5
+506,La Liga,Mallorca,Dani Rodríguez,0,0.02,0,1,1,0.0,6.5
+507,La Liga,Real Betis,Pablo García,0,1.37,1,5,13,0.0,6.49
+508,La Liga,Atlético Madrid,Giacomo Raspadori,0,0.69,1,1,7,0.0,6.49
+509,La Liga,Espanyol,Antoniu Roca,0,0.15,0,8,3,0.0,6.49
+510,La Liga,Real Sociedad,Aihen Muñoz,0,0.44,1,3,5,0.0,6.49
+511,La Liga,Athletic Club,Selton Sanchez,0,0.27,0,1,4,0.0,6.49
+512,La Liga,Girona FC,Jhon Solís,0,0.16,0,3,3,0.0,6.48
+513,La Liga,Levante UD,Tai Abed,0,,0,1,0,0.0,6.48
+514,La Liga,Mallorca,Abdón Prats,0,0.76,1,1,3,0.0,6.48
+515,La Liga,Real Sociedad,Pablo Marín,0,1.25,2,15,13,0.0,6.48
+516,La Liga,Sevilla,Tanguy Nianzou,0,0.48,0,2,9,0.0,6.48
+517,La Liga,Athletic Club,Urko Izeta,0,0.81,2,1,8,0.0,6.47
+518,La Liga,Girona FC,David López,0,0.57,1,1,1,0.0,6.47
+519,La Liga,Mallorca,Justin-Noel Kalumba,0,0.09,0,1,1,0.0,6.47
+520,La Liga,Valencia,Renzo Saravia,0,0.04,0,2,1,0.0,6.47
+521,La Liga,Real Oviedo,Álex Forés,0,1.21,2,3,8,0.0,6.46
+522,La Liga,Getafe,Álex Sancris,0,0.35,0,5,12,0.0,6.46
+523,La Liga,Elche,Yago Santiago,0,0.12,0,4,2,0.0,6.46
+524,La Liga,Rayo Vallecano,Jozhua Vertrouwd,0,0.05,0,0,1,0.0,6.46
+525,La Liga,Deportivo Alavés,Victor Parada,0,0.96,2,7,11,0.0,6.45
+526,La Liga,Girona FC,Juan Arango,0,,0,2,0,0.0,6.45
+527,La Liga,Osasuna,Iñigo Arguibide,0,,0,0,0,0.0,6.45
+528,La Liga,Athletic Club,Eder Garcia,0,0.03,0,0,1,0.0,6.45
+529,La Liga,Athletic Club,Adama Boiro,0,0.02,0,2,1,0.0,6.45
+530,La Liga,Getafe,Veljko Birmančević,0,0.1,0,2,2,0.0,6.44
+531,La Liga,Real Oviedo,Thiago Borbas,0,0.52,1,0,4,0.0,6.44
+532,La Liga,Getafe,Abu Kamara,0,0.48,1,2,4,0.0,6.44
+533,La Liga,Real Oviedo,Oier Luengo,0,0.04,0,0,1,0.0,6.43
+534,La Liga,Getafe,Yvan Neyou,0,,0,0,0,0.0,6.43
+535,La Liga,Girona FC,Abel Ruíz,0,0.25,0,1,5,0.0,6.43
+536,La Liga,Real Sociedad,Jon Karrikaburu,0,0.91,2,0,7,0.0,6.43
+537,La Liga,Real Sociedad,Wesley,0,0.02,0,3,1,0.0,6.42
+538,La Liga,Deportivo Alavés,Jon Guridi,0,1.74,3,6,14,0.0,6.42
+539,La Liga,FC Barcelona,Toni Fernández,0,,0,0,0,0.0,6.4
+540,La Liga,Girona FC,Bojan Miovski,0,,0,0,0,0.0,6.4
+541,La Liga,Real Sociedad,Dani Díaz,0,,0,0,0,0.0,6.4
+542,La Liga,Atlético Madrid,Dani Martinez,0,,0,0,0,0.0,6.4
+543,La Liga,Levante UD,Sergio Lozano,0,,0,0,0,0.0,6.4
+544,La Liga,Getafe,Jorge Montes,0,,0,2,0,0.0,6.4
+545,La Liga,Deportivo Alavés,Ville Koski,0,,0,0,0,0.0,6.4
+546,La Liga,FC Barcelona,Jofre Torrents ,0,,0,0,0,0.0,6.4
+547,La Liga,Deportivo Alavés,Moussa Diarra,0,,0,1,0,0.0,6.4
+548,La Liga,Real Sociedad,Gorka Carrera Zarranz,0,0.34,1,0,1,0.0,6.4
+549,La Liga,Getafe,Allan Nyom,0,0.18,0,1,3,0.0,6.4
+550,La Liga,Girona FC,Dawda Camara,0,0.12,0,0,2,0.0,6.4
+551,La Liga,Athletic Club,Asier Hierro,0,0.07,0,0,1,0.0,6.4
+552,La Liga,Rayo Vallecano,Pelayo Fernández,0,0.04,0,0,1,0.0,6.4
+553,La Liga,Sevilla,Stanis Idumbo Muzambo,0,0.03,0,0,1,0.0,6.4
+554,La Liga,Valencia,Dimitri Foulquier,0,0.57,0,10,6,0.0,6.38
+555,La Liga,Getafe,Davinchi,0,0.21,0,9,3,0.0,6.37
+556,La Liga,Girona FC,Lass Kourouma,0,,0,0,0,0.0,6.36
+557,La Liga,Levante UD,Jorge Cabello,0,,0,2,0,0.0,6.36
+558,La Liga,Deportivo Alavés,Mariano Díaz,0,0.24,0,1,6,0.0,6.36
+559,La Liga,Real Oviedo,Pablo Agudín,0,0.04,0,1,2,0.0,6.36
+560,La Liga,Levante UD,Roger Brugué,0,2.64,5,9,23,0.0,6.36
+561,La Liga,Real Madrid,Thiago Pitarch,0,0.22,0,3,3,0.0,6.36
+562,La Liga,Sevilla,Ramón Martínez,0,,0,0,0,0.0,6.35
+563,La Liga,Sevilla,Joan Jordán,0,,0,0,0,0.0,6.35
+564,La Liga,Espanyol,Jose Salinas,0,0.16,1,3,1,0.0,6.35
+565,La Liga,Levante UD,Diego Pampín,0,0.21,0,6,3,0.0,6.34
+566,La Liga,Celta Vigo,Joseph Aidoo,0,0.24,2,1,2,0.0,6.33
+567,La Liga,Rayo Vallecano,Carlos Martín,0,1.02,1,3,5,0.0,6.31
+568,La Liga,Atlético Madrid,Taufik Seidu,0,,0,0,0,0.0,6.3
+569,La Liga,Real Sociedad,Luken Beitia,0,,0,0,0,0.0,6.3
+570,La Liga,Villarreal,Hugo López,0,,0,0,0,0.0,6.3
+571,La Liga,Elche,Bambo Diaby,0,,0,0,0,0.0,6.3
+572,La Liga,Elche,Ali Houary,0,0.07,0,1,2,0.0,6.3
+573,La Liga,Athletic Club,Íñigo Lekue,0,0.13,0,6,3,0.0,6.29
+574,La Liga,Celta Vigo,Andrés Antañón,0,0.16,1,0,2,0.0,6.25
+575,La Liga,Deportivo Alavés,Carlos Ballestero,0,,0,0,0,0.0,6.2
+576,La Liga,Atlético Madrid,Rayane Belaid,0,0.55,1,2,4,0.0,6.1
+577,La Liga,Deportivo Alavés,Diego Morcillo,0,0.45,1,0,1,0.0,6.1
+578,La Liga,Real Sociedad,Mikel Goti,0,0.35,1,2,3,0.0,6.07
+579,La Liga,Girona FC,Ladislav Krejčí,0,0.12,0,0,1,0.0,5.7
+580,La Liga,Atlético Madrid,Aleksa Purić,0,,0,0,0,0.0,0.0
+581,La Liga,Real Sociedad,Arkaitz Mariezkurrena,0,,0,0,0,0.0,0.0
+582,La Liga,Real Betis,Dani Pérez,0,,0,1,0,0.0,0.0
+583,La Liga,Deportivo Alavés,Lander Pinillos,0,,0,0,0,0.0,0.0
+584,La Liga,Real Sociedad,Lander Astiazaran,0,0.03,0,0,1,0.0,0.0

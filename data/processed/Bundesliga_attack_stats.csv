@@ -1,0 +1,498 @@
+﻿#,League,Team,Name,Goals,Expected goals (xG),Big chances missed,Succ. dribbles,Total shots,Goal conversion %,Average Sofascore rating
+1,Bundesliga,FC Bayern München,Harry Kane,33,26.22,18,31,114,28.95,7.77
+2,Bundesliga,VfB Stuttgart,Deniz Undav,19,16.38,19,9,121,15.7,7.21
+3,Bundesliga,Bayer 04 Leverkusen,Patrik Schick,16,16.1,17,10,68,23.53,6.96
+4,Bundesliga,Borussia Dortmund,Serhou Guirassy,16,15.8,17,12,76,21.05,6.82
+5,Bundesliga,FC Bayern München,Michael Olise,15,11.33,13,64,100,15.0,7.89
+6,Bundesliga,FC Bayern München,Luis Díaz,15,14.47,14,60,85,17.65,7.25
+7,Bundesliga,TSG Hoffenheim,Andrej Kramarić,14,11.24,7,19,62,22.58,7.05
+8,Bundesliga,RB Leipzig,Christoph Baumgartner,13,15.02,20,13,79,16.46,6.96
+9,Bundesliga,RB Leipzig,Yan Diomande,12,6.63,5,115,50,24.0,7.74
+10,Bundesliga,1. FC Köln,Said El Mala,12,10.58,16,42,72,16.67,7.0
+11,Bundesliga,VfB Stuttgart,Ermedin Demirović,12,7.34,9,7,40,30.0,6.95
+12,Bundesliga,Borussia M'gladbach,Haris Tabaković,12,12.62,10,6,65,18.46,6.68
+13,Bundesliga,1. FSV Mainz 05,Nadiem Amiri,11,9.07,2,23,51,21.57,7.4
+14,Bundesliga,Eintracht Frankfurt,Jonathan Burkardt,11,10.38,8,6,38,28.95,6.89
+15,Bundesliga,SV Werder Bremen,Jens Stage,10,5.96,5,11,54,18.52,7.0
+16,Bundesliga,SC Freiburg,Igor Matanović,10,9.23,5,10,51,19.61,6.76
+17,Bundesliga,TSG Hoffenheim,Fisnik Asllani,10,8.26,8,15,72,13.89,6.74
+18,Bundesliga,Borussia Dortmund,Maximilian Beier,9,7.23,10,18,49,18.37,6.82
+19,Bundesliga,RB Leipzig,Rômulo,9,14.22,21,11,62,14.52,6.66
+20,Bundesliga,Bayer 04 Leverkusen,Alejandro Grimaldo,8,6.54,4,25,57,14.04,7.32
+21,Bundesliga,Eintracht Frankfurt,Can Uzun,8,3.58,0,12,40,20.0,7.2
+22,Bundesliga,FC Bayern München,Serge Gnabry,8,6.26,6,16,50,16.0,7.09
+23,Bundesliga,VfL Wolfsburg,Mohamed Amoura,8,8.6,11,16,60,13.33,6.74
+24,Bundesliga,TSG Hoffenheim,Tim Lemperle,8,8.36,9,15,52,15.38,6.6
+25,Bundesliga,VfB Stuttgart,Chris Führich,7,4.01,4,28,43,16.28,7.18
+26,Bundesliga,1. FC Köln,Jakub Kamiński,7,7.01,7,22,62,11.29,7.14
+27,Bundesliga,VfB Stuttgart,Jamie Leweling,7,4.19,1,31,46,15.22,7.05
+28,Bundesliga,Borussia Dortmund,Julian Brandt,7,5.7,3,17,37,18.92,7.0
+29,Bundesliga,SC Freiburg,Vincenzo Grifo,7,5.74,1,10,30,23.33,6.94
+30,Bundesliga,TSG Hoffenheim,Grischa Prömel,7,5.09,5,6,43,16.28,6.88
+31,Bundesliga,1. FC Köln,Ragnar Ache,7,10.34,13,9,52,13.46,6.88
+32,Bundesliga,Borussia Dortmund,Karim Adeyemi,7,4.87,5,27,31,22.58,6.86
+33,Bundesliga,FC Bayern München,Nicolas Jackson,7,6.96,10,11,37,18.92,6.71
+34,Bundesliga,VfL Wolfsburg,Dženan Pejčinović,7,7.34,7,4,46,15.22,6.65
+35,Bundesliga,Hamburger SV,Luka Vušković,6,4.2,5,6,31,19.35,7.28
+36,Bundesliga,VfB Stuttgart,Maximilian Mittelstädt,6,4.4,1,14,31,19.35,7.21
+37,Bundesliga,Hamburger SV,Fábio Vieira,6,4.46,1,32,56,10.71,7.15
+38,Bundesliga,Bayer 04 Leverkusen,Malik Tillman,6,4.48,5,11,33,18.18,6.92
+39,Bundesliga,FC Augsburg,Fabian Rieder,6,4.19,1,19,38,15.79,6.91
+40,Bundesliga,FC Augsburg,Anton Kade,6,6.12,5,21,43,13.95,6.85
+41,Bundesliga,Eintracht Frankfurt,Arnaud Kalimuendo,6,4.04,7,21,30,20.0,6.83
+42,Bundesliga,FC Augsburg,Michael Gregoritsch,6,5.27,6,2,29,20.69,6.79
+43,Bundesliga,1. FC Heidenheim,Budu Zivzivadze,6,4.29,3,12,23,26.09,6.61
+44,Bundesliga,Borussia Dortmund,Nico Schlotterbeck,5,3.72,2,14,32,15.63,7.67
+45,Bundesliga,Borussia Dortmund,Ramy Bensebaini,5,3.11,0,4,17,29.41,7.38
+46,Bundesliga,SC Freiburg,Johan Manzambi,5,3.79,5,30,49,10.2,7.21
+47,Bundesliga,Bayer 04 Leverkusen,Edmond Tapsoba,5,2.44,3,8,28,17.86,7.2
+48,Bundesliga,FC Bayern München,Leon Goretzka,5,4.73,6,10,33,15.15,7.12
+49,Bundesliga,Hamburger SV,Albert Sambi Lokonga,5,1.89,0,8,16,31.25,6.96
+50,Bundesliga,TSG Hoffenheim,Bazoumana Touré,5,4.08,3,43,46,10.87,6.93
+51,Bundesliga,FC Augsburg,Alexis Claude-Maurice,5,6.88,5,44,71,7.04,6.87
+52,Bundesliga,Eintracht Frankfurt,Ritsu Doan,5,3.23,4,33,38,13.16,6.87
+53,Bundesliga,Bayer 04 Leverkusen,Ernest Poku,5,3.05,4,28,27,18.52,6.84
+54,Bundesliga,FC Bayern München,Lennart Karl,5,7.03,9,21,40,12.5,6.81
+55,Bundesliga,1. FC Köln,Luca Waldschmidt,5,5.24,4,4,22,22.73,6.79
+56,Bundesliga,FC Bayern München,Raphaël Guerreiro,5,3.33,0,3,11,45.45,6.79
+57,Bundesliga,VfB Stuttgart,Tiago Tomás,5,5.97,5,13,35,14.29,6.74
+58,Bundesliga,1. FC Union Berlin,Rani Khedira,5,2.04,1,3,23,21.74,6.74
+59,Bundesliga,1. FC Union Berlin,Danilho Doekhi,5,3.86,3,3,42,11.9,6.73
+60,Bundesliga,1. FC Union Berlin,Oliver Burke,5,4.41,6,11,31,16.13,6.72
+61,Bundesliga,FC St. Pauli,Danel Sinani,5,5.06,3,12,51,9.8,6.72
+62,Bundesliga,Bayer 04 Leverkusen,Christian Kofane,5,6.8,11,7,46,10.87,6.71
+63,Bundesliga,SV Werder Bremen,Justin Njinmah,5,6.63,6,20,61,8.2,6.68
+64,Bundesliga,1. FC Union Berlin,Ilyas Ansah,5,3.06,4,25,30,16.67,6.63
+65,Bundesliga,Hamburger SV,Ransford Yeboah Königsdörffer,5,7.63,11,15,65,7.69,6.63
+66,Bundesliga,1. FSV Mainz 05,Paul Nebel,5,4.43,3,20,29,17.24,6.61
+67,Bundesliga,1. FC Heidenheim,Stefan Schimmer,5,5.07,10,1,30,16.67,6.61
+68,Bundesliga,Hamburger SV,Rayan Philippe,5,5.08,4,12,36,13.89,6.59
+69,Bundesliga,1. FSV Mainz 05,Phillip Tietz,5,7.63,18,9,50,10.0,6.42
+70,Bundesliga,TSG Hoffenheim,Wouter Burger,4,3.42,4,4,35,11.43,7.1
+71,Bundesliga,RB Leipzig,Antonio Nusa,4,4.34,3,67,60,6.67,7.09
+72,Bundesliga,VfB Stuttgart,Bilal El Khannouss,4,3.17,3,18,42,9.52,6.98
+73,Bundesliga,TSG Hoffenheim,Ozan Kabak,4,4.15,6,5,35,11.43,6.93
+74,Bundesliga,SV Werder Bremen,Romano Schmid,4,7.67,7,36,55,7.27,6.92
+75,Bundesliga,Borussia M'gladbach,Kevin Diks,4,5.05,1,10,22,18.18,6.91
+76,Bundesliga,VfL Wolfsburg,Patrick Wimmer,4,3.12,4,38,24,16.67,6.88
+77,Bundesliga,1. FC Köln,Marius Bülter,4,3.99,4,3,36,11.11,6.85
+78,Bundesliga,Bayer 04 Leverkusen,Martin Terrier,4,2.55,4,5,17,23.53,6.81
+79,Bundesliga,Eintracht Frankfurt,Nathaniel Brown,4,2.5,2,16,17,23.53,6.81
+80,Bundesliga,SC Freiburg,Yuito Suzuki,4,3.86,5,18,38,10.53,6.76
+81,Bundesliga,1. FC Heidenheim,Marvin Pieringer,4,4.81,6,15,28,14.29,6.76
+82,Bundesliga,1. FSV Mainz 05,Jae-sung Lee,4,3.25,4,5,30,13.33,6.74
+83,Bundesliga,SC Freiburg,Derry Scherhant,4,2.3,2,26,33,12.12,6.66
+84,Bundesliga,Eintracht Frankfurt,Ansgar Knauff,4,3.76,3,11,34,11.76,6.59
+85,Bundesliga,FC St. Pauli,Andreas Hountondji,4,3.56,6,9,20,20.0,6.46
+86,Bundesliga,Bayer 04 Leverkusen,Aleix García,3,2.19,1,4,28,10.71,7.44
+87,Bundesliga,RB Leipzig,David Raum,3,2.2,2,16,24,12.5,7.33
+88,Bundesliga,Borussia Dortmund,Emre Can,3,2.45,0,3,5,60.0,7.22
+89,Bundesliga,RB Leipzig,Brajan Gruda,3,3.39,3,18,21,14.29,7.19
+90,Bundesliga,FC Bayern München,Aleksandar Pavlović,3,1.6,0,4,10,30.0,7.18
+91,Bundesliga,Bayer 04 Leverkusen,Ibrahim Maza,3,4.21,5,46,47,6.38,7.11
+92,Bundesliga,Hamburger SV,Jean-Luc Dompé,3,2.08,1,21,25,12.0,7.03
+93,Bundesliga,Eintracht Frankfurt,Robin Koch,3,1.32,1,2,14,21.43,6.97
+94,Bundesliga,Eintracht Frankfurt,Jean-Mattéo Bahoya,3,1.99,0,41,28,10.71,6.97
+95,Bundesliga,RB Leipzig,Xaver Schlager,3,2.11,1,22,21,14.29,6.94
+96,Bundesliga,VfL Wolfsburg,Christian Eriksen,3,4.78,1,9,35,8.57,6.92
+97,Bundesliga,VfB Stuttgart,Nikolas Nartey,3,2.26,4,18,20,15.0,6.9
+98,Bundesliga,RB Leipzig,Assan Ouédraogo,3,2.31,2,13,25,12.0,6.88
+99,Bundesliga,1. FC Union Berlin,Leopold Querfeld,3,3.69,2,4,29,10.34,6.87
+100,Bundesliga,SC Freiburg,Maximilian Eggestein,3,3.8,2,14,44,6.82,6.85
+101,Bundesliga,TSG Hoffenheim,Alexander Prass,3,1.19,1,16,18,16.67,6.84
+102,Bundesliga,Bayer 04 Leverkusen,Jarell Quansah,3,2.65,4,14,15,20.0,6.84
+103,Bundesliga,SV Werder Bremen,Samuel Mbangula,3,1.6,2,29,16,18.75,6.84
+104,Bundesliga,FC Bayern München,Konrad Laimer,3,2.42,2,14,17,17.65,6.82
+105,Bundesliga,FC Augsburg,Robin Fellhauer,3,2.79,3,13,30,10.0,6.81
+106,Bundesliga,1. FC Köln,Jan Uwe Thielmann,3,2.3,3,8,28,10.71,6.77
+107,Bundesliga,1. FC Heidenheim,Eren Dinkçi,3,3.79,4,10,25,12.0,6.76
+108,Bundesliga,SV Werder Bremen,Marco Grüll,3,3.58,3,21,42,7.14,6.75
+109,Bundesliga,FC Bayern München,Jamal Musiala,3,4.44,3,21,28,10.71,6.74
+110,Bundesliga,1. FC Heidenheim,Julian Niehues,3,1.26,1,5,19,15.79,6.74
+111,Bundesliga,1. FC Union Berlin,Woo-Yeong Jeong,3,2.01,2,7,21,14.29,6.72
+112,Bundesliga,Borussia M'gladbach,Jens Castrop,3,3.73,7,25,30,10.0,6.69
+113,Bundesliga,VfL Wolfsburg,Konstantinos Koulierakis,3,3.02,4,3,25,12.0,6.69
+114,Bundesliga,Borussia M'gladbach,Shuto Machino,3,2.94,3,3,26,11.54,6.69
+115,Bundesliga,Hamburger SV,Robert Glatzel,3,2.68,3,5,16,18.75,6.68
+116,Bundesliga,SC Freiburg,Lucas Höler,3,4.43,7,10,33,9.09,6.67
+117,Bundesliga,SV Werder Bremen,Jovan Milošević,3,2.01,3,5,12,25.0,6.66
+118,Bundesliga,VfL Wolfsburg,Mattias Svanberg,3,2.63,3,3,18,16.67,6.62
+119,Bundesliga,RB Leipzig,Conrad Harder,3,3.95,8,5,39,7.69,6.61
+120,Bundesliga,FC St. Pauli,Martijn Kaars,3,3.51,4,4,23,13.04,6.48
+121,Bundesliga,FC Bayern München,Joshua Kimmich,2,2.53,1,11,27,7.41,7.69
+122,Bundesliga,VfB Stuttgart,Angelo Stiller,2,3.08,4,14,17,11.76,7.27
+123,Bundesliga,RB Leipzig,Willi Orbán,2,2.38,4,6,20,10.0,7.25
+124,Bundesliga,Borussia Dortmund,Waldemar Anton,2,1.74,0,13,16,12.5,7.24
+125,Bundesliga,FC Bayern München,Jonathan Tah,2,0.71,1,3,8,25.0,7.23
+126,Bundesliga,Eintracht Frankfurt,Rasmus Kristensen,2,0.68,0,14,15,13.33,7.0
+127,Bundesliga,Borussia M'gladbach,Philipp Sander,2,1.56,1,4,25,8.0,6.98
+128,Bundesliga,SC Freiburg,Matthias Ginter,2,2.04,1,3,17,11.76,6.95
+129,Bundesliga,1. FC Union Berlin,Marin Ljubičić,2,1.35,0,1,2,100.0,6.95
+130,Bundesliga,Borussia Dortmund,Felix Nmecha,2,3.3,3,30,31,6.45,6.94
+131,Bundesliga,VfB Stuttgart,Chema Andrés,2,0.99,1,2,12,16.67,6.92
+132,Bundesliga,FC Augsburg,Dimitrios Giannoulis,2,1.17,1,19,10,20.0,6.92
+133,Bundesliga,FC Bayern München,Josip Stanišić,2,1.36,0,10,7,28.57,6.92
+134,Bundesliga,RB Leipzig,Ridle Baku,2,2.37,5,13,29,6.9,6.89
+135,Bundesliga,Borussia M'gladbach,Franck Honorat,2,0.91,1,17,17,11.76,6.88
+136,Bundesliga,FC St. Pauli,Eric Smith,2,0.58,1,9,12,16.67,6.86
+137,Bundesliga,Eintracht Frankfurt,Farès Chaïbi,2,2.66,5,11,33,6.06,6.83
+138,Bundesliga,1. FC Heidenheim,Patrick Mainka,2,3.4,5,4,35,5.71,6.83
+139,Bundesliga,FC Bayern München,Tom Bischof,2,1.71,1,6,29,6.9,6.83
+140,Bundesliga,Bayer 04 Leverkusen,Robert Andrich,2,0.53,1,1,11,18.18,6.83
+141,Bundesliga,1. FC Köln,Eric Martel,2,2.31,3,2,21,9.52,6.82
+142,Bundesliga,1. FSV Mainz 05,Dominik Kohr,2,1.41,4,4,13,15.38,6.82
+143,Bundesliga,1. FSV Mainz 05,Danny da Costa,2,1.6,2,15,14,14.29,6.82
+144,Bundesliga,1. FSV Mainz 05,Silvan Widmer,2,2.49,4,2,20,10.0,6.81
+145,Bundesliga,FC Augsburg,Han-Noah Massengo,2,1.29,1,26,20,10.0,6.8
+146,Bundesliga,FC Augsburg,Arthur Chaves,2,1.07,0,2,5,40.0,6.8
+147,Bundesliga,FC Augsburg,Kristijan Jakić,2,1.52,1,6,18,11.11,6.8
+148,Bundesliga,1. FSV Mainz 05,Sheraldo Becker,2,3.79,6,3,24,8.33,6.79
+149,Bundesliga,FC St. Pauli,Hauke Wahl,2,0.61,1,2,10,20.0,6.79
+150,Bundesliga,Eintracht Frankfurt,Hugo Larsson,2,1.47,0,4,13,15.38,6.76
+151,Bundesliga,Bayer 04 Leverkusen,Jonas Hofmann,2,1.6,1,7,22,9.09,6.76
+152,Bundesliga,Borussia Dortmund,Daniel Svensson,2,1.79,4,12,12,16.67,6.76
+153,Bundesliga,Borussia M'gladbach,Yannick Engelhardt,2,2.12,1,6,21,9.52,6.73
+154,Bundesliga,RB Leipzig,Johan Bakayoko,2,2.08,3,15,24,8.33,6.73
+155,Bundesliga,1. FC Köln,Linton Maina,2,1.29,1,9,18,11.11,6.72
+156,Bundesliga,VfL Wolfsburg,Adam Daghim,2,1.68,2,16,24,8.33,6.71
+157,Bundesliga,Eintracht Frankfurt,Ayoube Amaimouni Echghouyab,2,0.52,1,20,12,16.67,6.69
+158,Bundesliga,Borussia Dortmund,Carney Chukwuemeka,2,1.93,1,22,18,11.11,6.69
+159,Bundesliga,Borussia M'gladbach,Wael Mohya,2,0.91,0,3,10,20.0,6.69
+160,Bundesliga,1. FSV Mainz 05,Stefan Bell,2,1.73,0,1,12,16.67,6.68
+161,Bundesliga,FC Augsburg,Mert Kömür,2,3.42,5,17,43,4.65,6.66
+162,Bundesliga,SC Freiburg,Lukas Kübler,2,3.17,0,2,19,10.53,6.65
+163,Bundesliga,FC St. Pauli,Ricky-Jade Jones,2,1.62,4,4,11,18.18,6.64
+164,Bundesliga,Eintracht Frankfurt,Mahmoud Dahoud,2,0.81,0,5,15,13.33,6.63
+165,Bundesliga,VfL Wolfsburg,Lovro Majer,2,3.09,5,12,27,7.41,6.63
+166,Bundesliga,FC Augsburg,Elvis Rexhbeçaj,2,0.53,0,5,11,18.18,6.63
+167,Bundesliga,1. FC Heidenheim,Sirlord Conteh,2,2.8,2,3,10,20.0,6.62
+168,Bundesliga,Borussia M'gladbach,Joe Scally,2,1.27,2,23,16,12.5,6.61
+169,Bundesliga,1. FC Union Berlin,Andrej Ilić,2,9.26,13,7,64,3.13,6.61
+170,Bundesliga,1. FC Heidenheim,Luca Kerber,2,1.69,2,0,8,25.0,6.61
+171,Bundesliga,Borussia Dortmund,Fábio Silva,2,2.58,1,11,22,9.09,6.6
+172,Bundesliga,VfL Wolfsburg,Aaron Zehnter,2,1.28,3,7,11,18.18,6.58
+173,Bundesliga,FC St. Pauli,Mathias Pereira Lage,2,4.33,7,15,43,4.65,6.57
+174,Bundesliga,FC St. Pauli,Abdoulie Ceesay,2,0.93,3,4,8,25.0,6.56
+175,Bundesliga,1. FC Heidenheim,Mathias Honsak,2,3.17,4,15,31,6.45,6.55
+176,Bundesliga,TSG Hoffenheim,Max Moerstedt,2,0.83,0,4,7,28.57,6.53
+177,Bundesliga,FC Augsburg,Rodrigo Ribeiro,2,3.45,4,8,25,8.0,6.52
+178,Bundesliga,1. FC Union Berlin,Tom Alexander Rothe,2,1.13,0,5,17,11.76,6.52
+179,Bundesliga,1. FSV Mainz 05,Armindo Sieb,2,2.14,4,6,17,11.76,6.46
+180,Bundesliga,1. FC Heidenheim,Leo Scienza,1,0.13,0,3,4,25.0,7.45
+181,Bundesliga,Borussia Dortmund,Aarón Anselmino,1,0.07,0,1,1,100.0,7.24
+182,Bundesliga,FC Bayern München,Kim Min-jae,1,0.62,0,1,5,20.0,7.23
+183,Bundesliga,FC Bayern München,Dayot Upamecano,1,1.03,1,3,8,12.5,7.15
+184,Bundesliga,TSG Hoffenheim,Vladimír Coufal,1,0.88,0,30,25,4.0,7.14
+185,Bundesliga,VfL Wolfsburg,Maximilian Arnold,1,0.43,0,5,14,7.14,7.1
+186,Bundesliga,RB Leipzig,Castello Lukeba,1,1.16,0,18,8,12.5,7.08
+187,Bundesliga,Hamburger SV,Albert Grønbæk,1,0.18,0,3,6,16.67,7.05
+188,Bundesliga,Bayer 04 Leverkusen,Nathan Tella,1,2.8,4,13,24,4.17,7.03
+189,Bundesliga,TSG Hoffenheim,Albian Hajdari,1,1.73,1,2,19,5.26,7.02
+190,Bundesliga,1. FSV Mainz 05,Kaishu Sano,1,1.11,1,27,20,5.0,7.02
+191,Bundesliga,SC Freiburg,Philipp Lienhart,1,1.06,1,3,8,12.5,6.98
+192,Bundesliga,Bayer 04 Leverkusen,Lucas Vázquez,1,0.5,1,1,4,25.0,6.96
+193,Bundesliga,FC St. Pauli,Manolis Saliakas,1,0.64,0,5,16,6.25,6.95
+194,Bundesliga,Borussia Dortmund,Marcel Sabitzer,1,1.15,0,3,20,5.0,6.9
+195,Bundesliga,SV Werder Bremen,Marco Friedl,1,0.68,0,4,8,12.5,6.9
+196,Bundesliga,FC Augsburg,Noahkai Banks,1,1.13,1,3,9,11.11,6.9
+197,Bundesliga,1. FC Heidenheim,Hennes Behrens,1,0.26,0,14,8,12.5,6.89
+198,Bundesliga,1. FC Köln,Alessio Castro-Montes,1,1.22,0,1,7,14.29,6.89
+199,Bundesliga,Borussia Dortmund,Samuele Inacio,1,1.67,2,3,7,14.29,6.88
+200,Bundesliga,TSG Hoffenheim,Valentin Gendrey,1,0.28,1,0,2,50.0,6.87
+201,Bundesliga,SV Werder Bremen,Olivier Deman,1,0.51,0,5,10,10.0,6.85
+202,Bundesliga,FC Augsburg,Chrislain Matsima,1,0.42,0,1,7,14.29,6.82
+203,Bundesliga,FC Bayern München,Alphonso Davies,1,0.35,1,13,4,25.0,6.82
+204,Bundesliga,FC Bayern München,Hiroki Itō,1,0.85,1,4,10,10.0,6.81
+205,Bundesliga,VfL Wolfsburg,Andreas Skov Olsen,1,0.32,1,3,7,14.29,6.81
+206,Bundesliga,Borussia Dortmund,Yan Couto,1,0.68,0,13,8,12.5,6.79
+207,Bundesliga,1. FC Heidenheim,Marnon Busch,1,1.11,1,3,12,8.33,6.79
+208,Bundesliga,SC Freiburg,Jan-Niklas Beste,1,2.95,5,14,23,4.35,6.79
+209,Bundesliga,1. FC Köln,Florian Kainz,1,0.72,2,3,7,14.29,6.78
+210,Bundesliga,Borussia Dortmund,Luca Reggiani,1,0.43,1,4,3,33.33,6.78
+211,Bundesliga,1. FSV Mainz 05,Phillipp Mwene,1,1.96,2,8,10,10.0,6.78
+212,Bundesliga,1. FC Köln,Ísak Bergmann Jóhannesson,1,1.41,0,6,12,8.33,6.78
+213,Bundesliga,Eintracht Frankfurt,Arthur Theate,1,1.1,3,4,15,6.67,6.78
+214,Bundesliga,1. FC Heidenheim,Adrian Beck,1,0.86,1,18,11,9.09,6.77
+215,Bundesliga,Borussia M'gladbach,Kevin Stöger,1,2.43,2,3,22,4.55,6.77
+216,Bundesliga,Bayer 04 Leverkusen,Montrell Culbreath,1,1.83,2,5,9,11.11,6.76
+217,Bundesliga,1. FC Heidenheim,Arijon Ibrahimović,1,5.73,6,20,42,2.38,6.76
+218,Bundesliga,FC St. Pauli,Adam Dźwigała,1,0.14,0,3,4,25.0,6.76
+219,Bundesliga,1. FSV Mainz 05,Kacper Potulski,1,1.15,2,1,9,11.11,6.75
+220,Bundesliga,Borussia M'gladbach,Giovanni Reyna,1,0.67,0,10,7,14.29,6.75
+221,Bundesliga,FC St. Pauli,James Sands,1,1.0,0,2,16,6.25,6.75
+222,Bundesliga,RB Leipzig,Max Finkgräfe,1,0.19,0,4,4,25.0,6.74
+223,Bundesliga,Borussia M'gladbach,Oscar Fraulo,1,0.29,0,0,1,100.0,6.73
+224,Bundesliga,TSG Hoffenheim,Robin Hranáč,1,2.14,3,2,8,12.5,6.72
+225,Bundesliga,Hamburger SV,Nicolás Capaldo,1,1.25,2,9,19,5.26,6.72
+226,Bundesliga,1. FC Union Berlin,Derrick Köhn,1,2.15,2,11,28,3.57,6.72
+227,Bundesliga,VfL Wolfsburg,Jonas Wind,1,1.17,3,2,9,11.11,6.72
+228,Bundesliga,FC St. Pauli,Joel Chima Fujita,1,1.12,1,44,29,3.45,6.71
+229,Bundesliga,1. FC Union Berlin,Livan Burcu,1,1.18,2,13,13,7.69,6.71
+230,Bundesliga,VfL Wolfsburg,Denis Vavro,1,0.92,2,1,12,8.33,6.69
+231,Bundesliga,VfL Wolfsburg,Joakim Mæhle,1,0.71,1,7,13,7.69,6.69
+232,Bundesliga,1. FSV Mainz 05,Silas,1,1.68,3,8,8,12.5,6.69
+233,Bundesliga,Eintracht Frankfurt,Nnamdi Collins,1,0.45,1,11,4,25.0,6.69
+234,Bundesliga,SV Werder Bremen,Cameron Puertas,1,1.82,0,14,37,2.7,6.68
+235,Bundesliga,FC Augsburg,Marius Wolf,1,1.08,2,5,14,7.14,6.68
+236,Bundesliga,SC Freiburg,Philipp Treu,1,1.05,2,14,16,6.25,6.67
+237,Bundesliga,RB Leipzig,Benjamin Henrichs,1,0.22,0,1,4,25.0,6.66
+238,Bundesliga,Hamburger SV,Philip Otele,1,1.11,0,7,7,14.29,6.65
+239,Bundesliga,Hamburger SV,Fabio Baldé,1,0.75,0,10,7,14.29,6.65
+240,Bundesliga,SC Freiburg,Patrick Osterhage,1,0.95,1,6,7,14.29,6.65
+241,Bundesliga,Hamburger SV,Bakery Jatta,1,0.92,3,3,11,9.09,6.63
+242,Bundesliga,Bayer 04 Leverkusen,Arthur,1,0.92,1,14,10,10.0,6.63
+243,Bundesliga,SV Werder Bremen,Isaac Schmidt,1,0.99,0,10,5,20.0,6.62
+244,Bundesliga,SV Werder Bremen,Salim Musah,1,0.84,1,1,6,16.67,6.62
+245,Bundesliga,VfL Wolfsburg,Moritz Jenz,1,0.54,0,0,5,20.0,6.62
+246,Bundesliga,Hamburger SV,Yussuf Poulsen,1,0.76,0,3,7,14.29,6.61
+247,Bundesliga,SC Freiburg,Junior Adamu,1,1.67,3,5,7,14.29,6.6
+248,Bundesliga,1. FC Union Berlin,András Schäfer,1,1.84,2,9,24,4.17,6.6
+249,Bundesliga,SV Werder Bremen,Patrice Čović,1,1.32,1,0,5,20.0,6.6
+250,Bundesliga,VfL Wolfsburg,Yannick Gerhardt,1,0.78,0,0,10,10.0,6.59
+251,Bundesliga,1. FC Union Berlin,Stanley Nsoki,1,0.16,0,4,3,33.33,6.59
+252,Bundesliga,FC St. Pauli,Karol Mets,1,0.77,0,1,7,14.29,6.59
+253,Bundesliga,FC St. Pauli,Louis Oppie,1,0.92,1,3,15,6.67,6.59
+254,Bundesliga,1. FC Union Berlin,Tim Skarke,1,0.86,0,4,13,7.69,6.57
+255,Bundesliga,1. FC Heidenheim,Jonas Föhrenbach,1,0.55,0,2,5,20.0,6.56
+256,Bundesliga,RB Leipzig,Tidiam Gomis,1,0.49,0,10,9,11.11,6.56
+257,Bundesliga,1. FC Heidenheim,Mikkel Kaufmann,1,1.42,4,0,11,9.09,6.55
+258,Bundesliga,Borussia M'gladbach,Grant-Leon Ranos,1,0.53,0,1,4,25.0,6.55
+259,Bundesliga,1. FC Heidenheim,Jan Schöppner,1,1.37,0,10,21,4.76,6.55
+260,Bundesliga,Eintracht Frankfurt,Oscar Højlund,1,0.54,2,5,7,14.29,6.54
+261,Bundesliga,1. FSV Mainz 05,Benedict Hollerbach,1,2.02,5,12,22,4.55,6.53
+262,Bundesliga,VfL Wolfsburg,Kento Shiogai,1,1.52,3,2,9,11.11,6.5
+263,Bundesliga,FC Augsburg,Samuel Essende,1,1.72,2,5,17,5.88,6.47
+264,Bundesliga,SV Werder Bremen,Karim Coulibaly,1,0.66,1,7,6,16.67,6.47
+265,Bundesliga,VfB Stuttgart,Josha Vagnoman,1,2.89,5,6,19,5.26,6.44
+266,Bundesliga,Eintracht Frankfurt,Younes Ebnoutalib,1,0.65,1,1,5,20.0,6.42
+267,Bundesliga,SV Werder Bremen,Keke Topp,1,2.04,4,5,25,4.0,6.42
+268,Bundesliga,Eintracht Frankfurt,Michy Batshuayi,1,1.13,1,1,5,20.0,6.4
+269,Bundesliga,1. FC Heidenheim,Adam Kölle,1,0.65,1,0,2,50.0,6.38
+270,Bundesliga,1. FC Union Berlin,Matheo Raab,0,,0,0,0,0.0,9.7
+271,Bundesliga,FC Bayern München,Sven Ulreich,0,,0,0,0,0.0,7.6
+272,Bundesliga,SV Werder Bremen,Karl Hein,0,,0,1,0,0.0,7.6
+273,Bundesliga,1. FC Union Berlin,Carl Klaus,0,,0,0,0,0.0,7.55
+274,Bundesliga,VfB Stuttgart,Dan Zagadou,0,0.34,0,1,6,0.0,7.53
+275,Bundesliga,SV Werder Bremen,Mick Schmetgens,0,,0,0,0,0.0,7.5
+276,Bundesliga,Borussia M'gladbach,Moritz Nicolas,0,,0,0,0,0.0,7.34
+277,Bundesliga,1. FSV Mainz 05,Daniel Batz,0,,0,0,0,0.0,7.32
+278,Bundesliga,Bayer 04 Leverkusen,Janis Blaswich,0,,0,0,0,0.0,7.25
+279,Bundesliga,SV Werder Bremen,Maximilian Wöber,0,,0,0,0,0.0,7.25
+280,Bundesliga,VfL Wolfsburg,Kamil Grabara,0,0.04,0,1,1,0.0,7.22
+281,Bundesliga,FC Bayern München,Jonas Urbig,0,,0,0,0,0.0,7.22
+282,Bundesliga,Bayer 04 Leverkusen,Loïc Badé,0,1.29,1,3,12,0.0,7.21
+283,Bundesliga,1. FC Köln,Marvin Schwäbe,0,,0,0,0,0.0,7.18
+284,Bundesliga,Hamburger SV,Daniel Fernandes,0,0.26,0,1,1,0.0,7.18
+285,Bundesliga,VfB Stuttgart,Alexander Nübel,0,,0,0,0,0.0,7.17
+286,Bundesliga,Borussia Dortmund,Gregor Kobel,0,,0,0,0,0.0,7.13
+287,Bundesliga,VfB Stuttgart,Jeff Chabot,0,1.13,2,4,18,0.0,7.11
+288,Bundesliga,Borussia Dortmund,Julian Ryerson,0,0.93,1,24,12,0.0,7.08
+289,Bundesliga,RB Leipzig,Maarten Vandevoordt,0,,0,1,0,0.0,7.07
+290,Bundesliga,TSG Hoffenheim,Leon Avdullahu,0,0.59,0,8,14,0.0,7.07
+291,Bundesliga,SV Werder Bremen,Mio Backhaus,0,,0,0,0,0.0,7.06
+292,Bundesliga,FC Augsburg,Finn Dahmen,0,0.32,1,0,1,0.0,7.05
+293,Bundesliga,FC St. Pauli,Nikola Vasilj,0,,0,0,0,0.0,7.05
+294,Bundesliga,SC Freiburg,Noah Atubolu,0,,0,0,0,0.0,7.05
+295,Bundesliga,SV Werder Bremen,Amos Pieper,0,0.42,0,0,9,0.0,7.02
+296,Bundesliga,1. FSV Mainz 05,Stefan Posch,0,0.4,0,4,9,0.0,7.01
+297,Bundesliga,Bayer 04 Leverkusen,Exequiel Palacios,0,0.4,0,3,8,0.0,7.0
+298,Bundesliga,1. FC Heidenheim,Frank Feller,0,,0,0,0,0.0,7.0
+299,Bundesliga,Borussia M'gladbach,Nico Elvedi,0,0.4,1,1,8,0.0,6.98
+300,Bundesliga,1. FC Köln,Timo Hübers,0,,0,1,0,0.0,6.96
+301,Bundesliga,FC Augsburg,Keven Schlotterbeck,0,1.37,1,10,12,0.0,6.96
+302,Bundesliga,Hamburger SV,Miro Muheim,0,1.19,2,21,23,0.0,6.96
+303,Bundesliga,Eintracht Frankfurt,Michael Zetterer,0,,0,0,0,0.0,6.96
+304,Bundesliga,RB Leipzig,Lukas Klostermann,0,0.09,0,0,2,0.0,6.95
+305,Bundesliga,1. FSV Mainz 05,Anthony Caci,0,0.3,0,7,5,0.0,6.95
+306,Bundesliga,1. FSV Mainz 05,Robin Zentner,0,,0,1,0,0.0,6.94
+307,Bundesliga,1. FC Heidenheim,Diant Ramaj,0,,0,0,0,0.0,6.94
+308,Bundesliga,1. FC Union Berlin,Christopher Trimmel,0,0.05,0,1,4,0.0,6.93
+309,Bundesliga,Hamburger SV,Nicolai Remberg,0,0.99,1,14,16,0.0,6.93
+310,Bundesliga,RB Leipzig,Péter Gulácsi,0,,0,0,0,0.0,6.92
+311,Bundesliga,FC Bayern München,Manuel Neuer,0,,0,0,0,0.0,6.92
+312,Bundesliga,1. FC Köln,Tom Krauß,0,0.37,0,7,9,0.0,6.9
+313,Bundesliga,1. FC Union Berlin,Josip Juranović,0,0.07,0,0,3,0.0,6.9
+314,Bundesliga,RB Leipzig,Nicolas Seiwald,0,1.83,2,8,19,0.0,6.9
+315,Bundesliga,VfL Wolfsburg,Vinícius Souza,0,0.63,1,7,7,0.0,6.9
+316,Bundesliga,Bayer 04 Leverkusen,Mark Flekken,0,,0,1,0,0.0,6.89
+317,Bundesliga,Borussia Dortmund,Niklas Süle,0,0.03,0,1,2,0.0,6.88
+318,Bundesliga,VfB Stuttgart,Luca Jaquez,0,0.12,0,2,4,0.0,6.88
+319,Bundesliga,RB Leipzig,El Chadaille Bitshiabu,0,0.16,0,0,2,0.0,6.87
+320,Bundesliga,1. FC Heidenheim,Niklas Dorsch,0,0.59,0,11,14,0.0,6.87
+321,Bundesliga,TSG Hoffenheim,Bernardo,0,0.28,0,6,9,0.0,6.86
+322,Bundesliga,Borussia M'gladbach,Rocco Reitz,0,2.57,0,24,47,0.0,6.86
+323,Bundesliga,1. FC Köln,Dominique Heintz,0,,0,3,0,0.0,6.83
+324,Bundesliga,TSG Hoffenheim,Oliver Baumann,0,,0,2,0,0.0,6.82
+325,Bundesliga,Hamburger SV,Jordan Torunarigha,0,0.37,0,6,5,0.0,6.82
+326,Bundesliga,Borussia Dortmund,Pascal Groß,0,0.59,1,4,8,0.0,6.81
+327,Bundesliga,VfB Stuttgart,Atakan Karazor,0,0.73,2,8,7,0.0,6.81
+328,Bundesliga,SV Werder Bremen,Senne Lynen,0,1.11,1,6,25,0.0,6.81
+329,Bundesliga,Borussia M'gladbach,Charles Herrmann,0,,0,0,0,0.0,6.8
+330,Bundesliga,Borussia Dortmund,Almugera Kabar,0,0.1,0,0,1,0.0,6.8
+331,Bundesliga,Bayer 04 Leverkusen,Ezequiel Fernández,0,0.68,0,9,11,0.0,6.8
+332,Bundesliga,Borussia M'gladbach,Luca Netz,0,0.05,0,9,2,0.0,6.76
+333,Bundesliga,VfB Stuttgart,Finn Jeltsch,0,0.15,0,5,3,0.0,6.76
+334,Bundesliga,VfB Stuttgart,Ramon Hendriks,0,0.25,0,8,4,0.0,6.75
+335,Bundesliga,SV Werder Bremen,Skelly Alvero,0,,0,0,0,0.0,6.75
+336,Bundesliga,Borussia Dortmund,Jobe Bellingham,0,1.01,0,14,17,0.0,6.75
+337,Bundesliga,1. FC Union Berlin,Frederik Rønnow,0,,0,0,0,0.0,6.74
+338,Bundesliga,1. FC Union Berlin,Diogo Leite,0,1.21,2,5,10,0.0,6.73
+339,Bundesliga,1. FC Union Berlin,Aljoscha Kemlein,0,1.04,1,15,15,0.0,6.73
+340,Bundesliga,FC St. Pauli,Jackson Irvine,0,1.2,0,10,18,0.0,6.72
+341,Bundesliga,VfL Wolfsburg,Kevin Paredes,0,0.06,0,2,2,0.0,6.72
+342,Bundesliga,FC Augsburg,Cedric Zesiger,0,0.78,4,3,11,0.0,6.71
+343,Bundesliga,Bayer 04 Leverkusen,Eliesse Ben Seghir,0,0.12,0,6,4,0.0,6.71
+344,Bundesliga,1. FSV Mainz 05,Arnaud Nordin,0,0.79,0,4,13,0.0,6.71
+345,Bundesliga,Borussia M'gladbach,Florian Neuhaus,0,1.06,1,6,22,0.0,6.7
+346,Bundesliga,VfL Wolfsburg,Bence Dárdai,0,,0,0,0,0.0,6.7
+347,Bundesliga,FC Augsburg,Arne Maier,0,,0,0,0,0.0,6.7
+348,Bundesliga,1. FSV Mainz 05,Ben Bobzien,0,,0,0,0,0.0,6.7
+349,Bundesliga,FC St. Pauli,Fin Stevens,0,,0,0,0,0.0,6.7
+350,Bundesliga,TSG Hoffenheim,Luka Duric,0,,0,0,0,0.0,6.7
+351,Bundesliga,FC Bayern München,Bara Sapoko Ndiaye,0,,0,8,0,0.0,6.7
+352,Bundesliga,FC St. Pauli,Mathias Rasmussen,0,0.76,3,5,6,0.0,6.7
+353,Bundesliga,Bayer 04 Leverkusen,Piero Hincapié,0,0.38,0,0,2,0.0,6.7
+354,Bundesliga,RB Leipzig,Loïs Openda,0,0.12,0,1,3,0.0,6.7
+355,Bundesliga,FC Augsburg,Mads Pedersen,0,0.09,0,0,2,0.0,6.7
+356,Bundesliga,VfL Wolfsburg,Václav Černý,0,0.03,0,1,1,0.0,6.7
+357,Bundesliga,1. FC Köln,Cenk Özkaçar,0,0.97,3,4,11,0.0,6.69
+358,Bundesliga,1. FC Köln,Kristoffer Lund,0,0.7,0,15,19,0.0,6.69
+359,Bundesliga,1. FC Union Berlin,Janik Haberer,0,0.58,1,6,11,0.0,6.69
+360,Bundesliga,Eintracht Frankfurt,Aurèle Amenda,0,0.77,2,2,10,0.0,6.68
+361,Bundesliga,1. FSV Mainz 05,Sota Kawasaki,0,0.08,0,0,1,0.0,6.68
+362,Bundesliga,FC St. Pauli,Tomoya Ando,0,0.34,1,5,7,0.0,6.68
+363,Bundesliga,VfL Wolfsburg,Jenson Seelt,0,0.2,1,2,2,0.0,6.68
+364,Bundesliga,1. FC Köln,Denis Huseinbašić,0,0.42,0,1,6,0.0,6.67
+365,Bundesliga,SV Werder Bremen,Victor Okoh Boniface,0,1.08,0,5,16,0.0,6.67
+366,Bundesliga,Eintracht Frankfurt,Ellyes Skhiri,0,0.54,2,5,7,0.0,6.67
+367,Bundesliga,1. FC Köln,Felipe Chávez,0,0.34,0,0,6,0.0,6.67
+368,Bundesliga,1. FC Heidenheim,Christian Conteh,0,0.22,0,5,3,0.0,6.67
+369,Bundesliga,1. FSV Mainz 05,Maxim Leitsch,0,0.02,0,0,1,0.0,6.67
+370,Bundesliga,SV Werder Bremen,Felix Agu,0,0.06,0,4,2,0.0,6.66
+371,Bundesliga,FC Augsburg,Yannik Keitel,0,,0,0,0,0.0,6.66
+372,Bundesliga,SC Freiburg,Cyriaque Irié,0,0.73,1,12,7,0.0,6.66
+373,Bundesliga,Hamburger SV,Giorgi Gocholeishvili,0,0.76,1,18,14,0.0,6.65
+374,Bundesliga,Hamburger SV,Jonas Meffert,0,,0,0,0,0.0,6.65
+375,Bundesliga,FC Augsburg,Elias Saad,0,0.53,1,15,7,0.0,6.65
+376,Bundesliga,FC St. Pauli,Arkadiusz Pyrka,0,1.07,1,15,19,0.0,6.65
+377,Bundesliga,1. FSV Mainz 05,Andreas Hanche Olsen,0,0.35,0,0,6,0.0,6.65
+378,Bundesliga,SV Werder Bremen,Leonardo Bittencourt,0,0.28,0,3,7,0.0,6.64
+379,Bundesliga,RB Leipzig,Ezechiel Banzuzi,0,1.4,2,2,15,0.0,6.64
+380,Bundesliga,1. FSV Mainz 05,William Bøving,0,0.02,0,1,1,0.0,6.64
+381,Bundesliga,1. FC Köln,Jahmai Simpson-Pusey,0,0.31,0,2,5,0.0,6.64
+382,Bundesliga,Borussia Dortmund,Salih Özcan,0,0.1,0,0,1,0.0,6.63
+383,Bundesliga,SC Freiburg,Bruno Ogbus,0,0.37,2,3,5,0.0,6.63
+384,Bundesliga,Borussia M'gladbach,Hugo Bolin,0,0.74,0,1,12,0.0,6.63
+385,Bundesliga,1. FC Heidenheim,Yannik Wagner,0,0.02,0,0,1,0.0,6.63
+386,Bundesliga,1. FSV Mainz 05,Nikolas Veratschnig,0,0.1,0,6,4,0.0,6.62
+387,Bundesliga,Hamburger SV,Warmed Omari,0,0.12,0,6,3,0.0,6.62
+388,Bundesliga,Eintracht Frankfurt,Kauã Santos,0,,0,1,0,0.0,6.62
+389,Bundesliga,1. FC Köln,Rav van den Berg,0,,0,0,0,0.0,6.61
+390,Bundesliga,Hamburger SV,Otto Stange,0,0.85,1,5,8,0.0,6.61
+391,Bundesliga,FC Bayern München,Jonah Kusi-Asare,0,,0,0,0,0.0,6.6
+392,Bundesliga,Borussia M'gladbach,Tim Kleindienst,0,,0,0,0,0.0,6.6
+393,Bundesliga,Eintracht Frankfurt,Elias Baum,0,,0,0,0,0.0,6.6
+394,Bundesliga,TSG Hoffenheim,Muhammed Damar,0,1.24,2,2,12,0.0,6.6
+395,Bundesliga,Bayer 04 Leverkusen,Claudio Echeverri,0,0.1,0,1,1,0.0,6.6
+396,Bundesliga,1. FC Heidenheim,Leonidas Stergiou,0,0.09,0,1,1,0.0,6.6
+397,Bundesliga,RB Leipzig,Andrija Maksimović,0,0.08,0,0,2,0.0,6.6
+398,Bundesliga,VfB Stuttgart,Ameen Al-Dakhil,0,0.06,0,2,1,0.0,6.6
+399,Bundesliga,FC Bayern München,David Daiber,0,0.06,0,2,1,0.0,6.6
+400,Bundesliga,SC Freiburg,Anthony Jung,0,0.03,0,1,1,0.0,6.59
+401,Bundesliga,FC St. Pauli,Lars Ritzka,0,0.43,0,0,4,0.0,6.59
+402,Bundesliga,VfL Wolfsburg,Jeanuël Belocian,0,0.47,1,7,4,0.0,6.58
+403,Bundesliga,1. FC Köln,Fynn Schenten,0,0.03,0,0,1,0.0,6.58
+404,Bundesliga,1. FSV Mainz 05,Lasse Riess,0,,0,1,0,0.0,6.58
+405,Bundesliga,1. FC Union Berlin,Alex Král,0,0.31,0,9,7,0.0,6.58
+406,Bundesliga,1. FC Heidenheim,Thomas Keller,0,0.05,0,1,2,0.0,6.58
+407,Bundesliga,SC Freiburg,Christian Günter,0,0.38,0,2,9,0.0,6.57
+408,Bundesliga,1. FC Heidenheim,Tim Siersleben,0,0.47,1,0,5,0.0,6.57
+409,Bundesliga,1. FC Union Berlin,Robert Skov,0,0.02,0,3,1,0.0,6.57
+410,Bundesliga,Hamburger SV,Daniel Elfadli,0,0.41,1,3,4,0.0,6.56
+411,Bundesliga,FC Augsburg,Jeffrey Gouweleeuw,0,0.33,0,2,5,0.0,6.56
+412,Bundesliga,VfB Stuttgart,Lorenz Assignon,0,0.57,1,11,12,0.0,6.56
+413,Bundesliga,VfB Stuttgart,Badredine Bouanani,0,0.97,2,4,16,0.0,6.56
+414,Bundesliga,Borussia M'gladbach,Fabio Chiarodia,0,0.58,2,1,4,0.0,6.56
+415,Bundesliga,Hamburger SV,William Mikelbrencis,0,1.14,1,13,12,0.0,6.55
+416,Bundesliga,Eintracht Frankfurt,Love Arrhov,0,,0,1,0,0.0,6.55
+417,Bundesliga,Eintracht Frankfurt,Mario Götze,0,0.57,0,5,5,0.0,6.55
+418,Bundesliga,SC Freiburg,Nicolas Höfler,0,0.15,0,1,4,0.0,6.55
+419,Bundesliga,SC Freiburg,Jordy Makengo,0,,0,6,0,0.0,6.54
+420,Bundesliga,TSG Hoffenheim,Umut Tohumcu,0,0.09,0,1,2,0.0,6.54
+421,Bundesliga,SV Werder Bremen,Niklas Stark,0,0.41,1,0,3,0.0,6.54
+422,Bundesliga,Hamburger SV,Alexander Røssing-Lelesiit,0,0.08,0,6,2,0.0,6.54
+423,Bundesliga,FC St. Pauli,Connor Metcalfe,0,0.54,1,5,14,0.0,6.53
+424,Bundesliga,Borussia M'gladbach,Robin Hack,0,0.55,0,2,10,0.0,6.53
+425,Bundesliga,VfB Stuttgart,Lazar Jovanović,0,0.07,0,1,1,0.0,6.53
+426,Bundesliga,VfL Wolfsburg,Pharell Hensel,0,0.02,0,1,1,0.0,6.53
+427,Bundesliga,SC Freiburg,Maximilian Rosenfelder,0,0.02,0,2,1,0.0,6.53
+428,Bundesliga,Hamburger SV,Guilherme Ramos,0,0.23,0,1,1,0.0,6.53
+429,Bundesliga,Borussia M'gladbach,Kota Takai,0,0.16,1,0,3,0.0,6.53
+430,Bundesliga,Borussia M'gladbach,Marvin Friedrich,0,,0,0,0,0.0,6.53
+431,Bundesliga,VfB Stuttgart,Jeremy Arevalo,0,0.13,0,1,3,0.0,6.52
+432,Bundesliga,SV Werder Bremen,Yukinari Sugawara,0,1.85,2,11,30,0.0,6.52
+433,Bundesliga,1. FSV Mainz 05,Lennard Maloney,0,0.36,1,0,5,0.0,6.52
+434,Bundesliga,1. FSV Mainz 05,Nelson Weiper,0,2.73,5,7,12,0.0,6.52
+435,Bundesliga,VfL Wolfsburg,Saël Kumbedi,0,0.32,1,16,4,0.0,6.5
+436,Bundesliga,SC Freiburg,Maximilian Philipp,0,,0,0,0,0.0,6.5
+437,Bundesliga,SC Freiburg,Rouven Tarnutzer,0,,0,0,0,0.0,6.5
+438,Bundesliga,FC Augsburg,Tim Schnitzer,0,,0,0,0,0.0,6.5
+439,Bundesliga,FC Bayern München,Maycon Cardozo,0,,0,0,0,0.0,6.5
+440,Bundesliga,RB Leipzig,Timo Werner,0,,0,0,0,0.0,6.5
+441,Bundesliga,Borussia M'gladbach,Jan Urbich,0,,0,1,0,0.0,6.5
+442,Bundesliga,FC St. Pauli,Oladapo Afolayan,0,0.62,2,2,4,0.0,6.5
+443,Bundesliga,TSG Hoffenheim,Ihlas Bebou,0,0.54,1,3,5,0.0,6.5
+444,Bundesliga,1. FC Köln,Youssoupha Niang,0,0.33,0,0,5,0.0,6.5
+445,Bundesliga,FC Bayern München,Sacha Boey,0,0.28,0,1,6,0.0,6.5
+446,Bundesliga,FC Augsburg,Ismael Gharbi,0,0.23,0,1,3,0.0,6.5
+447,Bundesliga,RB Leipzig,Samba Konaté,0,0.02,0,0,1,0.0,6.5
+448,Bundesliga,Borussia M'gladbach,Lukas Ullrich,0,0.58,0,9,10,0.0,6.49
+449,Bundesliga,VfL Wolfsburg,Jan Bürger,0,0.07,0,1,2,0.0,6.48
+450,Bundesliga,1. FC Köln,Sebastian Sebulonsen,0,1.33,0,14,28,0.0,6.47
+451,Bundesliga,Hamburger SV,Emir Sahiti,0,,0,4,0,0.0,6.45
+452,Bundesliga,VfB Stuttgart,Pascal Stenzel,0,0.31,0,0,3,0.0,6.45
+453,Bundesliga,Borussia M'gladbach,Alejo Sarco,0,0.29,0,1,4,0.0,6.45
+454,Bundesliga,SV Werder Bremen,Julián Malatini,0,0.03,0,1,2,0.0,6.44
+455,Bundesliga,Eintracht Frankfurt,Jessic Ngankam,0,,0,1,0,0.0,6.43
+456,Bundesliga,FC Augsburg,Uchenna Ogundu,0,,0,0,0,0.0,6.43
+457,Bundesliga,FC Bayern München,Wisdom Mike,0,0.09,0,0,2,0.0,6.43
+458,Bundesliga,1. FC Heidenheim,Benedikt Gimber,0,0.25,0,5,5,0.0,6.43
+459,Bundesliga,VfL Wolfsburg,Jesper Lindstrøm,0,0.97,1,8,9,0.0,6.42
+460,Bundesliga,Hamburger SV,Damion Downs,0,0.59,1,2,7,0.0,6.41
+461,Bundesliga,Eintracht Frankfurt,Elye Wahi,0,0.8,6,1,7,0.0,6.4
+462,Bundesliga,1. FC Köln,Jusuf Gazibegović,0,,0,0,0,0.0,6.4
+463,Bundesliga,FC St. Pauli,Taichi Hara,0,0.14,1,0,1,0.0,6.4
+464,Bundesliga,FC Augsburg,Aiman Dardari,0,0.06,0,0,1,0.0,6.4
+465,Bundesliga,1. FC Heidenheim,Omar Haktab Traore,0,0.43,1,11,10,0.0,6.39
+466,Bundesliga,TSG Hoffenheim,Cole Campbell,0,0.15,0,0,2,0.0,6.38
+467,Bundesliga,Bayer 04 Leverkusen,Axel Tape,0,0.22,1,7,3,0.0,6.33
+468,Bundesliga,1. FC Köln,Joel Schmied,0,0.22,0,1,4,0.0,6.31
+469,Bundesliga,TSG Hoffenheim,Koki Machida,0,,0,0,0,0.0,6.3
+470,Bundesliga,FC Bayern München,Deniz Ofli,0,,0,0,0,0.0,6.3
+471,Bundesliga,1. FC Union Berlin,Linus Guther,0,,0,0,0,0.0,6.3
+472,Bundesliga,SC Freiburg,Merlin Röhl,0,,0,0,0,0.0,6.3
+473,Bundesliga,Bayer 04 Leverkusen,Tim Oermann,0,,0,0,0,0.0,6.3
+474,Bundesliga,RB Leipzig,Kosta Nedeljković,0,,0,0,0,0.0,6.3
+475,Bundesliga,TSG Hoffenheim,Adam Hložek,0,0.09,1,0,1,0.0,6.3
+476,Bundesliga,VfL Wolfsburg,Kilian Fischer,0,0.11,0,1,2,0.0,6.29
+477,Bundesliga,1. FC Köln,Cenny Neumann,0,,0,0,0,0.0,6.25
+478,Bundesliga,VfB Stuttgart,Nick Woltemade,0,,0,1,0,0.0,6.2
+479,Bundesliga,RB Leipzig,Xavi Simons,0,,0,2,0,0.0,6.2
+480,Bundesliga,Hamburger SV,Aboubaka Soumahoro,0,,0,0,0,0.0,6.2
+481,Bundesliga,VfL Wolfsburg,Jonas Adjei Adjetey,0,0.08,0,1,3,0.0,6.2
+482,Bundesliga,1. FSV Mainz 05,Fabio Moreno Fell,0,0.07,0,1,1,0.0,6.2
+483,Bundesliga,Eintracht Frankfurt,Aurélio Buta,0,0.02,0,1,1,0.0,6.18
+484,Bundesliga,Hamburger SV,Immanuel Pherai,0,0.05,0,1,1,0.0,6.17
+485,Bundesliga,Borussia Dortmund,Filippo Mané,0,,0,0,0,0.0,6.15
+486,Bundesliga,TSG Hoffenheim,Kevin Akpoguma,0,,0,0,0,0.0,5.33
+487,Bundesliga,FC Bayern München,Cassiano Kiala,0,,0,0,0,0.0,0.0
+488,Bundesliga,SV Werder Bremen,Isak Hansen Aarøen,0,,0,0,0,0.0,0.0
+489,Bundesliga,Borussia Dortmund,Mathis Albert,0,,0,0,0,0.0,0.0
+490,Bundesliga,FC Bayern München,Erblin Osmani,0,,0,0,0,0.0,0.0
+491,Bundesliga,TSG Hoffenheim,Yannick Eduardo,0,,0,0,0,0.0,0.0
+492,Bundesliga,1. FC Heidenheim,Leart Paqarada,0,,0,0,0,0.0,0.0
+493,Bundesliga,1. FC Union Berlin,Dmytro Bogdanov,0,,0,0,0,0.0,0.0
+494,Bundesliga,Hamburger SV,Louis Lemke,0,,0,0,0,0.0,0.0
+495,Bundesliga,Hamburger SV,Shafiq Nandja,0,,0,0,0,0.0,0.0
+496,Bundesliga,1. FC Heidenheim,Tobias Weigel,0,,0,0,0,0.0,0.0
+497,Bundesliga,RB Leipzig,Kevin Kampl,0,,0,0,0,0.0,0.0

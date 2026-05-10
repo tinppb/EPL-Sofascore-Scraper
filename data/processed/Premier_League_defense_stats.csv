@@ -1,0 +1,532 @@
+﻿#,League,Team,Name,Tackles,Interceptions,Clearances,Errors leading to goal,Blocked shots,Average Sofascore rating
+1,Premier League,Everton,James Garner,115,56,82,0,9,7.22
+2,Premier League,Wolverhampton,João Gomes,107,34,41,1,6,6.78
+3,Premier League,Tottenham Hotspur,João Palhinha,100,25,50,0,11,7.01
+4,Premier League,Nottingham Forest,Elliot Anderson,98,36,46,0,14,7.29
+5,Premier League,West Ham United,Mateus Fernandes,93,33,31,0,11,7.17
+6,Premier League,Bournemouth,Adrien Truffert,92,47,140,1,10,6.75
+7,Premier League,Nottingham Forest,Neco Williams,91,42,84,1,14,6.91
+8,Premier League,Crystal Palace,Tyrick Mitchell,90,33,91,0,11,6.79
+9,Premier League,Manchester United,Casemiro,88,30,73,0,27,7.22
+10,Premier League,Chelsea,Moisés Caicedo,87,56,28,1,14,7.16
+11,Premier League,Sunderland,Enzo Le Fée,83,27,36,1,11,6.86
+12,Premier League,Burnley,Florentino Luís,83,36,51,1,12,6.67
+13,Premier League,Brighton & Hove Albion,Diego Gómez,77,16,27,0,3,6.78
+14,Premier League,Wolverhampton,André,76,28,48,2,12,6.83
+15,Premier League,Leeds United,Ethan Ampadu,75,47,76,0,16,7.11
+16,Premier League,Manchester United,Luke Shaw,72,42,90,0,9,6.68
+17,Premier League,Crystal Palace,Daniel Muñoz,70,24,88,0,1,6.97
+18,Premier League,Bournemouth,Álex Jiménez,69,27,41,0,11,6.83
+19,Premier League,Manchester City,Nico O'Reilly,68,20,68,0,11,6.88
+20,Premier League,Brentford,Yehor Yarmoliuk,68,28,36,0,12,6.73
+21,Premier League,Arsenal,Martín Zubimendi,67,39,74,2,5,7.07
+22,Premier League,Crystal Palace,Adam Wharton,67,25,41,0,3,7.05
+23,Premier League,Sunderland,Nordi Mukiele,67,36,146,1,9,6.98
+24,Premier League,Everton,Iliman Ndiaye,67,16,17,0,2,6.89
+25,Premier League,Wolverhampton,Hugo Bueno,67,38,67,0,4,6.67
+26,Premier League,Arsenal,Jurriën Timber,66,24,53,0,6,6.91
+27,Premier League,Tottenham Hotspur,Pedro Porro,66,26,96,0,9,6.88
+28,Premier League,Fulham,Kenny Tete,65,27,68,0,6,6.91
+29,Premier League,Leeds United,Gabriel Gudmundsson,65,27,83,1,7,6.63
+30,Premier League,Arsenal,Declan Rice,64,35,70,1,12,7.44
+31,Premier League,Aston Villa,Matty Cash,64,21,81,2,12,6.85
+32,Premier League,Brighton & Hove Albion,Mats Wieffer,64,25,71,0,6,6.74
+33,Premier League,Sunderland,Trai Hume,64,25,98,0,12,6.73
+34,Premier League,Brentford,Michael Kayode,63,38,97,1,12,6.87
+35,Premier League,Everton,Tim Iroegbunam,62,20,7,1,9,6.77
+36,Premier League,Leeds United,Jayden Bogle,62,33,70,1,5,6.61
+37,Premier League,Bournemouth,Marcos Senesi,59,54,243,0,45,7.23
+38,Premier League,Leeds United,Anton Stach,59,20,49,0,9,7.16
+39,Premier League,Tottenham Hotspur,Cristian Romero,58,30,94,1,14,7.11
+40,Premier League,Bournemouth,Alex Scott,58,36,75,0,15,7.07
+41,Premier League,Nottingham Forest,Ibrahim Sangaré,58,20,48,0,16,6.98
+42,Premier League,Fulham,Calvin Bassey,58,19,93,2,21,6.79
+43,Premier League,Wolverhampton,Yerson Mosquera,57,27,107,0,14,6.65
+44,Premier League,Newcastle United,Bruno Guimarães,56,15,35,0,2,7.46
+45,Premier League,Brentford,Mikkel Damsgaard,56,25,16,0,3,7.0
+46,Premier League,Manchester City,Matheus Nunes,56,29,97,1,8,6.95
+47,Premier League,Crystal Palace,Maxence Lacroix,56,42,238,1,17,6.88
+48,Premier League,Crystal Palace,Daichi Kamada,56,10,22,0,1,6.87
+49,Premier League,Brighton & Hove Albion,Ferdi Kadıoğlu,56,25,76,0,7,6.83
+50,Premier League,Liverpool FC,Ryan Gravenberch,55,46,52,0,12,7.08
+51,Premier League,Fulham,Sander Berge,55,24,49,1,16,6.86
+52,Premier League,Everton,Jake O'Brien,55,14,139,0,16,6.74
+53,Premier League,Aston Villa,Youri Tielemans,54,18,17,0,14,7.18
+54,Premier League,Brighton & Hove Albion,Yankuba Minteh,53,16,14,0,0,6.87
+55,Premier League,Burnley,Kyle Walker,53,43,100,0,10,6.6
+56,Premier League,Brighton & Hove Albion,Jan Paul van Hecke,52,44,177,3,28,7.29
+57,Premier League,Liverpool FC,Dominik Szoboszlai,52,29,57,1,8,7.19
+58,Premier League,Liverpool FC,Ibrahima Konaté,52,29,182,0,24,7.09
+59,Premier League,Crystal Palace,Chris Richards,52,42,188,2,19,6.94
+60,Premier League,Burnley,Quilindschy Hartman,52,31,66,1,4,6.46
+61,Premier League,Chelsea,Enzo Fernández,51,20,27,0,1,7.13
+62,Premier League,Newcastle United,Lewis Hall,51,26,72,1,14,6.89
+63,Premier League,Chelsea,Malo Gusto,51,30,36,0,4,6.64
+64,Premier League,Manchester United,Bruno Fernandes,50,19,42,0,5,7.55
+65,Premier League,Everton,Kiernan Dewsbury-Hall,50,12,26,0,3,7.18
+66,Premier League,Nottingham Forest,Nicolás Domínguez,50,6,14,0,5,6.82
+67,Premier League,Wolverhampton,Santiago Bueno,50,22,107,0,18,6.78
+68,Premier League,Chelsea,Marc Cucurella,50,31,86,0,8,6.67
+69,Premier League,Sunderland,Granit Xhaka,49,29,81,0,20,7.33
+70,Premier League,Manchester City,Bernardo Silva,49,19,32,0,6,6.86
+71,Premier League,Manchester United,Diogo Dalot,49,26,90,1,9,6.85
+72,Premier League,Burnley,Lesley Ugochukwu,49,18,22,1,20,6.7
+73,Premier League,Chelsea,Reece James,48,33,41,1,6,7.19
+74,Premier League,Liverpool FC,Alexis Mac Allister,48,20,34,0,8,6.72
+75,Premier League,Everton,Vitaliy Mykolenko,48,29,138,1,9,6.72
+76,Premier League,Fulham,Ryan Sessegnon,48,25,64,0,8,6.57
+77,Premier League,Aston Villa,Amadou Onana,47,25,58,1,17,7.05
+78,Premier League,Arsenal,Piero Hincapié,47,24,85,0,9,6.93
+79,Premier League,Manchester United,Patrick Dorgu,47,14,31,0,3,6.89
+80,Premier League,Brighton & Hove Albion,Yasin Ayari,47,25,24,0,4,6.79
+81,Premier League,Leeds United,Brenden Aaronson,47,15,16,0,3,6.74
+82,Premier League,Everton,James Tarkowski,46,29,231,1,50,7.19
+83,Premier League,West Ham United,Jarrod Bowen,46,27,37,0,6,7.0
+84,Premier League,Sunderland,Noah Sadiki,46,34,42,0,11,6.78
+85,Premier League,Tottenham Hotspur,Rodrigo Bentancur,46,29,45,0,7,6.72
+86,Premier League,Manchester United,Manuel Ugarte,46,20,20,0,5,6.69
+87,Premier League,Fulham,Joachim Andersen,45,36,229,2,19,7.02
+88,Premier League,Leeds United,James Justin,45,25,79,0,10,6.94
+89,Premier League,Burnley,Josh Laurent,45,27,38,1,8,6.45
+90,Premier League,Manchester City,Marc Guéhi,44,49,161,2,22,7.3
+91,Premier League,Manchester City,Antoine Semenyo,44,12,29,0,7,7.03
+92,Premier League,West Ham United,Kyle Walker-Peters,44,9,33,1,4,6.66
+93,Premier League,Fulham,Saša Lukić,44,16,32,0,9,6.64
+94,Premier League,Bournemouth,Tyler Adams,43,30,39,0,9,6.83
+95,Premier League,Everton,Idrissa Gana Gueye,43,28,24,0,7,6.81
+96,Premier League,Fulham,Antonee Robinson,43,23,48,0,3,6.8
+97,Premier League,Newcastle United,Joelinton,43,30,40,0,3,6.79
+98,Premier League,Wolverhampton,Jhon Arias,43,8,15,0,2,6.61
+99,Premier League,Tottenham Hotspur,Djed Spence,42,17,52,2,3,6.58
+100,Premier League,Burnley,Jaidon Anthony,41,15,25,0,7,6.8
+101,Premier League,Liverpool FC,Miloš Kerkez,41,13,68,1,8,6.62
+102,Premier League,Newcastle United,Malick Thiaw,40,27,179,2,31,7.04
+103,Premier League,Brentford,Mathias Jensen,40,21,36,0,4,6.98
+104,Premier League,Aston Villa,Emiliano Buendía,40,10,18,0,4,6.84
+105,Premier League,Aston Villa,Morgan Rogers,40,13,30,0,3,6.81
+106,Premier League,West Ham United,Soungoutou Magassa,40,16,14,0,4,6.73
+107,Premier League,West Ham United,El Hadji Malick Diouf,40,30,109,0,12,6.69
+108,Premier League,Burnley,Maxime Estève,40,37,217,2,31,6.62
+109,Premier League,Manchester City,Rodri,39,13,40,0,3,7.42
+110,Premier League,Manchester City,Nico González,39,22,42,0,6,6.95
+111,Premier League,West Ham United,Lucas Paquetá,39,8,17,0,6,6.91
+112,Premier League,Brentford,Kevin Schade,39,18,30,0,3,6.77
+113,Premier League,Aston Villa,Ian Maatsen,39,16,56,0,1,6.59
+114,Premier League,Manchester United,Matheus Cunha,38,21,20,0,3,7.05
+115,Premier League,Bournemouth,James Hill,38,36,156,0,14,7.01
+116,Premier League,West Ham United,Crysencio Summerville,38,15,30,0,3,6.98
+117,Premier League,West Ham United,Tomáš Souček,38,16,77,0,13,6.73
+118,Premier League,West Ham United,Jean-Clair Todibo,38,16,94,0,12,6.59
+119,Premier League,Aston Villa,Boubacar Kamara,37,18,20,0,8,7.12
+120,Premier League,Leeds United,Sean Longstaff,37,12,10,0,6,6.87
+121,Premier League,Bournemouth,Marcus Tavernier,37,15,38,0,5,6.74
+122,Premier League,Tottenham Hotspur,Micky van de Ven,37,21,121,1,21,6.74
+123,Premier League,Newcastle United,Dan Burn,37,20,150,0,12,6.58
+124,Premier League,Arsenal,Gabriel Magalhães,36,22,166,1,32,7.3
+125,Premier League,Arsenal,Bukayo Saka,36,15,10,0,0,7.27
+126,Premier League,Brentford,Igor Thiago,36,12,59,0,6,6.95
+127,Premier League,Manchester United,Amad Diallo,36,15,29,1,3,6.88
+128,Premier League,Liverpool FC,Curtis Jones,36,16,24,0,5,6.82
+129,Premier League,Leeds United,Pascal Struijk,36,28,203,0,18,6.82
+130,Premier League,Brentford,Kristoffer Ajer,36,16,110,0,16,6.63
+131,Premier League,Nottingham Forest,Murillo,35,34,130,0,24,6.97
+132,Premier League,West Ham United,Konstantinos Mavropanos,35,43,173,0,23,6.95
+133,Premier League,Chelsea,Trevoh Chalobah,35,35,173,1,16,6.94
+134,Premier League,Crystal Palace,Jaydee Canvot,35,9,88,1,13,6.9
+135,Premier League,Aston Villa,Lucas Digne,35,14,57,2,4,6.76
+136,Premier League,Brighton & Hove Albion,Carlos Baleba,35,28,28,0,4,6.6
+137,Premier League,Chelsea,Jorrel Hato,35,14,36,0,5,6.55
+138,Premier League,Newcastle United,Sandro Tonali,34,31,37,0,7,6.93
+139,Premier League,Everton,Michael Keane,34,34,190,0,27,6.92
+140,Premier League,Tottenham Hotspur,Xavi Simons,34,15,12,0,1,6.88
+141,Premier League,Manchester United,Kobbie Mainoo,34,17,21,0,9,6.87
+142,Premier League,Crystal Palace,Yéremy Pino,34,8,18,0,1,6.85
+143,Premier League,Sunderland,Lutsharel Geertruida,34,18,44,0,9,6.81
+144,Premier League,Bournemouth,Amine Adli,34,6,17,0,2,6.76
+145,Premier League,Fulham,Raúl Jiménez,34,8,30,1,3,6.7
+146,Premier League,Fulham,Timothy Castagne,34,29,61,0,10,6.67
+147,Premier League,Sunderland,Reinildo Mandava,34,30,73,1,14,6.66
+148,Premier League,Arsenal,William Saliba,33,17,121,0,6,7.0
+149,Premier League,Brighton & Hove Albion,Lewis Dunk,33,29,134,1,26,6.96
+150,Premier League,Sunderland,Daniel Ballard,33,20,185,0,24,6.84
+151,Premier League,Tottenham Hotspur,Pape Matar Sarr,33,17,46,0,10,6.82
+152,Premier League,Leeds United,Joe Rodon,33,27,171,1,19,6.69
+153,Premier League,Liverpool FC,Florian Wirtz,32,10,13,0,2,6.88
+154,Premier League,Arsenal,Riccardo Calafiori,32,15,50,0,4,6.88
+155,Premier League,Wolverhampton,Emmanuel Agbadou,32,13,65,2,15,6.85
+156,Premier League,Sunderland,Omar Alderete,32,36,216,0,29,6.83
+157,Premier League,Chelsea,Andrey Santos,32,19,18,0,6,6.8
+158,Premier League,Manchester City,Phil Foden,31,8,12,0,3,6.97
+159,Premier League,Burnley,Josh Cullen,31,22,35,0,11,6.91
+160,Premier League,Manchester City,Rayan Aït-Nouri,31,13,17,0,1,6.91
+161,Premier League,Nottingham Forest,Ola Aina,31,25,71,0,3,6.89
+162,Premier League,Fulham,Emile Smith Rowe,31,22,17,0,1,6.67
+163,Premier League,Brighton & Hove Albion,Georginio Rutter,31,10,26,0,1,6.66
+164,Premier League,Manchester United,Leny Yoro,31,30,84,0,10,6.65
+165,Premier League,Newcastle United,Jacob Ramsey,31,9,8,0,3,6.65
+166,Premier League,West Ham United,Aaron Wan-Bissaka,30,38,90,0,7,6.6
+167,Premier League,West Ham United,Oliver Scarles,30,13,30,1,1,6.56
+168,Premier League,Newcastle United,Lewis Miley,29,20,34,0,3,6.91
+169,Premier League,Tottenham Hotspur,Mohammed Kudus,29,3,6,0,0,6.86
+170,Premier League,Brighton & Hove Albion,Joël Veltman,29,18,42,0,6,6.82
+171,Premier League,Nottingham Forest,Nikola Milenković,29,29,210,1,32,6.81
+172,Premier League,West Ham United,Freddie Potts,29,17,31,0,3,6.8
+173,Premier League,Wolverhampton,Jackson Tchatchoua,29,15,57,0,8,6.56
+174,Premier League,Fulham,Harry Wilson,28,15,48,0,3,7.14
+175,Premier League,Brighton & Hove Albion,Pascal Groß,28,11,22,0,4,7.07
+176,Premier League,Liverpool FC,Cody Gakpo,28,12,19,0,4,6.93
+177,Premier League,Wolverhampton,Jean-Ricner Bellegarde,28,10,20,3,3,6.79
+178,Premier League,Brentford,Nathan Collins,28,34,191,1,37,6.73
+179,Premier League,Nottingham Forest,Morato,27,9,75,1,11,6.92
+180,Premier League,Aston Villa,John McGinn,27,12,14,0,5,6.89
+181,Premier League,Manchester United,Noussair Mazraoui,27,13,51,0,2,6.88
+182,Premier League,Burnley,Bashir Humphreys,27,10,82,0,17,6.84
+183,Premier League,Burnley,Hannibal Mejbri,27,8,6,0,3,6.74
+184,Premier League,Bournemouth,Ryan Christie,27,12,18,0,4,6.73
+185,Premier League,Wolverhampton,Ladislav Krejčí,27,31,108,1,14,6.7
+186,Premier League,Tottenham Hotspur,Randal Kolo Muani,27,3,18,0,1,6.49
+187,Premier League,Manchester City,Rayan Cherki,26,7,7,0,1,7.23
+188,Premier League,Chelsea,João Pedro,26,5,27,0,5,7.1
+189,Premier League,Fulham,Alex Iwobi,26,13,18,0,3,7.06
+190,Premier League,Manchester City,Abdukodir Khusanov,26,29,52,0,9,6.94
+191,Premier League,Arsenal,Leandro Trossard,26,9,14,0,3,6.91
+192,Premier League,Arsenal,Cristhian Mosquera,26,8,37,0,6,6.89
+193,Premier League,Arsenal,Mikel Merino,26,10,19,0,2,6.86
+194,Premier League,Brentford,Jordan Henderson,26,17,34,0,7,6.8
+195,Premier League,Crystal Palace,Brennan Johnson,26,4,30,0,1,6.63
+196,Premier League,Fulham,Joshua King,26,3,14,1,5,6.61
+197,Premier League,Aston Villa,Lamare Bogarde,26,4,21,1,6,6.59
+198,Premier League,Bournemouth,Lewis Cook,25,24,26,0,6,6.88
+199,Premier League,Leeds United,Jaka Bijol,25,24,127,0,9,6.87
+200,Premier League,Tottenham Hotspur,Richarlison,25,5,46,0,2,6.86
+201,Premier League,Manchester United,Bryan Mbeumo,25,8,14,0,1,6.85
+202,Premier League,Tottenham Hotspur,Kevin Danso,25,17,113,1,11,6.84
+203,Premier League,Crystal Palace,Will Hughes,25,14,26,0,5,6.76
+204,Premier League,Newcastle United,Kieran Trippier,25,10,46,0,1,6.7
+205,Premier League,Burnley,Lucas Pires,25,17,35,0,6,6.54
+206,Premier League,Chelsea,Cole Palmer,24,15,12,0,0,7.01
+207,Premier League,Brentford,Vitaly Janelt,24,29,31,1,8,6.95
+208,Premier League,Wolverhampton,Mateus Mané,24,5,23,1,1,6.8
+209,Premier League,Leeds United,Ilia Gruev,24,15,19,0,6,6.71
+210,Premier League,Burnley,Hjalmar Ekdal,24,12,125,1,13,6.67
+211,Premier League,Crystal Palace,Evann Guessand,24,5,9,1,3,6.55
+212,Premier League,Tottenham Hotspur,Destiny Udogie,24,6,20,0,4,6.53
+213,Premier League,Manchester City,Jérémy Doku,23,13,2,0,0,7.47
+214,Premier League,Leeds United,Noah Okafor,23,12,16,0,1,6.94
+215,Premier League,Brentford,Dango Ouattara,23,23,47,0,0,6.85
+216,Premier League,Brighton & Hove Albion,Danny Welbeck,23,9,28,1,0,6.71
+217,Premier League,Nottingham Forest,Dan Ndoye,23,10,12,0,2,6.64
+218,Premier League,Everton,Dwight McNeil,23,10,13,1,3,6.63
+219,Premier League,Wolverhampton,Toti Gomes,23,14,94,1,12,6.49
+220,Premier League,Crystal Palace,Justin Devenny,23,1,11,0,0,6.48
+221,Premier League,Liverpool FC,Virgil van Dijk,22,23,267,2,23,7.22
+222,Premier League,Aston Villa,Ezri Konsa,22,23,117,1,28,7.0
+223,Premier League,Manchester United,Ayden Heaven,22,1,60,0,11,6.91
+224,Premier League,Brighton & Hove Albion,Maxim De Cuyper,22,10,25,0,2,6.85
+225,Premier League,Aston Villa,Douglas Luiz,22,14,10,0,2,6.84
+226,Premier League,Tottenham Hotspur,Dominic Solanke,22,3,11,0,2,6.82
+227,Premier League,Newcastle United,Tino Livramento,22,6,39,0,2,6.78
+228,Premier League,Newcastle United,Nick Woltemade,22,4,21,0,2,6.65
+229,Premier League,Tottenham Hotspur,Lucas Bergvall,22,2,13,1,2,6.61
+230,Premier League,Nottingham Forest,Igor Jesus,22,3,29,0,4,6.58
+231,Premier League,West Ham United,Pablo Felipe,22,4,10,0,2,6.45
+232,Premier League,Everton,Jack Grealish,21,12,11,0,6,7.23
+233,Premier League,Aston Villa,Pau Torres,21,11,56,2,17,6.89
+234,Premier League,Arsenal,Noni Madueke,21,4,6,0,1,6.83
+235,Premier League,Fulham,Kevin,21,9,7,0,0,6.79
+236,Premier League,Aston Villa,Ollie Watkins,21,6,14,0,1,6.77
+237,Premier League,Crystal Palace,Jefferson Lerma,21,20,51,1,3,6.75
+238,Premier League,Brentford,Keane Lewis-Potter,21,9,33,1,1,6.66
+239,Premier League,Wolverhampton,Marshall Munetsi,21,7,30,0,2,6.65
+240,Premier League,Nottingham Forest,Omari Hutchinson,20,10,8,1,0,6.74
+241,Premier League,Leeds United,Ao Tanaka,20,17,11,0,2,6.73
+242,Premier League,Bournemouth,Bafodé Diakité,20,12,83,0,5,6.63
+243,Premier League,Nottingham Forest,Nicolò Savona,20,4,29,0,3,6.6
+244,Premier League,Newcastle United,Anthony Gordon,19,3,13,1,0,7.05
+245,Premier League,Arsenal,Martin Ødegaard,19,7,6,0,0,7.0
+246,Premier League,Newcastle United,Sven Botman,19,21,128,0,23,6.99
+247,Premier League,Manchester United,Matthijs de Ligt,19,15,68,0,7,6.95
+248,Premier League,Chelsea,Wesley Fofana,19,33,119,0,19,6.91
+249,Premier League,Nottingham Forest,Morgan Gibbs-White,19,11,32,1,2,6.88
+250,Premier League,Manchester United,Harry Maguire,19,11,90,1,10,6.87
+251,Premier League,Manchester United,Mason Mount,19,7,8,0,1,6.83
+252,Premier League,Brentford,Sepp van den Berg,19,29,185,2,22,6.82
+253,Premier League,Wolverhampton,Rodrigo Gomes,19,7,12,0,2,6.64
+254,Premier League,Liverpool FC,Conor Bradley,19,13,29,0,4,6.63
+255,Premier League,Everton,Merlin Röhl,19,3,7,0,2,6.45
+256,Premier League,Manchester City,Joško Gvardiol,18,13,60,0,9,7.02
+257,Premier League,Arsenal,Eberechi Eze,18,10,10,0,1,6.97
+258,Premier League,Crystal Palace,Ismaïla Sarr,18,8,26,0,3,6.85
+259,Premier League,Brighton & Hove Albion,Kaoru Mitoma,18,9,17,0,1,6.8
+260,Premier League,Fulham,Oscar Bobb,18,7,3,0,0,6.76
+261,Premier League,Tottenham Hotspur,Mathys Tel,18,4,10,1,1,6.7
+262,Premier League,Bournemouth,David Brooks,18,4,15,0,0,6.66
+263,Premier League,Tottenham Hotspur,Yves Bissouma,18,9,14,1,3,6.59
+264,Premier League,Burnley,Loum Tchaouna,18,2,10,0,1,6.59
+265,Premier League,Newcastle United,Joe Willock,18,7,6,0,1,6.53
+266,Premier League,Chelsea,Tosin Adarabioyo,17,9,66,1,5,6.91
+267,Premier League,Brighton & Hove Albion,Jack Hinshelwood,17,5,23,0,5,6.69
+268,Premier League,Brighton & Hove Albion,Olivier Boscagli,16,18,42,0,2,6.97
+269,Premier League,Chelsea,Pedro Neto,16,6,13,0,0,6.94
+270,Premier League,Fulham,Jorge Cuenca,16,15,74,0,9,6.89
+271,Premier League,Liverpool FC,Mohamed Salah,16,4,7,0,1,6.88
+272,Premier League,Tottenham Hotspur,Conor Gallagher,16,16,4,0,4,6.68
+273,Premier League,Leeds United,Wilfried Gnonto,16,3,10,0,0,6.65
+274,Premier League,West Ham United,Max Kilman,16,9,111,0,24,6.56
+275,Premier League,Wolverhampton,Matt Doherty,16,7,37,0,6,6.55
+276,Premier League,Burnley,Lyle Foster,16,4,20,0,3,6.48
+277,Premier League,Manchester City,Erling Haaland,15,5,39,0,1,7.32
+278,Premier League,Manchester United,Lisandro Martínez,15,11,51,0,9,7.06
+279,Premier League,Arsenal,Ben White,15,9,25,0,4,6.86
+280,Premier League,Burnley,James Ward-Prowse,15,20,17,2,7,6.82
+281,Premier League,Burnley,Zian Flemming,15,7,32,0,5,6.79
+282,Premier League,Newcastle United,Jacob Murphy,15,4,16,0,3,6.73
+283,Premier League,Everton,Beto,15,1,40,0,5,6.64
+284,Premier League,Brentford,Rico Henry,15,8,41,1,5,6.43
+285,Premier League,Newcastle United,Fabian Schär,14,18,71,0,12,7.1
+286,Premier League,Nottingham Forest,Callum Hudson Odoi,14,8,14,0,2,6.87
+287,Premier League,Chelsea,Alejandro Garnacho,14,4,6,0,0,6.79
+288,Premier League,Brighton & Hove Albion,James Milner,14,6,18,1,1,6.71
+289,Premier League,Nottingham Forest,Ryan Yates,14,9,21,0,3,6.7
+290,Premier League,Sunderland,Habib Diarra,14,4,13,0,0,6.66
+291,Premier League,Brighton & Hove Albion,Brajan Gruda,14,2,2,1,0,6.63
+292,Premier League,Crystal Palace,Nathaniel Clyne,14,5,19,0,0,6.61
+293,Premier League,Newcastle United,Anthony Elanga,14,3,6,0,0,6.6
+294,Premier League,Brentford,Aaron Hickey,14,7,23,0,6,6.6
+295,Premier League,Manchester City,Rúben Dias,13,22,115,0,17,7.2
+296,Premier League,Everton,Jarrad Branthwaite,13,11,41,0,2,7.01
+297,Premier League,Newcastle United,Harvey Barnes,13,3,16,0,1,6.77
+298,Premier League,Manchester City,Omar Marmoush,13,2,2,0,2,6.71
+299,Premier League,Sunderland,Chris Rigg,13,3,10,0,1,6.65
+300,Premier League,Everton,Harrison Armstrong,13,4,8,0,1,6.64
+301,Premier League,Wolverhampton,Ki-Jana Hoever,13,6,20,0,1,6.64
+302,Premier League,Burnley,Axel Tuanzebe,13,9,75,0,9,6.5
+303,Premier League,Everton,Carlos Alcaraz,13,3,7,0,3,6.48
+304,Premier League,Bournemouth,Adam Smith,13,6,34,0,6,6.46
+305,Premier League,West Ham United,Axel Disasi,12,9,43,0,10,6.83
+306,Premier League,Liverpool FC,Andy Robertson,12,7,29,1,3,6.71
+307,Premier League,Arsenal,Gabriel Martinelli,12,1,10,0,1,6.6
+308,Premier League,Burnley,Jacob Bruun Larsen,12,6,13,0,1,6.52
+309,Premier League,Liverpool FC,Hugo Ekitiké,11,3,27,0,2,6.92
+310,Premier League,Aston Villa,Ross Barkley,11,2,9,0,3,6.87
+311,Premier League,Nottingham Forest,Luca Netz,11,1,7,0,2,6.84
+312,Premier League,Chelsea,Estêvão,11,4,5,0,0,6.76
+313,Premier League,Sunderland,Bertrand Traoré,11,2,6,0,3,6.75
+314,Premier League,Liverpool FC,Jeremie Frimpong,11,6,13,0,0,6.72
+315,Premier League,Burnley,Marcus Edwards,11,2,4,0,0,6.66
+316,Premier League,Brighton & Hove Albion,Charalampos Kostoulas,11,1,4,0,0,6.66
+317,Premier League,Sunderland,Chemsdine Talbi,11,2,17,2,1,6.63
+318,Premier League,Tottenham Hotspur,Archie Gray,11,17,43,1,4,6.6
+319,Premier League,Bournemouth,Evanilson,11,6,27,0,4,6.59
+320,Premier League,Sunderland,Simon Adingra,11,2,11,0,0,6.51
+321,Premier League,Bournemouth,Rayan,10,6,13,0,0,7.09
+322,Premier League,Everton,Nathan Patterson,10,2,17,0,2,6.88
+323,Premier League,Manchester City,Tijjani Reijnders,10,10,20,0,1,6.85
+324,Premier League,Crystal Palace,Jean Philippe Mateta,10,6,45,0,6,6.74
+325,Premier League,Nottingham Forest,Oleksandr Zinchenko,10,2,11,0,1,6.74
+326,Premier League,Leeds United,Dominic Calvert-Lewin,10,2,33,0,9,6.67
+327,Premier League,Tottenham Hotspur,Wilson Odobert,10,1,13,0,0,6.6
+328,Premier League,Chelsea,Josh Acheampong,10,10,19,2,2,6.59
+329,Premier League,Bournemouth,Justin Kluivert,10,4,2,0,1,6.58
+330,Premier League,Liverpool FC,Joe Gomez,10,9,24,0,1,6.55
+331,Premier League,Bournemouth,Eli Junior Kroupi,9,8,32,0,0,6.8
+332,Premier League,West Ham United,Valentín Castellanos,9,4,17,0,2,6.63
+333,Premier League,Wolverhampton,David Møller Wolfe,9,6,27,0,2,6.61
+334,Premier League,Sunderland,Wilson Isidor,9,0,15,0,1,6.61
+335,Premier League,Wolverhampton,Hwang Hee-chan,9,9,15,2,0,6.56
+336,Premier League,Manchester United,Joshua Zirkzee,9,1,11,0,2,6.52
+337,Premier League,Crystal Palace,Jørgen Strand Larsen,9,4,35,0,7,6.39
+338,Premier League,Manchester City,Nathan Aké,8,5,30,0,0,6.82
+339,Premier League,Chelsea,Roméo Lavia,8,5,4,0,0,6.74
+340,Premier League,Nottingham Forest,Jair,8,4,27,0,2,6.71
+341,Premier League,Wolverhampton,Angel Gomes,8,0,3,0,2,6.71
+342,Premier League,Leeds United,Lukas Nmecha,8,3,8,0,1,6.65
+343,Premier League,Chelsea,Jamie Gittens,8,2,3,0,1,6.65
+344,Premier League,Sunderland,Dennis Cirkin,8,5,14,0,1,6.64
+345,Premier League,Arsenal,Myles Lewis-Skelly,8,4,10,0,1,6.63
+346,Premier League,Crystal Palace,Eddie Nketiah,8,2,10,0,1,6.63
+347,Premier League,Aston Villa,Leon Bailey,8,1,2,0,0,6.62
+348,Premier League,Sunderland,Brian Brobbey,8,0,13,0,5,6.61
+349,Premier League,Liverpool FC,Federico Chiesa,8,4,7,0,2,6.59
+350,Premier League,Liverpool FC,Wataru Endo,7,0,13,0,0,6.7
+351,Premier League,Manchester City,Savinho,7,5,6,0,0,6.68
+352,Premier League,Aston Villa,Jadon Sancho,7,2,9,1,0,6.67
+353,Premier League,Chelsea,Benoît Badiashile,7,10,27,1,4,6.66
+354,Premier League,Wolverhampton,Adam Armstrong,7,2,11,0,1,6.61
+355,Premier League,Fulham,Rodrigo Muniz,7,2,22,0,3,6.59
+356,Premier League,Liverpool FC,Alexander Isak,7,0,9,0,1,6.57
+357,Premier League,Everton,Tyler Dibling,7,6,4,0,1,6.56
+358,Premier League,Sunderland,Nilson Angulo,7,2,8,0,0,6.5
+359,Premier League,Wolverhampton,Pedro Lima,7,5,5,0,0,6.46
+360,Premier League,Fulham,Samuel Chukwueze,6,7,10,0,1,6.89
+361,Premier League,Fulham,Tom Cairney,6,2,7,0,1,6.78
+362,Premier League,Leeds United,Sebastiaan Bornauw,6,4,23,0,5,6.7
+363,Premier League,Aston Villa,Victor Lindelöf,6,6,30,0,5,6.67
+364,Premier League,West Ham United,Mohamadou Kanté,6,0,1,0,0,6.67
+365,Premier League,Crystal Palace,Chadi Riad,6,1,18,0,2,6.64
+366,Premier League,Arsenal,Viktor Gyökeres,6,1,18,0,3,6.61
+367,Premier League,West Ham United,Andy Irving,6,1,0,0,1,6.6
+368,Premier League,Wolverhampton,Tolu Arokodare,6,5,40,0,1,6.55
+369,Premier League,Everton,Tyrique George,6,2,0,0,0,6.55
+370,Premier League,Everton,Thierno Barry,6,5,23,0,3,6.55
+371,Premier League,Fulham,Issa Diop,6,4,33,0,6,6.52
+372,Premier League,Burnley,Armando Broja,6,3,9,0,0,6.41
+373,Premier League,Tottenham Hotspur,Ben Davies,5,1,8,0,1,6.9
+374,Premier League,Bournemouth,Veljko Milosavljević,5,4,25,0,5,6.8
+375,Premier League,Manchester United,Benjamin Šeško,5,3,15,0,2,6.75
+376,Premier League,Manchester City,Rico Lewis,5,7,6,0,1,6.73
+377,Premier League,Brighton & Hove Albion,Matt O'Riley,5,0,2,0,1,6.73
+378,Premier League,Brentford,Ethan Pinnock,5,5,27,0,5,6.73
+379,Premier League,Arsenal,Kai Havertz,5,0,7,0,1,6.62
+380,Premier League,Leeds United,Daniel James,5,1,2,0,0,6.62
+381,Premier League,Leeds United,Jack Harrison,5,4,2,0,0,6.58
+382,Premier League,Manchester United,Jack Fletcher,5,1,0,0,1,6.57
+383,Premier League,Nottingham Forest,James McAtee,5,3,3,0,1,6.53
+384,Premier League,Sunderland,Eliezer Mayenda,5,1,5,0,1,6.52
+385,Premier League,Sunderland,Romaine Mundle,5,1,6,0,0,6.5
+386,Premier League,Tottenham Hotspur,Radu Drăguşin,5,16,43,2,8,6.49
+387,Premier League,Bournemouth,Ben Gannon-Doak,5,1,0,0,0,6.49
+388,Premier League,Sunderland,Jenson Seelt,4,0,7,0,1,6.95
+389,Premier League,Fulham,Bernd Leno,4,1,44,1,0,6.93
+390,Premier League,Chelsea,Dário Essugo,4,0,1,0,0,6.9
+391,Premier League,Newcastle United,William Osula,4,1,0,0,1,6.69
+392,Premier League,Aston Villa,Donyell Malen,4,0,2,0,0,6.65
+393,Premier League,Sunderland,Arthur Masuaku,4,2,4,0,0,6.63
+394,Premier League,Aston Villa,Tyrone Mings,4,10,75,0,8,6.63
+395,Premier League,Aston Villa,Tammy Abraham,4,0,3,0,0,6.6
+396,Premier League,Brentford,Reiss Nelson,4,0,2,0,1,6.59
+397,Premier League,Burnley,Joe Worrall,4,5,60,0,7,6.57
+398,Premier League,Sunderland,Luke O'Nien,4,5,18,1,1,6.57
+399,Premier League,Arsenal,Gabriel Jesus,4,3,3,0,0,6.54
+400,Premier League,Nottingham Forest,Dilane Bakwa,4,0,2,0,1,6.53
+401,Premier League,Chelsea,Liam Delap,4,1,11,0,0,6.49
+402,Premier League,Newcastle United,Yoane Wissa,4,0,2,0,1,6.43
+403,Premier League,Nottingham Forest,Zach Abbott,4,1,7,0,1,6.37
+404,Premier League,Manchester City,Max Alleyne,3,4,4,0,0,7.1
+405,Premier League,Brentford,Antoni Milambo,3,0,0,0,0,6.7
+406,Premier League,Brentford,Fabio Carvalho,3,0,0,0,0,6.66
+407,Premier League,West Ham United,Callum Wilson,3,3,4,0,2,6.62
+408,Premier League,Brighton & Hove Albion,Stefanos Tzimas,3,0,1,0,1,6.62
+409,Premier League,Wolverhampton,Tawanda Chirewa,3,0,1,0,0,6.6
+410,Premier League,Crystal Palace,Borna Sosa,3,2,4,0,0,6.37
+411,Premier League,Manchester City,James Trafford,2,0,6,1,0,7.4
+412,Premier League,Everton,Jordan Pickford,2,0,46,3,0,7.06
+413,Premier League,Liverpool FC,Rio Ngumoha,2,3,3,0,1,7.02
+414,Premier League,Chelsea,Robert Sánchez,2,1,26,1,0,6.94
+415,Premier League,Wolverhampton,Sam Johnstone,2,0,24,1,0,6.88
+416,Premier League,Arsenal,Max Dowman,2,1,0,0,0,6.84
+417,Premier League,Chelsea,Levi Colwill,2,3,6,0,1,6.75
+418,Premier League,Brighton & Hove Albion,Diego Coppola,2,1,13,0,2,6.7
+419,Premier League,Burnley,Oliver Sonne,2,1,4,0,0,6.68
+420,Premier League,Brentford,Frank Onyeka,2,0,3,0,0,6.64
+421,Premier League,Nottingham Forest,Jota Silva,2,0,1,0,0,6.6
+422,Premier League,Crystal Palace,Romain Esse,2,0,0,0,0,6.58
+423,Premier League,West Ham United,Adama Traoré,2,0,2,0,0,6.51
+424,Premier League,West Ham United,Niclas Füllkrug,2,2,4,0,1,6.19
+425,Premier League,Wolverhampton,Tom Edozie,1,0,0,0,0,7.1
+426,Premier League,Brighton & Hove Albion,Bart Verbruggen,1,0,30,4,0,7.09
+427,Premier League,Brentford,Caoimhin Kelleher,1,1,43,1,0,7.06
+428,Premier League,Manchester United,Senne Lammens,1,0,25,1,0,7.01
+429,Premier League,Burnley,Martin Dúbravka,1,0,59,2,0,6.98
+430,Premier League,Leeds United,Karl Darlow,1,0,24,0,0,6.97
+431,Premier League,Crystal Palace,Dean Henderson,1,2,49,0,0,6.95
+432,Premier League,Newcastle United,Nick Pope,1,0,34,3,0,6.89
+433,Premier League,Arsenal,David Raya,1,1,34,1,0,6.89
+434,Premier League,Tottenham Hotspur,Guglielmo Vicario,1,0,37,2,0,6.85
+435,Premier League,Manchester City,Mateo Kovačić,1,0,0,0,0,6.8
+436,Premier League,Nottingham Forest,Matz Sels,1,0,24,2,0,6.79
+437,Premier League,Arsenal,Ethan Nwaneri,1,0,1,0,0,6.74
+438,Premier League,Sunderland,Jocelin Ta Bi,1,0,0,0,0,6.7
+439,Premier League,Chelsea,Jesse Derry,1,0,0,0,0,6.7
+440,Premier League,Liverpool FC,Giorgi Mamardashvili,1,1,9,0,0,6.66
+441,Premier League,Nottingham Forest,Taiwo Awoniyi,1,1,4,0,1,6.65
+442,Premier League,Nottingham Forest,Chris Wood,1,1,8,0,4,6.63
+443,Premier League,West Ham United,Guido Rodríguez,1,2,2,0,0,6.62
+444,Premier League,Crystal Palace,Odsonne Édouard,1,0,0,0,0,6.6
+445,Premier League,Manchester United,Shea Lacey,1,0,0,0,0,6.6
+446,Premier League,Wolverhampton,Fer López,1,0,1,0,0,6.52
+447,Premier League,Bournemouth,Hamed Junior Traorè,1,0,1,0,0,6.5
+448,Premier League,Manchester United,Tyrell Malacia,1,0,1,0,0,6.5
+449,Premier League,Brighton & Hove Albion,Tom Watson,1,0,0,0,0,6.5
+450,Premier League,West Ham United,Luís Guilherme,1,0,2,0,0,6.48
+451,Premier League,Bournemouth,Enes Ünal,1,0,12,0,0,6.48
+452,Premier League,Bournemouth,Alex Tóth,1,2,3,0,0,6.47
+453,Premier League,Burnley,Mike Trésor,1,0,0,0,0,6.47
+454,Premier League,Fulham,Jonah Kusi-Asare,1,0,0,0,0,6.47
+455,Premier League,Crystal Palace,Christantus Uche,1,0,3,0,0,6.46
+456,Premier League,Crystal Palace,Joel Drakes-Thomas,1,0,0,0,0,6.45
+457,Premier League,Aston Villa,Andrés García,1,0,0,0,0,6.45
+458,Premier League,Leeds United,Joël Piroe,1,1,0,0,0,6.44
+459,Premier League,Brighton & Hove Albion,Harry Howell,1,0,3,0,0,6.43
+460,Premier League,Nottingham Forest,Arnaud Kalimuendo,1,0,1,0,0,6.4
+461,Premier League,Leeds United,Facundo Buonanotte,1,1,0,0,0,6.4
+462,Premier League,Bournemouth,Julio Soler,1,0,0,0,0,6.3
+463,Premier League,West Ham United,Nayef Aguerd,1,1,11,0,2,6.2
+464,Premier League,Chelsea,Mamadou Sarr,1,1,5,0,1,6.15
+465,Premier League,Crystal Palace,Walter Benítez,0,0,1,0,0,7.1
+466,Premier League,Nottingham Forest,Stefan Ortega,0,0,1,0,0,7.1
+467,Premier League,Wolverhampton,Daniel Bentley,0,0,5,0,0,7.1
+468,Premier League,Manchester City,Gianluigi Donnarumma,0,1,41,2,0,7.02
+469,Premier League,Sunderland,Robin Roefs,0,0,34,3,0,7.01
+470,Premier League,Burnley,Max Weiss,0,0,2,0,0,7.0
+471,Premier League,Sunderland,Melker Ellborg,0,0,6,0,0,7.0
+472,Premier League,Aston Villa,Emiliano Martínez,0,0,26,3,0,6.96
+473,Premier League,Liverpool FC,Freddie Woodman,0,1,3,0,0,6.93
+474,Premier League,West Ham United,Mads Hermansen,0,0,19,2,0,6.87
+475,Premier League,Bournemouth,Đorđe Petrović,0,0,60,2,0,6.86
+476,Premier League,Liverpool FC,Alisson,0,0,37,0,0,6.81
+477,Premier League,Fulham,Harrison Reed,0,0,1,0,0,6.8
+478,Premier League,West Ham United,Alphonse Aréola,0,1,29,2,0,6.8
+479,Premier League,Wolverhampton,José Sá,0,0,44,1,0,6.8
+480,Premier League,Chelsea,Filip Jørgensen,0,1,2,0,0,6.76
+481,Premier League,Tottenham Hotspur,Jun'ai Byfield,0,0,0,0,0,6.7
+482,Premier League,Everton,Séamus Coleman,0,0,0,0,0,6.7
+483,Premier League,Newcastle United,Aaron Ramsdale,0,0,10,0,0,6.67
+484,Premier League,Nottingham Forest,Lorenzo Lucca,0,1,3,0,0,6.65
+485,Premier League,Manchester United,Tyler Fredricson,0,0,2,0,0,6.6
+486,Premier League,Aston Villa,Jamaldeen Jimoh,0,0,0,0,0,6.6
+487,Premier League,Tottenham Hotspur,Callum Olusesi,0,0,0,0,0,6.6
+488,Premier League,Brentford,Josh Dasilva,0,0,0,0,0,6.6
+489,Premier League,Brighton & Hove Albion,Solly March,0,0,0,0,0,6.6
+490,Premier League,Sunderland,Dan Neil,0,1,1,0,0,6.6
+491,Premier League,Manchester United,Altay Bayındır,0,0,7,1,0,6.6
+492,Premier League,Brentford,Romelle Donovan,0,0,0,0,0,6.6
+493,Premier League,Arsenal,Christian Nørgaard,0,0,6,0,1,6.6
+494,Premier League,Aston Villa,Alysson,0,1,0,0,0,6.6
+495,Premier League,Aston Villa,George Hemmings,0,0,0,0,0,6.6
+496,Premier League,Leeds United,Lucas Perri,0,0,16,0,0,6.59
+497,Premier League,West Ham United,Ezra Mayers,0,1,4,0,0,6.58
+498,Premier League,Manchester City,John Stones,0,2,14,0,4,6.57
+499,Premier League,Tottenham Hotspur,Antonín Kinský,0,0,8,0,0,6.55
+500,Premier League,Aston Villa,Harvey Elliott,0,0,1,0,1,6.52
+501,Premier League,Manchester United,Bendito Mantato,0,0,0,0,0,6.5
+502,Premier League,Nottingham Forest,Angus Gunn,0,0,1,0,0,6.5
+503,Premier League,Manchester City,Divine Mukasa,0,0,0,0,0,6.5
+504,Premier League,Aston Villa,Marco Bizot,0,0,7,1,0,6.5
+505,Premier League,Burnley,Zeki Amdouni,0,0,0,0,0,6.5
+506,Premier League,Tottenham Hotspur,Dane Scarlett,0,0,0,0,0,6.45
+507,Premier League,Brentford,Kaye Furo,0,0,0,0,0,6.4
+508,Premier League,Burnley,Jaydon Banel,0,0,0,0,0,6.4
+509,Premier League,West Ham United,George Earthy,0,0,0,0,0,6.4
+510,Premier League,Aston Villa,Bradley Burrowes,0,0,0,0,0,6.4
+511,Premier League,Crystal Palace,Kaden Rodney,0,0,0,0,0,6.4
+512,Premier League,Liverpool FC,Trey Nyoni,0,0,0,0,0,6.4
+513,Premier League,Burnley,Ashley Barnes,0,0,0,0,0,6.4
+514,Premier League,Newcastle United,Jamaal Lascelles,0,0,4,0,1,6.4
+515,Premier League,Sunderland,Patrick Roberts,0,0,0,0,0,6.4
+516,Premier League,Brighton & Hove Albion,Igor Júlio,0,1,10,0,2,6.37
+517,Premier League,West Ham United,Callum Marshall,0,2,0,0,0,6.35
+518,Premier League,Wolverhampton,Saša Kalajdžić,0,1,0,0,0,6.3
+519,Premier League,Bournemouth,Ben Winterburn,0,0,0,0,0,6.3
+520,Premier League,Tottenham Hotspur,Souza,0,2,4,0,0,6.3
+521,Premier League,Chelsea,Marc Guiu,0,0,4,0,0,6.28
+522,Premier League,Nottingham Forest,John Victor,0,0,4,1,0,6.28
+523,Premier League,Brentford,Hákon Rafn Valdimarsson,0,0,0,0,0,6.2
+524,Premier League,Leeds United,Sam Byram,0,0,0,0,0,6.2
+525,Premier League,Newcastle United,Emil Krafth,0,0,1,0,0,5.8
+526,Premier League,Manchester United,Tyler Fletcher,0,0,0,0,0,0.0
+527,Premier League,Newcastle United,Alex Murphy,0,0,1,0,0,0.0
+528,Premier League,Tottenham Hotspur,James Rowswell,0,0,0,0,0,0.0
+529,Premier League,Brentford,Myles Peart-Harris,0,0,0,0,0,0.0
+530,Premier League,Brighton & Hove Albion,Nehemiah Oriola,0,0,0,0,0,0.0
+531,Premier League,Brighton & Hove Albion,Joe Knight,0,0,0,0,0,0.0

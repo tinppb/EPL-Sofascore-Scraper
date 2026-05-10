@@ -1,119 +1,87 @@
-from curl_cffi import requests
-import pandas as pd
-import json
-import os
+import sys
 import time
+import pandas as pd
+from curl_cffi import requests
+import os      
+import json
+# ==========================================
+# NHẬN THAM SỐ TỪ MAIN.PY
+# ==========================================
+league_name = sys.argv[1] if len(sys.argv) > 1 else "Premier_League"
+tour_id = sys.argv[2] if len(sys.argv) > 2 else "17"
+season_id = sys.argv[3] if len(sys.argv) > 3 else "76986"
 
-# ==========================================
-# CẤU HÌNH API & HEADERS
-# ==========================================
-url = (
-    "https://www.sofascore.com/api/v1/"
-    "unique-tournament/17/season/76986/statistics"
-)
+print(f"\n[GOALKEEPING] Đang cào dữ liệu cho giải: {league_name.replace('_', ' ')}...")
+
+url = f"https://www.sofascore.com/api/v1/unique-tournament/{tour_id}/season/{season_id}/statistics"
 
 headers = {
-    "accept": "*/*",
-    "referer": "https://www.sofascore.com/",
-    "user-agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/136.0.0.0 Safari/537.36"
-    )
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Referer": "https://www.sofascore.com/",
 }
 
-# ==========================================
-# KHỞI TẠO BIẾN
-# ==========================================
 limit = 20
 offset = 0
 all_rows = []
 
-os.makedirs("data/raw/goalkeeping", exist_ok=True)
-os.makedirs("data/processed", exist_ok=True)
-
-print("Bắt đầu crawl dữ liệu Thủ môn (Goalkeeping)...")
-
-# ==========================================
-# VÒNG LẶP CRAWL
-# ==========================================
 while True:
-    print(f"Đang lấy dữ liệu từ offset: {offset}...")
     params = {
         "limit": limit,
         "offset": offset,
         "order": "-saves",
         "accumulation": "total",
-        
-        # [CẬP NHẬT] - Sửa lại tên key cho chính xác với database của Sofascore
-        "fields": "saves,cleanSheet,penaltySave,savedShotsFromInsideTheBox,runsOut,rating",
-        
-        "filters": "position.in.G"
+        "filters": "position.in.G", # Lọc riêng thủ môn
+        "fields": "saves,cleanSheet,penaltySave,savedShotsFromInsideTheBox,runsOut,rating"
     }
-    
 
-    response = requests.get(
-        url,
-        params=params,
-        headers=headers,
-        impersonate="chrome124"
-    )
+    try:
+        response = requests.get(url, headers=headers, params=params, impersonate="chrome124")
+        
+        if response.status_code != 200:
+            print(f"Lỗi {response.status_code}. Dừng cào.")
+            break
+            
+        data = response.json()
+        raw_folder = "data/raw/goalkeeping"
+        os.makedirs(raw_folder, exist_ok=True) # Tự động tạo thư mục nếu chưa có
+        
+        raw_filepath = f"{raw_folder}/{league_name}_offset_{offset}.json"
+        with open(raw_filepath, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
+        players = data.get("results", [])
+        
+        if not players:
+            break
+            
+        for p in players:
+            player_info = p.get("player", {})
+            team_info = p.get("team", {})
+            stats = p
 
-    if response.status_code != 200:
-        print(f"Lỗi ở offset {offset}: HTTP {response.status_code}")
+            all_rows.append({
+                "League": league_name.replace("_", " "),
+                "Team": team_info.get("name"),
+                "Name": player_info.get("name"),
+                "Total saves": stats.get("saves", 0),
+                "Clean sheets": stats.get("cleanSheet", 0), 
+                "Penalties saved": stats.get("penaltySave", 0), 
+                "Saves from inside box": stats.get("savedShotsFromInsideTheBox", 0),
+                "Runs out": stats.get("runsOut", 0),
+                "Average Sofascore rating": stats.get("rating", 0)
+            })
+
+        offset += limit
+        time.sleep(1.5)
+
+    except Exception as e:
+        print(f"Lỗi kết nối: {e}")
         break
 
-    data = response.json()
-    players = data.get("results", [])
-
-    if not players:
-        print("Đã lấy hết dữ liệu!")
-        break
-
-    with open(f"data/raw/goalkeeping/goalkeeping_stats_offset_{offset}.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    # ==========================================
-    # PARSE DỮ LIỆU
-    # ==========================================
-    for p in players:
-        player_info = p.get("player", {})
-        team_info = p.get("team", {})
-        stats = p
-
-        all_rows.append({
-            "Team": team_info.get("name"),
-            "Name": player_info.get("name"),
-            "Total saves": stats.get("saves", 0),
-            
-            # [CẬP NHẬT] - dùng "cleanSheet"
-            "Clean sheets": stats.get("cleanSheet", 0), 
-            
-            "Penalties saved": stats.get("penaltySave", 0), 
-            
-            # [CẬP NHẬT] - dùng "savedShotsFromInsideTheBox"
-            "Saves from inside box": stats.get("savedShotsFromInsideTheBox", 0),
-            
-            "Runs out": stats.get("runsOut", 0),
-            "Average Sofascore rating": stats.get("rating", 0)
-        })
-   
-    offset += limit
-    time.sleep(1.5)
-
-# ==========================================
-# XUẤT DATAFRAME VÀ LƯU CSV
-# ==========================================
-df = pd.DataFrame(all_rows)
-
-df.index = df.index + 1
-df.index.name = "#"
-
-print("\nPreview Goalkeeping Stats:\n")
-print(df.head())
-
-csv_path = "data/processed/goalkeeping.csv"
-
-df.to_csv(csv_path, index=True, encoding="utf-8-sig")
-
-print(f"\nĐã lưu: {csv_path}")
-print(f"Tổng số thủ môn đã lọc chuẩn xác: {len(df)}")
+# Xuất CSV
+if all_rows:
+    df = pd.DataFrame(all_rows)
+    df.index = range(1, len(df) + 1)
+    df.index.name = "#"
+    csv_filename = f"data/processed/{league_name}_goalkeeping_stats.csv"
+    df.to_csv(csv_filename, index=True, encoding='utf-8-sig')
+    print(f"✅ Đã lưu {len(df)} thủ môn vào: {csv_filename}")

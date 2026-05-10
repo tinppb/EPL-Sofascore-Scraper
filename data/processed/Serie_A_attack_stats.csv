@@ -1,0 +1,566 @@
+﻿#,League,Team,Name,Goals,Expected goals (xG),Big chances missed,Succ. dribbles,Total shots,Goal conversion %,Average Sofascore rating
+1,Serie A,Inter,Lautaro Martínez,17,12.48,15,20,88,19.32,7.14
+2,Serie A,Inter,Marcus Thuram,13,9.43,15,17,74,17.57,7.04
+3,Serie A,Como,Anastasios Douvikas,13,10.28,10,12,58,22.41,6.83
+4,Serie A,Como,Nico Paz,12,8.5,3,69,121,9.92,7.33
+5,Serie A,AS Roma,Donyell Malen,11,9.94,6,13,60,18.33,7.27
+6,Serie A,Torino,Giovanni Simeone,11,9.3,11,22,74,14.86,6.81
+7,Serie A,Juventus,Kenan Yıldız,10,8.01,3,77,93,10.75,7.4
+8,Serie A,Udinese,Keinan Davis,10,9.93,7,30,47,21.28,7.05
+9,Serie A,Atalanta,Nikola Krstović,10,13.16,12,15,93,10.75,6.68
+10,Serie A,Atalanta,Gianluca Scamacca,10,6.73,5,13,57,17.54,6.68
+11,Serie A,SSC Napoli,Rasmus Højlund,10,9.48,10,11,56,17.86,6.5
+12,Serie A,Inter,Hakan Çalhanoğlu,9,5.65,1,5,50,18.0,7.5
+13,Serie A,SSC Napoli,Scott McTominay,9,9.92,11,23,92,9.78,7.0
+14,Serie A,Cremonese,Federico Bonazzoli,9,8.66,5,11,72,12.5,7.0
+15,Serie A,Milan,Rafael Leão,9,9.77,9,24,60,15.0,6.91
+16,Serie A,Sassuolo,Domenico Berardi,8,5.77,4,10,37,21.62,7.04
+17,Serie A,Milan,Christian Pulišić,8,7.51,9,27,50,16.0,7.01
+18,Serie A,Torino,Nikola Vlašić,8,6.91,2,27,46,17.39,6.91
+19,Serie A,Bologna,Riccardo Orsolini,8,8.61,7,31,79,10.13,6.84
+20,Serie A,Parma,Mateo Pellegrino,8,8.12,9,23,69,11.59,6.72
+21,Serie A,Fiorentina,Moise Kean,8,15.06,18,25,98,8.16,6.68
+22,Serie A,Sassuolo,Andrea Pinamonti,8,8.09,14,5,69,11.59,6.51
+23,Serie A,Bologna,Santiago Castro,7,6.82,8,14,58,12.07,6.75
+24,Serie A,Genoa,Lorenzo Colombo,7,8.29,11,18,65,10.77,6.54
+25,Serie A,Hellas Verona,Gift Orban,7,10.55,12,19,85,8.24,6.5
+26,Serie A,Inter,Federico Dimarco,6,5.04,9,7,63,9.52,7.45
+27,Serie A,Milan,Adrien Rabiot,6,3.75,2,19,37,16.22,7.27
+28,Serie A,Inter,Piotr Zieliński,6,2.33,1,17,28,21.43,7.17
+29,Serie A,Como,Martin Baturina,6,1.52,0,20,23,26.09,7.11
+30,Serie A,AS Roma,Matías Soulé,6,3.39,1,32,46,13.04,7.1
+31,Serie A,Fiorentina,Rolando Mandragora,6,4.56,0,5,61,9.84,6.99
+32,Serie A,Sassuolo,Ismael Koné,6,4.68,3,22,20,30.0,6.99
+33,Serie A,Cagliari,Sebastiano Esposito,6,4.54,2,16,52,11.54,6.98
+34,Serie A,Sassuolo,Armand Laurienté,6,3.14,1,27,66,9.09,6.92
+35,Serie A,Genoa,Ruslan Malinovskyi,6,4.35,1,11,51,11.76,6.89
+36,Serie A,Pisa,Stefano Moreo,6,5.3,5,12,49,12.24,6.76
+37,Serie A,Cremonese,Jamie Vardy,6,4.53,6,6,29,20.69,6.69
+38,Serie A,Inter,Francesco Pio Esposito,6,6.27,13,4,55,10.91,6.65
+39,Serie A,Juventus,Jonathan David,6,8.81,13,6,41,14.63,6.43
+40,Serie A,Genoa,Leo Østigård,5,3.36,5,1,22,22.73,7.19
+41,Serie A,AS Roma,Wesley,5,1.53,2,14,23,21.74,7.1
+42,Serie A,SSC Napoli,Kevin De Bruyne,5,4.04,0,9,26,19.23,7.02
+43,Serie A,Udinese,Arthur Atta,5,3.9,3,61,53,9.43,6.92
+44,Serie A,Juventus,Weston McKennie,5,7.47,11,15,42,11.9,6.88
+45,Serie A,Udinese,Jürgen Ekkelenkamp,5,4.89,4,16,33,15.15,6.84
+46,Serie A,Lazio,Gustav Isaksen,5,5.01,8,27,48,10.42,6.83
+47,Serie A,Udinese,Nicolò Zaniolo,5,5.5,6,33,72,6.94,6.81
+48,Serie A,Torino,Cesare Casadei,5,3.94,4,12,33,15.15,6.77
+49,Serie A,Inter,Ange-Yoan Bonny,5,3.53,2,19,21,23.81,6.77
+50,Serie A,Genoa,Vitinha,5,5.94,7,34,63,7.94,6.76
+51,Serie A,Fiorentina,Albert Guðmundsson,5,5.58,5,19,41,12.2,6.73
+52,Serie A,Torino,Che Adams,5,5.2,5,12,48,10.42,6.71
+53,Serie A,Juventus,Dušan Vlahović,5,5.36,5,3,40,12.5,6.68
+54,Serie A,Bologna,Jens Odgaard,5,2.46,3,7,35,14.29,6.65
+55,Serie A,Milan,Christopher Nkunku,5,6.79,6,6,21,23.81,6.65
+56,Serie A,Juventus,Bremer,4,2.62,1,1,20,20.0,7.1
+57,Serie A,Como,Lucas Da Cunha,4,5.68,6,22,36,11.11,7.07
+58,Serie A,Milan,Strahinja Pavlović,4,3.16,2,14,23,17.39,7.06
+59,Serie A,Como,Marc Kempf,4,2.82,2,2,21,19.05,6.98
+60,Serie A,Juventus,Jérémie Boga,4,2.63,3,17,20,20.0,6.94
+61,Serie A,Inter,Henrikh Mkhitaryan,4,3.99,4,12,37,10.81,6.94
+62,Serie A,SSC Napoli,Frank Anguissa,4,2.54,1,9,23,17.39,6.93
+63,Serie A,Sassuolo,Kristian Thorstvedt,4,6.31,9,16,42,9.52,6.92
+64,Serie A,Lazio,Matteo Cancellieri,4,4.03,7,12,37,10.81,6.86
+65,Serie A,AS Roma,Lorenzo Pellegrini,4,5.32,3,5,32,12.5,6.83
+66,Serie A,Lazio,Tijjani Noslin,4,4.52,3,16,32,12.5,6.8
+67,Serie A,Lazio,Pedro,4,2.36,0,13,20,20.0,6.78
+68,Serie A,Lecce,Lameck Banda,4,2.02,0,30,33,12.12,6.76
+69,Serie A,Cagliari,Gennaro Borrelli,4,2.54,3,6,25,16.0,6.73
+70,Serie A,Sassuolo,M'bala Nzola,4,6.7,4,19,37,10.81,6.63
+71,Serie A,Genoa,Caleb Ekuban,4,3.86,2,7,29,13.79,6.6
+72,Serie A,Cagliari,Semih Kılıçsoy,4,1.86,0,14,17,23.53,6.58
+73,Serie A,SSC Napoli,Alisson Santos,3,1.1,0,28,23,13.04,7.3
+74,Serie A,Atalanta,Charles De Ketelaere,3,3.55,3,47,44,6.82,7.26
+75,Serie A,Inter,Nicolò Barella,3,3.16,3,25,35,8.57,7.21
+76,Serie A,Udinese,Oumar Solet,3,2.67,3,37,30,10.0,7.19
+77,Serie A,Atalanta,Giorgio Scalvini,3,2.57,3,13,19,15.79,7.14
+78,Serie A,Inter,Yann Bisseck,3,2.52,3,8,25,12.0,7.14
+79,Serie A,Parma,Adrián Bernabé,3,2.25,2,15,50,6.0,7.03
+80,Serie A,SSC Napoli,Leonardo Spinazzola,3,1.16,0,15,21,14.29,7.02
+81,Serie A,Juventus,Francisco Conceição,3,7.15,10,53,67,4.48,7.02
+82,Serie A,SSC Napoli,David Neres,3,1.54,0,19,17,17.65,7.01
+83,Serie A,Genoa,Junior Messias,3,1.86,0,20,19,15.79,6.99
+84,Serie A,Como,Máximo Perrone,3,2.13,3,9,17,17.65,6.99
+85,Serie A,Juventus,Khéphren Thuram,3,2.96,3,22,48,6.25,6.99
+86,Serie A,AS Roma,Mario Hermoso,3,1.74,2,4,17,17.65,6.97
+87,Serie A,Lazio,Mattia Zaccagni,3,4.07,8,23,34,8.82,6.97
+88,Serie A,AS Roma,Evan Ndicka,3,1.9,1,4,22,13.64,6.96
+89,Serie A,Bologna,Nicolò Cambiaghi,3,2.13,2,15,24,12.5,6.94
+90,Serie A,Udinese,Thomas Kristensen,3,1.02,1,5,11,27.27,6.93
+91,Serie A,Atalanta,Mario Pašalić,3,2.06,2,7,18,16.67,6.91
+92,Serie A,Juventus,Filip Kostić,3,0.59,0,4,9,33.33,6.9
+93,Serie A,Juventus,Andrea Cambiaso,3,2.87,2,9,24,12.5,6.89
+94,Serie A,Fiorentina,Robin Gosens,3,2.91,3,0,17,17.65,6.88
+95,Serie A,Como,Jayden Addai,3,1.54,0,14,13,23.08,6.88
+96,Serie A,Lazio,Danilo Cataldi,3,2.99,0,6,26,11.54,6.87
+97,Serie A,Lazio,Kenneth Taylor,3,2.04,1,8,16,18.75,6.86
+98,Serie A,Udinese,Christian Kabasele,3,1.29,0,5,10,30.0,6.85
+99,Serie A,Lecce,Lassana Coulibaly,3,2.75,2,24,26,11.54,6.78
+100,Serie A,Udinese,Adam Buksa,3,2.11,2,2,12,25.0,6.75
+101,Serie A,Hellas Verona,Kieron Bowie,3,3.21,3,4,26,11.54,6.69
+102,Serie A,Cremonese,Morten Thorsby,3,2.25,1,3,21,14.29,6.69
+103,Serie A,Milan,Ruben Loftus-Cheek,3,3.16,5,12,29,10.34,6.65
+104,Serie A,Torino,Duván Zapata,3,3.78,6,6,33,9.09,6.64
+105,Serie A,Inter,Denzel Dumfries,3,3.44,5,6,23,13.04,6.64
+106,Serie A,AS Roma,Artem Dovbyk,3,2.35,3,2,10,30.0,6.59
+107,Serie A,Genoa,Jeff Ekhator,3,2.31,3,12,18,16.67,6.55
+108,Serie A,AS Roma,Evan Ferguson,3,2.62,4,8,27,11.11,6.53
+109,Serie A,SSC Napoli,Giovane,3,3.59,4,36,54,5.56,6.52
+110,Serie A,Fiorentina,Roberto Piccoli,3,6.16,12,8,42,7.14,6.48
+111,Serie A,Lecce,Nikola Štulić,3,4.06,4,4,32,9.38,6.47
+112,Serie A,Milan,Luka Modrić,2,1.51,0,17,19,10.53,7.53
+113,Serie A,Fiorentina,Nicolò Fagioli,2,2.52,1,19,32,6.25,7.24
+114,Serie A,Lecce,Medon Berisha,2,1.22,0,3,24,8.33,7.2
+115,Serie A,Como,Jacobo Ramón,2,4.27,9,7,34,5.88,7.17
+116,Serie A,Bologna,Nikola Moro,2,0.93,1,12,22,9.09,7.16
+117,Serie A,Milan,Alexis Saelemaekers,2,3.01,4,48,41,4.88,7.15
+118,Serie A,Inter,Manuel Akanji,2,2.05,1,1,23,8.7,7.11
+119,Serie A,Fiorentina,Manor Solomon,2,0.71,1,24,8,25.0,7.07
+120,Serie A,AS Roma,Manu Koné,2,2.11,1,29,21,9.52,7.06
+121,Serie A,AS Roma,Bryan Cristante,2,2.07,2,13,41,4.88,7.01
+122,Serie A,Atalanta,Nicola Zalewski,2,2.79,3,27,36,5.56,7.01
+123,Serie A,Lazio,Mattéo Guendouzi,2,1.3,1,8,16,12.5,6.99
+124,Serie A,AS Roma,Gianluca Mancini,2,2.25,0,3,17,11.76,6.96
+125,Serie A,Milan,Davide Bartesaghi,2,1.03,0,11,20,10.0,6.95
+126,Serie A,Juventus,Pierre Kalulu,2,1.75,1,6,13,15.38,6.94
+127,Serie A,SSC Napoli,Matteo Politano,2,2.21,3,33,46,4.35,6.91
+128,Serie A,Lecce,Tiago Gabriel,2,3.6,4,1,20,10.0,6.9
+129,Serie A,Lazio,Valentín Castellanos,2,2.02,1,8,20,10.0,6.89
+130,Serie A,Torino,Guillermo Maripán,2,1.57,3,3,18,11.11,6.88
+131,Serie A,Sassuolo,Tarik Muharemović,2,1.64,3,7,20,10.0,6.88
+132,Serie A,Parma,Nesta Elphege,2,1.41,1,2,4,50.0,6.87
+133,Serie A,Bologna,Federico Bernardeschi,2,2.39,0,20,32,6.25,6.86
+134,Serie A,Cagliari,Luca Mazzitelli,2,0.73,0,3,15,13.33,6.86
+135,Serie A,Inter,Petar Sučić,2,1.53,2,15,20,10.0,6.85
+136,Serie A,Como,Maxence Caqueret,2,2.22,1,16,17,11.76,6.84
+137,Serie A,Cagliari,Gianluca Gaetano,2,1.73,0,15,29,6.9,6.84
+138,Serie A,Atalanta,Davide Zappacosta,2,1.64,2,24,34,5.88,6.83
+139,Serie A,Pisa,Mehdi Léris,2,1.55,3,13,24,8.33,6.83
+140,Serie A,Genoa,Brooke Norton-Cuffy,2,1.6,2,32,16,12.5,6.83
+141,Serie A,Juventus,Federico Gatti,2,1.95,1,1,12,16.67,6.82
+142,Serie A,Cremonese,Federico Baschirotto,2,1.06,1,1,12,16.67,6.81
+143,Serie A,SSC Napoli,Sam Beukema,2,1.67,0,2,7,28.57,6.81
+144,Serie A,Cagliari,Andrea Belotti,2,1.92,3,1,6,33.33,6.8
+145,Serie A,Lazio,Toma Bašić,2,1.39,0,1,29,6.9,6.8
+146,Serie A,Atalanta,Giacomo Raspadori,2,2.82,3,4,21,9.52,6.78
+147,Serie A,Pisa,Matteo Tramoni,2,3.25,3,8,28,7.14,6.78
+148,Serie A,Sassuolo,Cristian Volpato,2,1.35,1,23,20,10.0,6.77
+149,Serie A,Atalanta,Lazar Samardžić,2,2.82,3,14,22,9.09,6.77
+150,Serie A,Hellas Verona,Martin Frese,2,1.72,1,0,20,10.0,6.76
+151,Serie A,Bologna,Jonathan Rowe,2,3.57,6,44,42,4.76,6.76
+152,Serie A,Como,Assane Diao,2,1.84,2,27,22,9.09,6.76
+153,Serie A,Atalanta,Ademola Lookman,2,2.68,5,16,27,7.41,6.75
+154,Serie A,Juventus,Juan Cabal,2,0.79,0,1,5,40.0,6.74
+155,Serie A,Cremonese,Filippo Terracciano,2,1.88,2,5,14,14.29,6.74
+156,Serie A,AS Roma,Niccolò Pisilli,2,1.43,1,6,16,12.5,6.73
+157,Serie A,Parma,Enrico Delprato,2,2.09,4,5,17,11.76,6.73
+158,Serie A,Cagliari,Paul Mendy,2,1.39,1,0,10,20.0,6.73
+159,Serie A,Atalanta,Kamaldeen Sulemana,2,2.06,3,20,21,9.52,6.73
+160,Serie A,Hellas Verona,Suat Serdar,2,2.15,3,9,19,10.53,6.73
+161,Serie A,Hellas Verona,Rafik Belghali,2,2.12,2,39,20,10.0,6.73
+162,Serie A,Cagliari,Mattia Felici,2,0.62,1,7,9,22.22,6.72
+163,Serie A,Como,Mërgim Vojvoda,2,1.36,2,13,18,11.11,6.71
+164,Serie A,Fiorentina,Marco Brescianini,2,1.81,2,8,13,15.38,6.7
+165,Serie A,Lazio,Daniel Maldini,2,3.09,2,12,21,9.52,6.69
+166,Serie A,Sassuolo,Alieu Fadera,2,2.1,2,11,13,15.38,6.67
+167,Serie A,AS Roma,Paulo Dybala,2,4.28,5,10,37,5.41,6.67
+168,Serie A,Udinese,Kingsley Ehizibue,2,1.1,1,7,7,28.57,6.67
+169,Serie A,Cremonese,David Okereke,2,0.64,0,4,8,25.0,6.67
+170,Serie A,Fiorentina,Cher Ndour,2,2.48,2,7,23,8.7,6.65
+171,Serie A,Milan,Youssouf Fofana,2,3.58,5,13,42,4.76,6.65
+172,Serie A,Cagliari,Riyad Idrissi,2,0.53,1,8,6,33.33,6.64
+173,Serie A,Bologna,Tommaso Pobega,2,1.62,1,5,23,8.7,6.61
+174,Serie A,Fiorentina,Giovanni Fabbian,2,2.12,1,4,18,11.11,6.61
+175,Serie A,Pisa,Antonio Caracciolo,2,2.09,1,3,25,8.0,6.61
+176,Serie A,Lecce,N'Dri Konan,2,1.0,1,9,18,11.11,6.6
+177,Serie A,Lecce,Walid Cheddira,2,2.48,3,8,27,7.41,6.56
+178,Serie A,Bologna,Thijs Dallinga,2,2.94,5,2,23,8.7,6.53
+179,Serie A,Cagliari,Michael Folorunsho,2,3.37,5,21,36,5.56,6.52
+180,Serie A,Lecce,Omri Gandelman,2,1.4,0,2,10,20.0,6.49
+181,Serie A,Pisa,Henrik Wendel Meister,2,3.56,9,12,20,10.0,6.43
+182,Serie A,Juventus,Manuel Locatelli,1,2.57,1,10,41,2.44,7.69
+183,Serie A,Inter,Alessandro Bastoni,1,1.35,3,6,17,5.88,7.27
+184,Serie A,SSC Napoli,Amir Rrahmani,1,0.99,1,2,10,10.0,7.17
+185,Serie A,Atalanta,Marten de Roon,1,0.77,1,3,14,7.14,7.07
+186,Serie A,SSC Napoli,Billy Gilmour,1,0.69,0,9,10,10.0,7.06
+187,Serie A,Juventus,Lloyd Kelly,1,0.96,0,17,16,6.25,7.04
+188,Serie A,Parma,Alessandro Circati,1,1.01,1,3,8,12.5,7.03
+189,Serie A,Cagliari,Marco Palestra,1,1.52,0,67,25,4.0,7.03
+190,Serie A,Bologna,Jhon Lucumí,1,0.96,0,5,8,12.5,7.0
+191,Serie A,Fiorentina,Dodô,1,2.18,1,45,25,4.0,6.99
+192,Serie A,Hellas Verona,Roberto Gagliardini,1,1.23,2,6,15,6.67,6.99
+193,Serie A,Parma,Mariano Troilo,1,0.75,0,4,9,11.11,6.97
+194,Serie A,Sassuolo,Nemanja Matić,1,0.37,0,11,11,9.09,6.97
+195,Serie A,Bologna,Juan Miranda,1,0.47,0,7,11,9.09,6.96
+196,Serie A,Atalanta,Éderson,1,4.23,6,15,34,2.94,6.95
+197,Serie A,Fiorentina,Fabiano Parisi,1,1.17,1,31,24,4.17,6.95
+198,Serie A,Sassuolo,Ulisses Garcia,1,0.09,0,1,2,50.0,6.94
+199,Serie A,Milan,Koni De Winter,1,0.69,1,3,7,14.29,6.93
+200,Serie A,SSC Napoli,Stanislav Lobotka,1,0.51,0,4,8,12.5,6.92
+201,Serie A,Cagliari,Yerry Mina,1,0.87,0,2,9,11.11,6.92
+202,Serie A,Genoa,Morten Frendrup,1,0.4,0,7,8,12.5,6.91
+203,Serie A,Genoa,Aarón Martín,1,1.32,1,12,11,9.09,6.91
+204,Serie A,SSC Napoli,Noa Lang,1,0.79,1,8,9,11.11,6.91
+205,Serie A,Inter,Carlos Augusto,1,1.15,2,6,16,6.25,6.91
+206,Serie A,Lecce,Ylber Ramadani,1,1.08,0,13,33,3.03,6.9
+207,Serie A,Pisa,Michel Aebischer,1,0.65,1,14,19,5.26,6.9
+208,Serie A,Como,Diego Carlos,1,0.98,1,0,8,12.5,6.89
+209,Serie A,Cremonese,Jari Vandeputte,1,2.14,2,7,20,5.0,6.89
+210,Serie A,Parma,Gabriel Strefezza,1,0.61,0,16,19,5.26,6.88
+211,Serie A,SSC Napoli,Giovanni Di Lorenzo,1,1.89,0,8,23,4.35,6.88
+212,Serie A,Torino,Saúl Coco,1,0.9,0,7,15,6.67,6.88
+213,Serie A,SSC Napoli,Antonio Vergara,1,0.77,0,8,10,10.0,6.87
+214,Serie A,Bologna,Remo Freuler,1,0.84,0,2,6,16.67,6.86
+215,Serie A,Inter,Luís Henrique,1,0.88,2,11,15,6.67,6.86
+216,Serie A,Lecce,Jamil Siebert,1,0.41,0,4,6,16.67,6.86
+217,Serie A,Milan,Samuele Ricci,1,1.53,2,5,18,5.56,6.86
+218,Serie A,Atalanta,Isak Hien,1,0.8,1,4,8,12.5,6.85
+219,Serie A,Fiorentina,Luca Ranieri,1,1.94,3,6,18,5.56,6.84
+220,Serie A,Juventus,Emil Holm,1,1.27,0,7,12,8.33,6.84
+221,Serie A,Bologna,João Mário,1,0.24,0,14,6,16.67,6.83
+222,Serie A,SSC Napoli,Miguel Gutiérrez,1,0.74,0,8,14,7.14,6.83
+223,Serie A,Udinese,Alessandro Zanoli,1,0.1,0,14,3,33.33,6.83
+224,Serie A,AS Roma,Zeki Çelik,1,1.42,2,8,21,4.76,6.83
+225,Serie A,Torino,Emirhan İlkhan,1,2.19,2,6,10,10.0,6.82
+226,Serie A,Pisa,Juan Cuadrado,1,0.96,0,13,10,10.0,6.82
+227,Serie A,Como,Jesús Rodriguez,1,3.91,3,39,44,2.27,6.82
+228,Serie A,Como,Alberto Moreno,1,1.08,2,1,9,11.11,6.81
+229,Serie A,Pisa,Idrissa Touré,1,2.75,4,20,29,3.45,6.79
+230,Serie A,Udinese,Jesper Karlström,1,0.78,0,10,18,5.56,6.78
+231,Serie A,Lecce,Riccardo Sottil,1,0.67,0,13,20,5.0,6.76
+232,Serie A,Atalanta,Yunus Musah,1,0.58,0,12,6,16.67,6.76
+233,Serie A,Cremonese,Franco Vázquez,1,1.39,0,5,12,8.33,6.75
+234,Serie A,Cremonese,Sebastiano Luperto,1,0.62,1,5,10,10.0,6.75
+235,Serie A,Como,Álex Valle,1,1.04,0,5,11,9.09,6.75
+236,Serie A,SSC Napoli,Eljif Elmas,1,2.8,4,12,23,4.35,6.73
+237,Serie A,Genoa,Tommaso Baldanzi,1,1.99,0,4,19,5.26,6.73
+238,Serie A,Bologna,Lewis Ferguson,1,0.63,0,1,11,9.09,6.71
+239,Serie A,Como,Stefan Posch,1,0.8,0,1,8,12.5,6.71
+240,Serie A,Lazio,Adam Marušić,1,1.26,3,6,14,7.14,6.7
+241,Serie A,Udinese,Jakub Piotrowski,1,2.69,3,13,36,2.78,6.7
+242,Serie A,Milan,Pervis Estupiñán,1,0.39,0,2,9,11.11,6.7
+243,Serie A,Hellas Verona,Jean Daniel Akpa-Akpro,1,1.0,1,20,13,7.69,6.7
+244,Serie A,Cremonese,Francesco Folino,1,0.17,0,0,2,50.0,6.69
+245,Serie A,Udinese,Iker Bravo,1,0.24,0,1,4,25.0,6.69
+246,Serie A,Lazio,Luca Pellegrini,1,0.54,1,10,6,16.67,6.68
+247,Serie A,Cagliari,Yael Trepy,1,0.61,1,2,7,14.29,6.67
+248,Serie A,Torino,Cyril Ngonge,1,1.85,5,19,24,4.17,6.67
+249,Serie A,Juventus,Fabio Miretti,1,2.06,1,7,17,5.88,6.67
+250,Serie A,Atalanta,Odilon Kossounou,1,0.39,0,5,5,20.0,6.66
+251,Serie A,Hellas Verona,Antoine Bernede,1,1.36,1,17,21,4.76,6.65
+252,Serie A,Milan,Zachary Athekame,1,0.22,0,2,10,10.0,6.65
+253,Serie A,Cremonese,Manuel De Luca,1,1.05,1,0,2,50.0,6.65
+254,Serie A,Fiorentina,Pietro Comuzzo,1,1.03,1,1,10,10.0,6.65
+255,Serie A,AS Roma,Neil El Aynaoui,1,1.01,0,7,5,20.0,6.65
+256,Serie A,Fiorentina,Jack Harrison,1,0.71,1,10,10,10.0,6.65
+257,Serie A,Cagliari,Sulemana,1,1.47,1,11,9,11.11,6.62
+258,Serie A,Parma,Adrian Benedyczak,1,1.44,3,0,8,12.5,6.62
+259,Serie A,Cremonese,Dennis Johnsen,1,0.43,0,5,5,20.0,6.62
+260,Serie A,Pisa,Simone Canestrelli,1,1.2,2,3,15,6.67,6.62
+261,Serie A,Cagliari,Michel Adopo,1,2.22,4,14,27,3.7,6.62
+262,Serie A,Torino,Matteo Prati,1,1.51,0,7,30,3.33,6.62
+263,Serie A,Como,Nicolas-Gerrit Kühn,1,1.02,1,10,8,12.5,6.61
+264,Serie A,Genoa,Mikael Ellertsson,1,2.27,3,11,26,3.85,6.61
+265,Serie A,Parma,Gaetano Oristanio,1,2.01,2,15,24,4.17,6.6
+266,Serie A,SSC Napoli,Lorenzo Lucca,1,1.26,2,6,15,6.67,6.59
+267,Serie A,Juventus,Vasilije Adžić,1,0.23,0,1,6,16.67,6.59
+268,Serie A,Pisa,Lorran,1,1.02,0,6,3,33.33,6.58
+269,Serie A,SSC Napoli,Romelu Lukaku,1,0.26,1,0,2,50.0,6.58
+270,Serie A,AS Roma,Robinio Vaz,1,0.51,0,0,5,20.0,6.57
+271,Serie A,Torino,Alieu Njie,1,0.95,3,4,5,20.0,6.57
+272,Serie A,Cremonese,Youssef Maleh,1,0.99,1,7,20,5.0,6.56
+273,Serie A,Cremonese,Martín Payero,1,1.8,1,22,23,4.35,6.56
+274,Serie A,Sassuolo,Edoardo Iannoni,1,0.43,0,0,3,33.33,6.55
+275,Serie A,Torino,Marcus Pedersen,1,1.74,1,9,15,6.67,6.55
+276,Serie A,Parma,Oliver Sørensen,1,1.56,2,6,14,7.14,6.52
+277,Serie A,Udinese,Idrissa Gueye,1,1.58,3,2,16,6.25,6.52
+278,Serie A,Cremonese,Antonio Sanabria,1,2.92,4,7,12,8.33,6.52
+279,Serie A,Juventus,Loïs Openda,1,3.57,5,4,26,3.85,6.51
+280,Serie A,Lecce,Santiago Pierotti,1,3.12,5,36,31,3.23,6.48
+281,Serie A,Milan,Niclas Füllkrug,1,3.9,5,2,16,6.25,6.48
+282,Serie A,Cagliari,Leonardo Pavoletti,1,1.19,2,0,6,16.67,6.48
+283,Serie A,Parma,Christian Ordoñez,1,0.41,0,3,7,14.29,6.48
+284,Serie A,Parma,Patrick Cutrone,1,2.62,5,4,25,4.0,6.47
+285,Serie A,Hellas Verona,Abdou Harroui,1,1.19,0,10,11,9.09,6.47
+286,Serie A,Lazio,Boulaye Dia,1,2.16,3,5,12,8.33,6.46
+287,Serie A,Lecce,Francesco Camarda,1,1.83,3,3,15,6.67,6.43
+288,Serie A,Pisa,Felipe Loyola,1,0.65,0,3,8,12.5,6.39
+289,Serie A,Pisa,Rafiu Durosinmi,1,0.85,1,3,9,11.11,6.38
+290,Serie A,Parma,Filippo Rinaldi,0,,0,0,0,0.0,7.6
+291,Serie A,Inter,Benjamin Pavard,0,0.05,0,0,1,0.0,7.4
+292,Serie A,Atalanta,Marco Carnesecchi,0,,0,1,0,0.0,7.31
+293,Serie A,Bologna,Eivind Helland,0,,0,0,0,0.0,7.27
+294,Serie A,Lazio,Mario Gila,0,0.94,3,6,11,0.0,7.24
+295,Serie A,Milan,Mike Maignan,0,,0,3,0,0.0,7.21
+296,Serie A,Como,Jean Butez,0,,0,1,0,0.0,7.2
+297,Serie A,Milan,Samuel Chukwueze,0,,0,1,0,0.0,7.2
+298,Serie A,Lazio,Ivan Provedel,0,,0,1,0,0.0,7.18
+299,Serie A,Bologna,Federico Ravaglia,0,,0,1,0,0.0,7.17
+300,Serie A,Inter,Stefan de Vrij,0,0.32,0,1,5,0.0,7.16
+301,Serie A,Sassuolo,Arijanet Murić,0,,0,0,0,0.0,7.15
+302,Serie A,Torino,Alberto Paleari,0,,0,0,0,0.0,7.13
+303,Serie A,Lazio,Nicolò Rovella,0,0.03,0,6,1,0.0,7.1
+304,Serie A,Sassuolo,Stefano Turati,0,,0,0,0,0.0,7.1
+305,Serie A,AS Roma,Mile Svilar,0,,0,0,0,0.0,7.08
+306,Serie A,Cremonese,Emil Audero,0,,0,1,0,0.0,7.08
+307,Serie A,Milan,Pietro Terracciano,0,,0,0,0,0.0,7.05
+308,Serie A,Pisa,Simone Scuffet,0,,0,0,0,0.0,7.04
+309,Serie A,Bologna,Massimo Pessina,0,,0,0,0,0.0,7.03
+310,Serie A,Cagliari,Elia Caprile,0,,0,0,0,0.0,7.03
+311,Serie A,Lecce,Matías Pérez,0,,0,0,0,0.0,7.0
+312,Serie A,Como,Edoardo Goldaniga,0,,0,0,0,0.0,7.0
+313,Serie A,Inter,Francesco Acerbi,0,0.37,1,1,3,0.0,7.0
+314,Serie A,Parma,Zion Suzuki,0,,0,0,0,0.0,6.99
+315,Serie A,Lecce,Wladimiro Falcone,0,,0,0,0,0.0,6.99
+316,Serie A,Parma,Edoardo Corvi,0,,0,0,0,0.0,6.98
+317,Serie A,Genoa,Justin Bijlow,0,,0,0,0,0.0,6.98
+318,Serie A,Atalanta,Lorenzo Bernasconi,0,0.4,1,8,9,0.0,6.98
+319,Serie A,Lazio,Alessio Romagnoli,0,1.46,2,1,9,0.0,6.96
+320,Serie A,Udinese,Maduka Okoye,0,,0,0,0,0.0,6.95
+321,Serie A,Milan,Matteo Gabbia,0,1.34,3,0,18,0.0,6.95
+322,Serie A,Lecce,Gaby Jean,0,,0,0,0,0.0,6.94
+323,Serie A,Atalanta,Berat Djimsiti,0,1.47,3,3,15,0.0,6.93
+324,Serie A,Fiorentina,David De Gea,0,,0,0,0,0.0,6.93
+325,Serie A,Lazio,Oliver Provstgaard,0,0.33,1,1,6,0.0,6.93
+326,Serie A,Pisa,Adrian Šemper,0,,0,0,0,0.0,6.91
+327,Serie A,Milan,Fikayo Tomori,0,0.59,0,3,9,0.0,6.91
+328,Serie A,Inter,Yann Sommer,0,,0,0,0,0.0,6.91
+329,Serie A,Juventus,Michele Di Gregorio,0,,0,1,0,0.0,6.9
+330,Serie A,Parma,Mandela Keita,0,0.4,0,26,14,0.0,6.9
+331,Serie A,Torino,Ardian Ismajli,0,0.32,1,2,6,0.0,6.9
+332,Serie A,AS Roma,Bryan Zaragoza,0,0.05,0,6,1,0.0,6.9
+333,Serie A,Pisa,Samuele Angori,0,1.37,1,9,13,0.0,6.88
+334,Serie A,Como,Ivan Smolčić,0,0.86,1,1,12,0.0,6.88
+335,Serie A,Inter,Josep Martínez,0,,0,0,0,0.0,6.88
+336,Serie A,Lazio,Nuno Tavares,0,0.62,1,21,15,0.0,6.87
+337,Serie A,Parma,Emanuele Valeri,0,0.65,1,14,21,0.0,6.87
+338,Serie A,Lazio,Edoardo Motta,0,,0,0,0,0.0,6.87
+339,Serie A,SSC Napoli,Vanja Milinković-Savić,0,,0,0,0,0.0,6.87
+340,Serie A,Genoa,Nicola Leali,0,,0,0,0,0.0,6.86
+341,Serie A,AS Roma,Devyne Rensch,0,0.21,1,4,4,0.0,6.86
+342,Serie A,Parma,Lautaro Valenti,0,0.48,0,7,16,0.0,6.85
+343,Serie A,Torino,Kristjan Asllani,0,1.39,1,3,20,0.0,6.85
+344,Serie A,Udinese,Daniele Padelli,0,,0,0,0,0.0,6.85
+345,Serie A,Fiorentina,Luís Balbo,0,,0,0,0,0.0,6.85
+346,Serie A,Udinese,Branimir Mlačić,0,,0,1,0,0.0,6.85
+347,Serie A,AS Roma,Jan Ziółkowski,0,,0,0,0,0.0,6.85
+348,Serie A,Torino,Niels Nkounkou,0,0.19,0,7,4,0.0,6.83
+349,Serie A,Pisa,Ebenezer Akinsanmiro,0,0.86,2,21,13,0.0,6.83
+350,Serie A,AS Roma,Angeliño,0,0.19,0,0,5,0.0,6.83
+351,Serie A,Cagliari,Adam Obert,0,1.43,2,16,10,0.0,6.82
+352,Serie A,SSC Napoli,Alessandro Buongiorno,0,1.43,3,1,8,0.0,6.81
+353,Serie A,Cremonese,Matteo Bianchetti,0,0.5,1,2,7,0.0,6.81
+354,Serie A,Genoa,Wedtoin Latif Ouedraogo,0,,0,0,0,0.0,6.8
+355,Serie A,Cremonese,Marco Silvestri,0,,0,0,0,0.0,6.8
+356,Serie A,Hellas Verona,Yellu Santiago,0,0.02,0,1,2,0.0,6.8
+357,Serie A,Fiorentina,Abdelhamid Sabiri,0,0.01,0,0,1,0.0,6.8
+358,Serie A,Lecce,Kialonda Gaspar,0,0.89,1,1,9,0.0,6.79
+359,Serie A,Bologna,Łukasz Skorupski,0,,0,0,0,0.0,6.79
+360,Serie A,Lazio,Patric,0,0.29,0,2,5,0.0,6.79
+361,Serie A,Torino,Valentino Lazaro,0,0.48,0,11,8,0.0,6.78
+362,Serie A,Udinese,Hassane Kamara,0,0.65,1,17,16,0.0,6.78
+363,Serie A,Milan,Ardon Jashari,0,0.22,0,4,7,0.0,6.78
+364,Serie A,Hellas Verona,Tobias Slotsager,0,0.14,0,0,3,0.0,6.78
+365,Serie A,Lecce,Antonino Gallo,0,0.46,2,13,5,0.0,6.77
+366,Serie A,Bologna,Martin Vitík,0,0.36,1,2,8,0.0,6.77
+367,Serie A,Parma,Nahuel Estévez,0,0.57,1,0,9,0.0,6.77
+368,Serie A,Cagliari,Alberto Dossena,0,0.78,1,1,6,0.0,6.77
+369,Serie A,Udinese,Rui Modesto,0,0.02,0,0,1,0.0,6.77
+370,Serie A,Fiorentina,Eddy Kouadio,0,,0,1,0,0.0,6.77
+371,Serie A,Como,Ignace Van der Brempt,0,0.08,0,5,2,0.0,6.76
+372,Serie A,Bologna,Lorenzo De Silvestri,0,,0,1,0,0.0,6.76
+373,Serie A,Cremonese,Mikayil Faye,0,0.04,0,3,2,0.0,6.76
+374,Serie A,Genoa,Johan Vásquez,0,1.06,1,8,23,0.0,6.76
+375,Serie A,Sassuolo,Filippo Romagna,0,0.04,0,0,2,0.0,6.76
+376,Serie A,Genoa,Patrizio Masini,0,1.54,2,2,16,0.0,6.76
+377,Serie A,Juventus,Teun Koopmeiners,0,1.5,2,4,28,0.0,6.76
+378,Serie A,Cremonese,Milan Đurić,0,0.88,0,1,15,0.0,6.76
+379,Serie A,Torino,Gvidas Gineitis,0,0.89,0,17,26,0.0,6.75
+380,Serie A,Fiorentina,Tariq Lamptey,0,,0,0,0,0.0,6.75
+381,Serie A,AS Roma,Daniele Ghilardi,0,0.18,1,3,1,0.0,6.75
+382,Serie A,SSC Napoli,Mathías Olivera,0,1.37,2,2,8,0.0,6.74
+383,Serie A,Lecce,Danilo Veiga,0,0.24,0,19,6,0.0,6.74
+384,Serie A,Cremonese,Tommaso Barbieri,0,0.75,1,17,14,0.0,6.74
+385,Serie A,Bologna,Charalampos Lykogiannis,0,0.2,0,3,7,0.0,6.74
+386,Serie A,Hellas Verona,Armel Bella-Kotchap,0,0.11,0,1,3,0.0,6.74
+387,Serie A,Pisa,Isak Vural,0,0.7,1,8,5,0.0,6.74
+388,Serie A,Genoa,Alexsandro Amorim,0,0.16,0,6,2,0.0,6.74
+389,Serie A,Parma,Hans Nicolussi Caviglia,0,0.76,0,7,15,0.0,6.74
+390,Serie A,Fiorentina,Marin Pongračić,0,0.7,0,16,8,0.0,6.73
+391,Serie A,Cremonese,Alberto Grassi,0,1.06,1,8,12,0.0,6.73
+392,Serie A,Sassuolo,Sebastian Walukiewicz,0,0.22,0,21,7,0.0,6.73
+393,Serie A,Udinese,Lennon Miller,0,0.38,0,8,9,0.0,6.72
+394,Serie A,AS Roma,Stephan El Shaarawy,0,1.1,2,12,15,0.0,6.72
+395,Serie A,Hellas Verona,Victor Nelsson,0,0.43,1,3,7,0.0,6.72
+396,Serie A,Udinese,Juan Arizala,0,0.03,0,2,1,0.0,6.72
+397,Serie A,Sassuolo,Darryl Bakola,0,0.08,0,2,3,0.0,6.72
+398,Serie A,Cremonese,Jeremy Sarmiento,0,0.08,0,5,2,0.0,6.72
+399,Serie A,Hellas Verona,Andrias Edmundsson,0,0.19,0,1,4,0.0,6.72
+400,Serie A,SSC Napoli,Juan Jesus,0,0.33,0,0,3,0.0,6.71
+401,Serie A,Genoa,Valentín Carboni,0,0.44,0,10,6,0.0,6.71
+402,Serie A,Atalanta,Sead Kolašinac,0,0.19,0,5,3,0.0,6.71
+403,Serie A,Torino,Luca Marianucci,0,0.03,0,2,2,0.0,6.7
+404,Serie A,Sassuolo,Andrea Ghion,0,,0,0,0,0.0,6.7
+405,Serie A,Genoa,Mamedi Doucoure,0,,0,0,0,0.0,6.7
+406,Serie A,Milan,David Odogu,0,,0,0,0,0.0,6.7
+407,Serie A,Genoa,Daniele Sommariva,0,,0,0,0,0.0,6.7
+408,Serie A,Juventus,Nicolás González,0,0.13,0,0,2,0.0,6.7
+409,Serie A,Juventus,Edon Zhegrova,0,0.63,0,20,17,0.0,6.69
+410,Serie A,Fiorentina,Niccolò Fortini,0,0.25,0,8,8,0.0,6.69
+411,Serie A,Genoa,Stefano Sabelli,0,0.45,0,1,5,0.0,6.69
+412,Serie A,Lazio,Matías Vecino,0,0.33,0,0,7,0.0,6.69
+413,Serie A,Hellas Verona,Sandi Lovrić,0,0.29,0,4,5,0.0,6.69
+414,Serie A,Pisa,Marius Marin,0,0.12,0,1,3,0.0,6.69
+415,Serie A,AS Roma,Lorenzo Venturino,0,0.17,0,4,5,0.0,6.69
+416,Serie A,Atalanta,Honest Ahanor,0,1.88,5,5,12,0.0,6.69
+417,Serie A,Atalanta,Raoul Bellanova,0,0.48,0,8,13,0.0,6.69
+418,Serie A,Udinese,Nicolò Bertola,0,0.55,1,5,12,0.0,6.68
+419,Serie A,Bologna,Torbjørn Heggem,0,1.14,1,8,11,0.0,6.68
+420,Serie A,Torino,Franco Israel,0,,0,0,0,0.0,6.68
+421,Serie A,Hellas Verona,Nicolás Valentini,0,0.59,1,2,13,0.0,6.68
+422,Serie A,Pisa,Raúl Albiol,0,0.07,0,0,1,0.0,6.68
+423,Serie A,Torino,Ivan Ilić,0,,0,2,0,0.0,6.68
+424,Serie A,Genoa,Albert Grønbæk,0,0.03,0,2,1,0.0,6.68
+425,Serie A,Udinese,Răzvan Sava,0,,0,0,0,0.0,6.67
+426,Serie A,Fiorentina,Jacopo Fazzini,0,1.06,1,9,9,0.0,6.67
+427,Serie A,Lecce,Balthazar Pierret,0,,0,0,0,0.0,6.67
+428,Serie A,Cremonese,Giuseppe Pezzella,0,0.13,0,15,5,0.0,6.67
+429,Serie A,Sassuolo,Jay Idzes,0,0.19,0,6,5,0.0,6.66
+430,Serie A,Lazio,Reda Belahyane,0,0.13,0,5,1,0.0,6.66
+431,Serie A,Juventus,Mattia Perin,0,,0,0,0,0.0,6.66
+432,Serie A,Cagliari,Alessandro Deiola,0,1.28,4,3,18,0.0,6.66
+433,Serie A,Bologna,Nadir Zortea,0,0.43,0,20,11,0.0,6.66
+434,Serie A,Genoa,Sebastian Otoa,0,0.09,0,2,3,0.0,6.66
+435,Serie A,Udinese,Jordan Zemura,0,0.46,0,9,5,0.0,6.65
+436,Serie A,Lecce,Oumar Ngom,0,0.23,0,6,5,0.0,6.65
+437,Serie A,Sassuolo,Woyo Coulibaly,0,0.11,0,6,4,0.0,6.65
+438,Serie A,Parma,Pontus Almqvist,0,0.33,1,6,3,0.0,6.65
+439,Serie A,Inter,Andy Diouf,0,0.36,0,6,6,0.0,6.64
+440,Serie A,Bologna,Nicolò Casale,0,0.74,1,0,5,0.0,6.64
+441,Serie A,Cagliari,Juan Rodríguez,0,0.4,1,1,2,0.0,6.64
+442,Serie A,Hellas Verona,Grigoris Kastanos,0,0.02,0,1,1,0.0,6.64
+443,Serie A,Hellas Verona,Lorenzo Montipò,0,,0,1,0,0.0,6.64
+444,Serie A,Hellas Verona,Domagoj Bradarić,0,0.61,1,7,12,0.0,6.64
+445,Serie A,Hellas Verona,Daniel Oyegoke,0,0.07,0,7,3,0.0,6.64
+446,Serie A,Torino,Enzo Ebosse,0,0.05,0,2,1,0.0,6.63
+447,Serie A,Parma,Hernani,0,0.02,0,0,1,0.0,6.63
+448,Serie A,Bologna,Simon Sohm,0,0.79,1,11,9,0.0,6.62
+449,Serie A,Torino,Cristiano Biraghi,0,0.07,0,1,2,0.0,6.62
+450,Serie A,Como,Sergi Roberto,0,0.96,2,3,7,0.0,6.62
+451,Serie A,Genoa,Alessandro Marcandalli,0,0.14,0,4,3,0.0,6.62
+452,Serie A,Lecce,Mohamed Kaba,0,0.47,0,9,9,0.0,6.62
+453,Serie A,Hellas Verona,Moatasem Al-Musrati,0,0.28,0,0,8,0.0,6.62
+454,Serie A,Fiorentina,Edin Džeko,0,0.3,0,2,4,0.0,6.62
+455,Serie A,Udinese,Saba Goglichidze,0,0.2,1,0,3,0.0,6.62
+456,Serie A,Torino,Zakaria Aboukhlal,0,0.34,0,6,7,0.0,6.61
+457,Serie A,SSC Napoli,Pasquale Mazzocchi,0,0.05,0,4,2,0.0,6.61
+458,Serie A,AS Roma,Kostas Tsimikas,0,0.42,1,6,7,0.0,6.61
+459,Serie A,Lazio,Manuel Lazzari,0,0.15,0,10,4,0.0,6.6
+460,Serie A,Cagliari,Zé Pedro,0,0.68,1,5,5,0.0,6.6
+461,Serie A,Milan,Álex Jiménez,0,,0,4,0,0.0,6.6
+462,Serie A,Parma,Daniel Mikołajewski,0,,0,0,0,0.0,6.6
+463,Serie A,Cagliari,Othniël Raterink,0,,0,0,0,0.0,6.6
+464,Serie A,Genoa,Nils Zätterström,0,,0,1,0,0.0,6.6
+465,Serie A,Lecce,Olaf Gorter,0,,0,0,0,0.0,6.6
+466,Serie A,Hellas Verona,Simone Perilli,0,,0,0,0,0.0,6.6
+467,Serie A,Parma,Franco Carboni,0,,0,1,0,0.0,6.6
+468,Serie A,Cagliari,Nicolò Cavuoti,0,,0,1,0,0.0,6.6
+469,Serie A,Udinese,Matteo Palma,0,,0,0,0,0.0,6.6
+470,Serie A,Cremonese,Warren Bondo,0,0.25,0,15,8,0.0,6.6
+471,Serie A,Sassuolo,Josh Doig,0,0.68,1,9,11,0.0,6.59
+472,Serie A,Torino,Tino Anjorin,0,0.49,1,3,4,0.0,6.59
+473,Serie A,Cremonese,Romano Floriani Mussolini,0,0.41,0,6,5,0.0,6.59
+474,Serie A,Fiorentina,Pablo Marí,0,0.03,0,0,2,0.0,6.59
+475,Serie A,Lecce,Þórir Jóhann Helgason,0,0.21,0,6,3,0.0,6.59
+476,Serie A,Cagliari,Zito Luvumbo,0,1.1,2,3,12,0.0,6.58
+477,Serie A,Hellas Verona,Fallou Cham,0,0.35,0,1,5,0.0,6.58
+478,Serie A,Parma,Sascha Britschgi,0,0.42,0,9,13,0.0,6.58
+479,Serie A,Hellas Verona,Cheikh Niasse,0,0.17,0,4,6,0.0,6.58
+480,Serie A,Genoa,Nicolae Stanciu,0,1.22,1,1,5,0.0,6.58
+481,Serie A,Sassuolo,Luca Lipani,0,0.85,1,2,12,0.0,6.57
+482,Serie A,Udinese,Oier Zarraga,0,0.28,1,1,4,0.0,6.57
+483,Serie A,Hellas Verona,Unai Núñez,0,0.45,0,9,7,0.0,6.57
+484,Serie A,Cremonese,Federico Ceccherini,0,0.2,0,1,5,0.0,6.57
+485,Serie A,Sassuolo,Fali Candé,0,0.22,0,0,3,0.0,6.57
+486,Serie A,Pisa,Mateus Lusuardi,0,0.07,0,1,4,0.0,6.57
+487,Serie A,Pisa,Gabriele Piccinini,0,2.13,5,4,18,0.0,6.57
+488,Serie A,Cagliari,Gabriele Zappa,0,0.53,0,5,9,0.0,6.56
+489,Serie A,Pisa,Arturo Calabresi,0,0.2,0,2,4,0.0,6.56
+490,Serie A,Sassuolo,Aster Vranckx,0,0.15,0,3,3,0.0,6.55
+491,Serie A,Cagliari,Agustín Albarracín,0,,0,0,0,0.0,6.55
+492,Serie A,AS Roma,Antonio Arena,0,0.21,0,0,2,0.0,6.55
+493,Serie A,Torino,Ali Dembélé,0,0.06,0,0,1,0.0,6.55
+494,Serie A,Hellas Verona,Ioan Vermesan,0,0.05,0,0,2,0.0,6.55
+495,Serie A,Parma,Benjamin Cremaschi,0,0.02,0,2,1,0.0,6.55
+496,Serie A,Fiorentina,Amir Richardson,0,0.02,0,1,1,0.0,6.55
+497,Serie A,SSC Napoli,Alex Meret,0,,0,0,0,0.0,6.54
+498,Serie A,Lecce,Alex Sala,0,0.25,1,0,4,0.0,6.54
+499,Serie A,Cremonese,Alessio Zerbin,0,1.61,3,6,21,0.0,6.54
+500,Serie A,Fiorentina,Daniele Rugani,0,,0,0,0,0.0,6.54
+501,Serie A,Lecce,Corrie Ndaba,0,0.12,0,6,2,0.0,6.54
+502,Serie A,SSC Napoli,Giuseppe Ambrosino,0,,0,2,0,0.0,6.53
+503,Serie A,Hellas Verona,Isaac,0,,0,1,0,0.0,6.53
+504,Serie A,Genoa,Jean Onana,0,0.02,0,0,1,0.0,6.53
+505,Serie A,Como,Álvaro Morata,0,4.4,7,2,22,0.0,6.53
+506,Serie A,Parma,Jacob Ondrejka,0,1.16,2,10,21,0.0,6.53
+507,Serie A,Lazio,Petar Ratkov,0,0.59,2,0,6,0.0,6.53
+508,Serie A,Inter,Davide Frattesi,0,2.17,4,5,16,0.0,6.52
+509,Serie A,Hellas Verona,Amin Sarr,0,1.21,1,10,17,0.0,6.52
+510,Serie A,Torino,Adrien Tameze,0,0.26,0,0,5,0.0,6.51
+511,Serie A,Torino,Rafael Obrador,0,0.16,0,6,6,0.0,6.51
+512,Serie A,Cremonese,Dachi Lordkipanidze,0,,0,0,0,0.0,6.5
+513,Serie A,AS Roma,Alessandro Romano,0,,0,1,0,0.0,6.5
+514,Serie A,Pisa,Daniel Denoon,0,,0,0,0,0.0,6.5
+515,Serie A,Pisa,Nícolas,0,,0,1,0,0.0,6.5
+516,Serie A,Lazio,Fisayo Dele-Bashiru,0,0.69,0,5,8,0.0,6.5
+517,Serie A,Parma,Abdoulaye Ndiaye,0,0.63,1,2,6,0.0,6.5
+518,Serie A,Pisa,Calvin Stengs,0,0.08,0,0,2,0.0,6.5
+519,Serie A,Milan,Cheveyo Mul-Balentien,0,0.07,0,0,1,0.0,6.5
+520,Serie A,Sassuolo,Laurs Skjellerup,0,0.02,0,0,1,0.0,6.5
+521,Serie A,Sassuolo,Nicholas Pierini,0,0.31,0,2,5,0.0,6.49
+522,Serie A,Parma,Mathias Løvik,0,0.15,0,2,3,0.0,6.49
+523,Serie A,Lecce,Tete Morente,0,0.72,1,9,14,0.0,6.49
+524,Serie A,Sassuolo,Luca Moro,0,0.62,2,1,6,0.0,6.48
+525,Serie A,Pisa,Samuel Iling Junior,0,,0,0,0,0.0,6.48
+526,Serie A,Bologna,Benjamín Domínguez,0,0.67,0,9,12,0.0,6.46
+527,Serie A,Inter,Matteo Darmian,0,,0,0,0,0.0,6.46
+528,Serie A,Cremonese,Michele Collocolo,0,0.06,0,1,2,0.0,6.46
+529,Serie A,Pisa,Giovanni Bonfanti,0,0.37,0,5,6,0.0,6.46
+530,Serie A,Milan,Santiago Giménez,0,2.88,7,3,22,0.0,6.45
+531,Serie A,Fiorentina,Christian Kouamé,0,,0,0,0,0.0,6.45
+532,Serie A,Lecce,Christ-Owen Kouassi,0,,0,0,0,0.0,6.45
+533,Serie A,Lazio,Elseid Hysaj,0,,0,0,0,0.0,6.45
+534,Serie A,Hellas Verona,Pol Lirola,0,,0,1,0,0.0,6.45
+535,Serie A,Sassuolo,Daniel Boloca,0,0.25,0,1,2,0.0,6.45
+536,Serie A,Pisa,Malthe Højholt,0,0.73,2,1,4,0.0,6.44
+537,Serie A,AS Roma,Leon Bailey,0,0.17,0,2,3,0.0,6.44
+538,Serie A,Torino,Sandro Kulenović,0,0.67,1,2,5,0.0,6.44
+539,Serie A,Pisa,Filip Stojilković,0,2.02,5,2,8,0.0,6.43
+540,Serie A,Cagliari,Joseph Liteta,0,,0,2,0,0.0,6.43
+541,Serie A,Fiorentina,Mattia Viti,0,,0,1,0,0.0,6.42
+542,Serie A,Hellas Verona,Tomáš Suslov,0,0.54,1,3,11,0.0,6.42
+543,Serie A,Udinese,Vakoun Issouf Bayo,0,1.33,3,1,13,0.0,6.41
+544,Serie A,Genoa,Seydou Fini,0,,0,1,0,0.0,6.4
+545,Serie A,Inter,Matteo Lavelli,0,,0,0,0,0.0,6.4
+546,Serie A,Hellas Verona,Daniel Mosquera,0,0.71,0,7,16,0.0,6.38
+547,Serie A,Lecce,Sadik Fofana,0,0.16,0,1,2,0.0,6.38
+548,Serie A,Pisa,Louis Buffon,0,,0,0,0,0.0,6.37
+549,Serie A,Fiorentina,Riccardo Braschi,0,0.13,0,2,3,0.0,6.35
+550,Serie A,Pisa,Tomás Esteves,0,,0,0,0,0.0,6.3
+551,Serie A,Cremonese,Faris Moumbagna,0,0.39,1,0,2,0.0,6.3
+552,Serie A,Juventus,Arkadiusz Milik,0,0.09,1,1,2,0.0,6.3
+553,Serie A,Inter,Mattia Mosconi,0,0.04,0,0,1,0.0,6.3
+554,Serie A,Genoa,Maxwel Cornet,0,1.54,2,0,4,0.0,6.29
+555,Serie A,Pisa,Francesco Coppola,0,0.1,0,0,2,0.0,6.28
+556,Serie A,Bologna,Ciro Immobile,0,0.04,1,0,2,0.0,6.27
+557,Serie A,Pisa,Rosen Bozhinov,0,0.06,0,0,2,0.0,6.26
+558,Serie A,Cagliari,Alessandro Di Pardo,0,0.08,0,0,1,0.0,6.25
+559,Serie A,Torino,Adam Masina,0,,0,1,0,0.0,6.24
+560,Serie A,Sassuolo,Pedro Felipe,0,,0,0,0,0.0,0.0
+561,Serie A,Parma,Tjaš Begić,0,,0,0,0,0.0,0.0
+562,Serie A,Como,Andrea Le Borgne,0,,0,0,0,0.0,0.0
+563,Serie A,Genoa,Joi Xheto Nuredini,0,,0,0,0,0.0,0.0
+564,Serie A,Hellas Verona,Junior Ajayi,0,,0,0,0,0.0,0.0
+565,Serie A,Sassuolo,Cas Odenthal,0,,0,0,0,0.0,0.0

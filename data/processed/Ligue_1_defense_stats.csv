@@ -1,0 +1,545 @@
+﻿#,League,Team,Name,Tackles,Interceptions,Clearances,Errors leading to goal,Blocked shots,Average Sofascore rating
+1,Ligue 1,RC Lens,Adrien Thomasson,91,18,26,0,4.0,6.91
+2,Ligue 1,RC Lens,Mamadou Sangare,82,40,28,0,4.0,7.09
+3,Ligue 1,Nantes,Johann Lepenant,79,27,21,0,3.0,6.84
+4,Ligue 1,Toulouse,Cristian Cásseres Jr.,76,33,34,0,9.0,7.15
+5,Ligue 1,Stade Rennais,Valentin Rongier,71,37,57,0,9.0,7.23
+6,Ligue 1,Auxerre,Kévin Danois,70,37,13,0,2.0,7.04
+7,Ligue 1,RC Strasbourg,Samir El Mourabet,70,25,21,2,11.0,6.98
+8,Ligue 1,Metz,Koffi Kouao,70,29,68,0,13.0,6.86
+9,Ligue 1,Angers,Haris Belkebla,67,28,42,1,8.0,6.77
+10,Ligue 1,Stade Brestois,Hugo Magnetti,65,42,54,1,3.0,6.84
+11,Ligue 1,Auxerre,Elisha Owusu,65,23,44,0,8.0,6.81
+12,Ligue 1,Stade Brestois,Joris Chotard,63,43,87,0,11.0,6.94
+13,Ligue 1,Lille,Benjamin André,62,31,40,0,5.0,7.14
+14,Ligue 1,Nice,Jonathan Clauss,62,46,61,0,6.0,6.96
+15,Ligue 1,Le Havre,Rassoul Ndiaye,61,14,17,0,2.0,7.0
+16,Ligue 1,Paris FC,Pierre Lees Melou,61,19,36,1,8.0,6.93
+17,Ligue 1,AS Monaco,Thilo Kehrer,61,29,101,1,23.0,6.91
+18,Ligue 1,RC Lens,Malang Sarr,60,73,129,0,23.0,7.24
+19,Ligue 1,AS Monaco,Jordan Teze,59,27,57,0,10.0,6.98
+20,Ligue 1,Angers,Yassin Belkhdim,59,36,23,0,6.0,6.76
+21,Ligue 1,Stade Brestois,Romain Del Castillo,57,26,23,0,1.0,6.76
+22,Ligue 1,Angers,Jacques Ekomié,57,30,47,0,10.0,6.56
+23,Ligue 1,Auxerre,Marvin Senaya,56,34,75,0,13.0,6.83
+24,Ligue 1,Lille,Ayyoub Bouaddi,56,25,23,0,7.0,6.7
+25,Ligue 1,Lorient,Arthur Avom Ebong,55,30,24,0,3.0,6.99
+26,Ligue 1,Stade Brestois,Kamory Doumbia,55,19,5,1,0.0,6.84
+27,Ligue 1,Olympique Lyonnais,Ainsley Maitland-Niles,55,32,70,0,4.0,6.79
+28,Ligue 1,Stade Rennais,Mahdi Camara,54,31,39,0,6.0,6.63
+29,Ligue 1,Stade Brestois,Bradley Locko,53,11,30,0,0.0,6.71
+30,Ligue 1,RC Strasbourg,Valentín Barco,52,13,11,0,0.0,7.15
+31,Ligue 1,Stade Rennais,Quentin Merlin,52,33,54,1,12.0,6.91
+32,Ligue 1,Paris FC,Moustapha Mbow,52,37,150,0,28.0,6.89
+33,Ligue 1,Le Havre,Loic Négo,52,33,90,1,7.0,6.79
+34,Ligue 1,Paris FC,Adama Camara,52,36,59,1,12.0,6.73
+35,Ligue 1,Nice,Melvin Bard,52,39,73,0,14.0,6.68
+36,Ligue 1,Toulouse,Dayann Methalie,51,24,31,0,3.0,6.48
+37,Ligue 1,Metz,Jean-Philippe Gbamin,50,27,81,1,13.0,6.58
+38,Ligue 1,AS Monaco,Lamine Camara,49,37,16,0,6.0,7.1
+39,Ligue 1,RC Lens,Matthieu Udol,49,48,59,1,8.0,7.05
+40,Ligue 1,Nice,Antoine Mendy,49,16,117,2,16.0,6.77
+41,Ligue 1,Angers,Jordan Lefort,48,45,167,0,14.0,6.81
+42,Ligue 1,Toulouse,Djibril Sidibé,48,17,48,1,4.0,6.76
+43,Ligue 1,Auxerre,Gideon Mensah,48,26,66,0,3.0,6.76
+44,Ligue 1,Olympique Lyonnais,Tyler Morton,47,21,40,0,13.0,7.17
+45,Ligue 1,Paris Saint-Germain,Warren Zaïre-Emery,47,12,21,1,7.0,7.01
+46,Ligue 1,Olympique de Marseille,Tim Weah,47,16,21,0,3.0,6.73
+47,Ligue 1,Metz,Boubacar Traoré,47,14,16,1,1.0,6.72
+48,Ligue 1,Le Havre,Yanis Zouaoui,47,26,59,0,13.0,6.69
+49,Ligue 1,Toulouse,Aron Dønnum,46,27,14,0,3.0,7.24
+50,Ligue 1,Angers,Lilian Raolisoa,46,14,43,0,3.0,6.8
+51,Ligue 1,Nice,Charles Vanhoutte,45,19,44,0,10.0,6.8
+52,Ligue 1,Angers,Ousmane Camara,44,31,164,1,24.0,6.86
+53,Ligue 1,Olympique de Marseille,Leonardo Balerdi,44,22,88,1,9.0,6.86
+54,Ligue 1,Nantes,Nicolas Cozza,44,17,95,0,11.0,6.61
+55,Ligue 1,Metz,Sadibou Sané,43,36,115,0,20.0,6.92
+56,Ligue 1,RC Strasbourg,Guéla Doué,43,25,90,0,6.0,6.9
+57,Ligue 1,Toulouse,Mark McKenzie,43,24,90,0,11.0,6.79
+58,Ligue 1,Nice,Kojo Peprah Oppong,43,25,136,0,16.0,6.75
+59,Ligue 1,Metz,Jessy Deminguet,43,18,17,0,2.0,6.72
+60,Ligue 1,RC Strasbourg,Diego Moreira,42,18,23,0,4.0,6.95
+61,Ligue 1,Paris FC,Otávio,42,27,130,1,17.0,6.89
+62,Ligue 1,Le Havre,Ayumu Seko,42,36,113,0,7.0,6.82
+63,Ligue 1,Le Havre,Gautier Lloris,41,41,146,0,20.0,7.02
+64,Ligue 1,Stade Rennais,Przemysław Frankowski,40,8,35,0,1.0,6.98
+65,Ligue 1,Paris Saint-Germain,Willian Pacho,40,24,66,0,10.0,6.97
+66,Ligue 1,Auxerre,Lassine Sinayoko,40,22,23,0,0.0,6.93
+67,Ligue 1,Lille,Romain Perraud,40,23,46,0,5.0,6.87
+68,Ligue 1,Lorient,Théo Le Bris,40,17,42,0,2.0,6.84
+69,Ligue 1,Paris Saint-Germain,Senny Mayulu,40,7,3,0,0.0,6.74
+70,Ligue 1,Auxerre,Lamine Sy,40,17,30,0,6.0,6.64
+71,Ligue 1,Olympique Lyonnais,Clinton Mata,39,28,140,0,27.0,6.98
+72,Ligue 1,RC Strasbourg,Junior Mwanga,39,13,27,1,7.0,6.74
+73,Ligue 1,Olympique de Marseille,Emerson,38,31,46,0,8.0,6.87
+74,Ligue 1,Stade Brestois,Kenny Lala,38,28,78,2,10.0,6.76
+75,Ligue 1,Le Havre,Simon Ebonog,38,23,21,0,4.0,6.59
+76,Ligue 1,Angers,Louis Mouton,38,14,13,0,4.0,6.56
+77,Ligue 1,Metz,Maxime Colin,38,24,41,0,10.0,6.49
+78,Ligue 1,AS Monaco,Maghnes Akliouche,37,17,13,1,3.0,7.07
+79,Ligue 1,Le Havre,Arouna Sangante,37,35,115,0,15.0,6.8
+80,Ligue 1,Toulouse,Santiago Hidalgo,37,6,11,0,1.0,6.66
+81,Ligue 1,Nantes,Louis Leroux,37,4,36,0,2.0,6.62
+82,Ligue 1,RC Lens,Ruben Aguilar,36,25,27,0,10.0,6.94
+83,Ligue 1,Angers,Carlens Arcus,36,31,65,0,2.0,6.68
+84,Ligue 1,RC Lens,Ismaelo Ganiou,35,25,102,1,11.0,7.07
+85,Ligue 1,Stade Rennais,Alidu Seidu,35,17,36,1,2.0,6.86
+86,Ligue 1,Nice,Tom Louchet,35,8,26,0,4.0,6.81
+87,Ligue 1,AS Monaco,Mamadou Coulibaly,35,18,19,0,2.0,6.78
+88,Ligue 1,Olympique de Marseille,Pierre-Emile Højbjerg,34,25,38,0,5.0,7.14
+89,Ligue 1,RC Lens,Saud Abdulhamid,34,11,18,0,2.0,6.98
+90,Ligue 1,Lorient,Laurent Abergel,34,27,41,1,4.0,6.91
+91,Ligue 1,AS Monaco,Denis Zakaria,34,32,59,0,13.0,6.88
+92,Ligue 1,Nice,Abdulay Juma Bah,34,29,136,0,29.0,6.79
+93,Ligue 1,Metz,Alpha Touré,34,9,25,0,4.0,6.51
+94,Ligue 1,Olympique Lyonnais,Moussa Niakhaté,33,27,171,0,19.0,7.21
+95,Ligue 1,RC Lens,Samson Baidoo,33,23,83,0,25.0,7.2
+96,Ligue 1,Le Havre,Issa Soumaré,33,11,44,0,6.0,7.04
+97,Ligue 1,Stade Brestois,Brendan Chardonnet,33,31,180,1,40.0,6.95
+98,Ligue 1,Stade Rennais,Djaoui Cissé,33,6,6,0,5.0,6.67
+99,Ligue 1,Stade Brestois,Daouda Guindo,33,25,38,0,6.0,6.44
+100,Ligue 1,Paris FC,Ilan Kebbal,32,8,6,0,0.0,7.44
+101,Ligue 1,Lille,Aïssa Mandi,32,42,100,0,15.0,7.27
+102,Ligue 1,Olympique Lyonnais,Corentin Tolisso,32,17,32,0,9.0,7.15
+103,Ligue 1,Toulouse,Pape Diop,32,30,12,0,6.0,6.98
+104,Ligue 1,Le Havre,Fodé Doucouré,32,8,19,0,1.0,6.84
+105,Ligue 1,Lorient,Darlin Yongwa,32,11,32,0,2.0,6.55
+106,Ligue 1,AS Monaco,Krépin Diatta,31,16,30,0,3.0,6.9
+107,Ligue 1,Lille,Nathan Ngoy,31,34,93,0,13.0,6.86
+108,Ligue 1,Nantes,Fabien Centonze,31,23,32,0,2.0,6.81
+109,Ligue 1,Auxerre,Clement Akpa,31,21,87,2,8.0,6.68
+110,Ligue 1,Auxerre,Josué Casimir,31,10,12,0,0.0,6.58
+111,Ligue 1,Paris Saint-Germain,Désiré Doué,30,8,2,1,2.0,7.11
+112,Ligue 1,Olympique Lyonnais,Afonso Moreira,30,12,12,0,0.0,7.02
+113,Ligue 1,Auxerre,Sinaly Diomandé,30,29,105,0,14.0,6.89
+114,Ligue 1,AS Monaco,Aladji Bamba,30,7,14,0,0.0,6.86
+115,Ligue 1,Stade Rennais,Lilian Brassier,30,38,78,1,23.0,6.83
+116,Ligue 1,Auxerre,Danny Namaso,30,10,21,0,2.0,6.67
+117,Ligue 1,Olympique de Marseille,Quinten Timber,30,7,3,0,0.0,6.63
+118,Ligue 1,Nantes,Dehmaine Tabibou,30,17,19,3,0.0,6.62
+119,Ligue 1,Olympique Lyonnais,Abner Vinícius,29,7,38,0,4.0,6.84
+120,Ligue 1,Lille,Thomas Meunier,29,14,51,0,2.0,6.83
+121,Ligue 1,Olympique Lyonnais,Tanner Tessmann,29,14,54,1,13.0,6.83
+122,Ligue 1,RC Lens,Andrija Bulatovic,29,8,10,0,2.0,6.76
+123,Ligue 1,Olympique Lyonnais,Nicolás Tagliafico,29,20,35,0,5.0,6.69
+124,Ligue 1,Paris FC,Hamari Traoré,29,17,36,0,1.0,6.6
+125,Ligue 1,Paris Saint-Germain,Bradley Barcola,28,12,6,0,1.0,7.28
+126,Ligue 1,Nantes,Chidozie Awaziem,28,20,182,0,17.0,6.95
+127,Ligue 1,Nantes,Mohamed Kaba,28,14,3,0,3.0,6.8
+128,Ligue 1,Olympique de Marseille,Benjamin Pavard,28,24,70,1,11.0,6.79
+129,Ligue 1,AS Monaco,Christian Mawissa,28,17,44,0,6.0,6.74
+130,Ligue 1,Lorient,Bamo Meïté,28,13,114,0,13.0,6.66
+131,Ligue 1,Lille,Ngal'ayel Mukau,28,11,7,0,1.0,6.63
+132,Ligue 1,Nantes,Kelvin Amian,28,7,72,0,10.0,6.61
+133,Ligue 1,Lorient,Abdoulaye Faye,28,27,77,1,6.0,6.57
+134,Ligue 1,Le Havre,Yassine Kechta,28,16,18,0,3.0,6.55
+135,Ligue 1,Paris Saint-Germain,Ilya Zabarnyi,27,16,79,0,8.0,7.02
+136,Ligue 1,Stade Rennais,Jérémy Jacquet,27,19,91,1,16.0,6.99
+137,Ligue 1,Lille,Félix Correia,27,20,11,1,2.0,6.87
+138,Ligue 1,AS Monaco,Kassoum Ouattara,27,16,21,0,0.0,6.57
+139,Ligue 1,Lorient,Pablo Pagis,26,16,18,0,2.0,7.1
+140,Ligue 1,RC Strasbourg,Joaquin Panichelli,26,12,32,0,8.0,6.89
+141,Ligue 1,Lorient,Jean Victor Makengo,26,9,23,0,1.0,6.81
+142,Ligue 1,Auxerre,Fredrik Oppegård,26,13,24,0,5.0,6.55
+143,Ligue 1,Paris Saint-Germain,Nuno Mendes,25,13,18,0,4.0,7.24
+144,Ligue 1,RC Lens,Florian Thauvin,25,10,7,0,2.0,7.24
+145,Ligue 1,Stade Rennais,Anthony Rouault,25,16,100,0,18.0,7.11
+146,Ligue 1,AS Monaco,Mohammed Salisu,25,17,84,0,21.0,7.03
+147,Ligue 1,Stade Brestois,Ludovic Ajorque,25,10,40,0,6.0,6.92
+148,Ligue 1,Stade Rennais,Mousa Tamari,25,10,6,0,2.0,6.9
+149,Ligue 1,Le Havre,Lucas Gourna-Douath,25,14,16,0,11.0,6.85
+150,Ligue 1,Nice,Hicham Boudaoui,25,17,24,0,9.0,6.8
+151,Ligue 1,Olympique Lyonnais,Khalis Merah,25,7,3,0,0.0,6.64
+152,Ligue 1,RC Strasbourg,Ben Chilwell,25,22,53,1,4.0,6.61
+153,Ligue 1,Nice,Morgan Sanson,25,25,14,0,7.0,6.55
+154,Ligue 1,Paris Saint-Germain,Khvicha Kvaratskhelia,24,9,4,0,3.0,7.22
+155,Ligue 1,Paris Saint-Germain,João Neves,24,6,5,0,5.0,7.19
+156,Ligue 1,Olympique Lyonnais,Pavel Šulc,24,7,11,0,0.0,6.96
+157,Ligue 1,Lorient,Arsène Kouassi,24,21,49,1,3.0,6.91
+158,Ligue 1,Lorient,Noah Cadiou,24,23,36,0,13.0,6.85
+159,Ligue 1,AS Monaco,Aleksandr Golovin,24,23,11,0,5.0,6.85
+160,Ligue 1,Olympique de Marseille,Himad Abdelli,24,16,12,0,3.0,6.83
+161,Ligue 1,AS Monaco,Vanderson,24,23,30,0,1.0,6.77
+162,Ligue 1,Paris FC,Rudy Matondo,24,9,18,0,3.0,6.67
+163,Ligue 1,Stade Brestois,Lucas Tousart,24,7,16,0,1.0,6.65
+164,Ligue 1,Paris FC,Nhoa Sangui,24,16,53,1,5.0,6.6
+165,Ligue 1,Paris Saint-Germain,Vitinha,23,25,22,0,5.0,7.62
+166,Ligue 1,Paris Saint-Germain,Lucas Beraldo,23,20,56,0,6.0,7.29
+167,Ligue 1,Paris Saint-Germain,Lucas Hernández,23,19,41,0,7.0,7.01
+168,Ligue 1,Lille,Hakon Arnar Haraldsson,23,10,9,0,0.0,6.96
+169,Ligue 1,Toulouse,Charlie Cresswell,23,27,168,0,29.0,6.95
+170,Ligue 1,Stade Brestois,Michel Diaz,23,21,85,0,19.0,6.92
+171,Ligue 1,Olympique de Marseille,Igor Paixão,23,14,21,1,2.0,6.91
+172,Ligue 1,Paris FC,Maxime López,23,10,10,1,3.0,6.87
+173,Ligue 1,Metz,Benjamin Stambouli,23,8,23,0,4.0,6.81
+174,Ligue 1,AS Monaco,Caio Henrique,23,11,32,0,6.0,6.75
+175,Ligue 1,Toulouse,Rasmus Nicolaisen,23,42,143,1,18.0,6.7
+176,Ligue 1,Olympique de Marseille,Arthur Vermeeren,23,11,9,0,1.0,6.5
+177,Ligue 1,Paris FC,Thibault De Smet,23,8,52,0,2.0,6.45
+178,Ligue 1,Olympique de Marseille,Nayef Aguerd,22,21,75,1,9.0,7.13
+179,Ligue 1,RC Strasbourg,Gessime Yassine,22,2,1,0,0.0,6.89
+180,Ligue 1,Nice,Sofiane Diop,22,18,9,0,2.0,6.89
+181,Ligue 1,Lorient,Karim Dermane,22,11,5,0,2.0,6.73
+182,Ligue 1,Lorient,Joel Mugisha Mvuka,22,7,13,0,0.0,6.57
+183,Ligue 1,Toulouse,Yann Gboho,21,14,2,0,1.0,7.07
+184,Ligue 1,RC Lens,Wesley Saïd,21,9,19,0,0.0,7.07
+185,Ligue 1,Angers,Branco Van den Boomen,21,7,13,0,4.0,7.02
+186,Ligue 1,Lorient,Montassar Talbi,21,26,175,0,22.0,6.89
+187,Ligue 1,Stade Rennais,Abdelhamid Ait Boudlal,21,18,75,0,13.0,6.86
+188,Ligue 1,Lorient,Igor Silva,21,13,44,0,7.0,6.74
+189,Ligue 1,Olympique de Marseille,Amir Murillo,21,6,19,0,2.0,6.71
+190,Ligue 1,Nantes,Bahereba Guirassy,21,5,12,0,1.0,6.62
+191,Ligue 1,Nantes,Deiver Machado,21,10,30,1,1.0,6.59
+192,Ligue 1,Metz,Fodé Ballo-Touré,21,5,19,0,0.0,6.48
+193,Ligue 1,Nantes,Matthis Abline,20,8,10,0,0.0,6.96
+194,Ligue 1,Stade Rennais,Sebastian Szymański,20,2,4,0,3.0,6.82
+195,Ligue 1,Angers,Amine Sbai,20,7,2,0,0.0,6.66
+196,Ligue 1,Nice,Ali Abdi,20,10,26,1,4.0,6.62
+197,Ligue 1,Angers,Marius Louer,20,3,13,0,1.0,6.58
+198,Ligue 1,Toulouse,Emersonn,20,7,18,0,1.0,6.53
+199,Ligue 1,RC Strasbourg,Julio Enciso,19,6,8,0,1.0,6.99
+200,Ligue 1,Paris FC,Luca Koleosho,19,4,5,0,1.0,6.89
+201,Ligue 1,Auxerre,Oussama El Azzouzi,19,16,13,0,3.0,6.88
+202,Ligue 1,RC Strasbourg,Samuel Amo-Ameyaw,19,3,1,0,0.0,6.79
+203,Ligue 1,Metz,Giorgi Tsitaishvili,19,13,33,0,2.0,6.76
+204,Ligue 1,RC Strasbourg,Lucas Høgsberg,19,11,55,0,17.0,6.74
+205,Ligue 1,Toulouse,Abu Francis,19,8,10,1,3.0,6.7
+206,Ligue 1,RC Strasbourg,Abdoul Ouattara,19,15,26,0,1.0,6.66
+207,Ligue 1,Stade Rennais,Breel Embolo,19,4,19,0,4.0,6.65
+208,Ligue 1,Toulouse,Waren Kamanzi,19,8,18,0,1.0,6.65
+209,Ligue 1,Stade Brestois,Eric Ebimbe,19,4,10,0,0.0,6.6
+210,Ligue 1,Stade Brestois,Pathé Mboup,19,11,5,0,1.0,6.45
+211,Ligue 1,Nantes,Tylel Tati,19,17,79,1,15.0,6.42
+212,Ligue 1,Lille,Matías Fernández-Pardo,18,7,3,0,1.0,7.07
+213,Ligue 1,Metz,Gauthier Hein,18,7,4,0,2.0,7.0
+214,Ligue 1,Stade Rennais,Ludovic Blas,18,15,7,0,1.0,6.82
+215,Ligue 1,Paris Saint-Germain,Achraf Hakimi,18,11,12,0,1.0,6.77
+216,Ligue 1,Olympique de Marseille,Matt O'Riley,18,6,10,0,3.0,6.75
+217,Ligue 1,Angers,Pierrick Capelle,18,4,9,0,1.0,6.67
+218,Ligue 1,RC Strasbourg,Ismael Doukouré,18,21,63,0,11.0,6.6
+219,Ligue 1,Metz,Cheick Tidiane Sabaly,18,5,5,0,3.0,6.57
+220,Ligue 1,RC Lens,Nidal Čelik,18,8,12,1,4.0,6.54
+221,Ligue 1,Metz,Bouna Sarr,18,8,17,1,5.0,6.52
+222,Ligue 1,Paris FC,Samir Sophian Chergui,18,7,30,0,5.0,6.48
+223,Ligue 1,Le Havre,Sofiane Boufal,17,3,4,0,0.0,6.77
+224,Ligue 1,RC Lens,Jonathan Gradit,17,16,51,1,9.0,6.7
+225,Ligue 1,Nantes,Francis Coquelin,17,6,11,1,5.0,6.66
+226,Ligue 1,RC Strasbourg,Rafael Luis,17,4,6,0,0.0,6.62
+227,Ligue 1,Stade Rennais,Mahamadou Nagida,17,17,30,1,2.0,6.61
+228,Ligue 1,RC Strasbourg,Félix Lemaréchal,17,3,7,0,0.0,6.59
+229,Ligue 1,Olympique de Marseille,Bilal Nadir,17,7,5,0,1.0,6.58
+230,Ligue 1,Paris FC,Alimami Gory,17,8,14,1,1.0,6.57
+231,Ligue 1,Paris Saint-Germain,Kang-in Lee,16,3,6,2,1.0,7.05
+232,Ligue 1,Nantes,Frédéric Guilbert,16,21,31,0,5.0,7.04
+233,Ligue 1,Nantes,Rémy Cabella,16,6,1,0,0.0,6.99
+234,Ligue 1,Paris FC,Jonathan Ikoné,16,4,7,0,1.0,6.82
+235,Ligue 1,Paris FC,Vincent Marchetti,16,4,22,0,2.0,6.65
+236,Ligue 1,Paris Saint-Germain,Marquinhos,15,7,32,0,3.0,7.26
+237,Ligue 1,Lille,Nabil Bentaleb,15,15,37,0,6.0,6.97
+238,Ligue 1,RC Strasbourg,Martial Godo,15,11,8,0,0.0,6.85
+239,Ligue 1,Olympique de Marseille,Facundo Medina,15,17,35,0,9.0,6.8
+240,Ligue 1,RC Strasbourg,Mamadou Sarr,15,9,65,0,3.0,6.79
+241,Ligue 1,Nantes,Hyeok-kyu Kwon,15,7,28,0,8.0,6.78
+242,Ligue 1,Nice,Mohamed Ali Cho,15,4,6,0,2.0,6.77
+243,Ligue 1,Stade Brestois,Remy Labeau Lascary,15,6,2,0,2.0,6.73
+244,Ligue 1,Le Havre,Enzo Koffi,15,8,12,0,0.0,6.59
+245,Ligue 1,Angers,Marius Courcoul,15,3,8,0,2.0,6.59
+246,Ligue 1,Olympique Lyonnais,Ruben Kluivert,15,9,46,1,4.0,6.56
+247,Ligue 1,Metz,Terry Yegbe,15,21,115,1,17.0,6.41
+248,Ligue 1,Olympique de Marseille,Geoffrey Kondogbia,14,10,17,0,5.0,6.95
+249,Ligue 1,AS Monaco,Ansu Fati,14,4,8,0,0.0,6.84
+250,Ligue 1,Auxerre,Francisco Sierralta,14,8,56,0,5.0,6.8
+251,Ligue 1,RC Lens,Morgan Guilavogui,14,1,5,0,0.0,6.78
+252,Ligue 1,Lille,Chancel Mbemba,14,14,65,0,4.0,6.77
+253,Ligue 1,Paris Saint-Germain,Ibrahim Mbaye,14,5,2,0,0.0,6.76
+254,Ligue 1,Lille,Calvin Verdonk,14,17,23,0,1.0,6.71
+255,Ligue 1,Lille,Tiago Santos,14,6,15,0,0.0,6.67
+256,Ligue 1,Stade Brestois,Soumaila Coulibaly,14,14,75,1,9.0,6.58
+257,Ligue 1,Olympique de Marseille,Mason Greenwood,13,4,2,0,1.0,7.32
+258,Ligue 1,Auxerre,Bryan Okoh,13,26,76,1,11.0,7.08
+259,Ligue 1,Paris FC,Moses Simon,13,9,15,0,1.0,6.78
+260,Ligue 1,Stade Brestois,Mama Baldé,13,6,5,0,0.0,6.73
+261,Ligue 1,Angers,Florent Hanin,13,10,25,0,4.0,6.66
+262,Ligue 1,RC Strasbourg,Mathis Amougou,13,2,2,0,1.0,6.62
+263,Ligue 1,Paris FC,Jean-Philippe Krasso,13,1,7,0,1.0,6.59
+264,Ligue 1,Nantes,Ibrahima Sissoko,13,17,13,0,5.0,6.58
+265,Ligue 1,Nice,Kaïl Boudache,13,5,2,0,0.0,6.55
+266,Ligue 1,Paris FC,Diego Coppola,12,6,88,0,10.0,6.92
+267,Ligue 1,Le Havre,Abdoulaye Touré,12,9,16,0,4.0,6.87
+268,Ligue 1,AS Monaco,Wout Faes,12,14,53,0,9.0,6.82
+269,Ligue 1,Paris FC,Marshall Munetsi,12,3,25,0,2.0,6.77
+270,Ligue 1,Metz,Giorgi Abuashvili,12,4,6,0,1.0,6.6
+271,Ligue 1,Auxerre,Sékou Mara,12,2,6,0,0.0,6.6
+272,Ligue 1,Nantes,Youssef El Arabi,12,3,11,0,1.0,6.58
+273,Ligue 1,Le Havre,Felix Mambimbi,12,3,7,0,0.0,6.51
+274,Ligue 1,Olympique Lyonnais,Hans Hateboer,12,8,22,1,2.0,6.23
+275,Ligue 1,Olympique Lyonnais,Endrick,11,3,3,0,0.0,7.21
+276,Ligue 1,Olympique Lyonnais,Malick Fofana,11,3,2,0,0.0,7.02
+277,Ligue 1,Olympique de Marseille,Amine Gouiri,11,3,2,0,1.0,6.96
+278,Ligue 1,Metz,Urie-Michel Mboula,11,14,25,0,6.0,6.77
+279,Ligue 1,Le Havre,Stephan Zagadou,11,2,20,0,8.0,6.76
+280,Ligue 1,Nantes,Ali Youssef,11,20,63,0,5.0,6.75
+281,Ligue 1,RC Lens,Rayan Fofana,11,2,5,0,2.0,6.74
+282,Ligue 1,RC Strasbourg,Sebastian Nanasi,11,4,13,0,2.0,6.73
+283,Ligue 1,Lille,Olivier Giroud,11,4,14,1,5.0,6.63
+284,Ligue 1,Paris Saint-Germain,Gonçalo Ramos,11,3,7,0,0.0,6.6
+285,Ligue 1,Toulouse,Mario Sauer,11,10,12,0,2.0,6.58
+286,Ligue 1,Auxerre,Ibrahim Osman,11,4,2,0,0.0,6.57
+287,Ligue 1,Lille,Noah Edjouma,11,3,5,0,0.0,6.55
+288,Ligue 1,Le Havre,Ally Samatta,11,3,7,0,0.0,6.51
+289,Ligue 1,AS Monaco,Mika Biereth,11,0,5,0,2.0,6.51
+290,Ligue 1,Nice,Salis Abdul Samed,11,10,6,0,1.0,6.5
+291,Ligue 1,Toulouse,Alexis Vossah,11,7,21,1,2.0,6.5
+292,Ligue 1,Paris Saint-Germain,Fabián Ruiz,10,9,7,0,0.0,7.02
+293,Ligue 1,RC Lens,Odsonne Édouard,10,3,21,1,4.0,6.91
+294,Ligue 1,Lorient,Panos Katseris,10,10,15,0,1.0,6.87
+295,Ligue 1,Olympique de Marseille,Angel Gomes,10,4,2,0,0.0,6.85
+296,Ligue 1,Lille,Ethan Mbappé,10,1,0,0,0.0,6.83
+297,Ligue 1,Toulouse,Rafik Messali,10,12,19,0,2.0,6.79
+298,Ligue 1,Lille,Gaëtan Perrin,10,2,0,0,0.0,6.79
+299,Ligue 1,RC Strasbourg,Maxi Oyedele,10,5,10,0,0.0,6.78
+300,Ligue 1,Lille,Alexsandro Ribeiro,10,11,34,0,3.0,6.68
+301,Ligue 1,Olympique de Marseille,Conrad Jaden Egan-Riley,10,1,34,0,4.0,6.67
+302,Ligue 1,Nantes,Mostafa Mohamed,10,8,13,0,3.0,6.63
+303,Ligue 1,Nantes,Yassine Benhattab,10,0,3,0,0.0,6.62
+304,Ligue 1,Metz,Malick Mbaye,10,3,9,0,0.0,6.6
+305,Ligue 1,Lille,Marius Broholm,10,2,2,1,0.0,6.58
+306,Ligue 1,Nice,Isak Jansson,10,5,2,0,0.0,6.55
+307,Ligue 1,RC Lens,Fode Sylla,9,3,3,0,0.0,6.85
+308,Ligue 1,Olympique Lyonnais,Noah Nartey,9,2,3,0,0.0,6.81
+309,Ligue 1,Olympique de Marseille,Hamed Junior Traorè,9,4,3,0,2.0,6.76
+310,Ligue 1,AS Monaco,Simon Adingra,9,5,5,0,0.0,6.74
+311,Ligue 1,Metz,Habibou Diallo,9,2,29,0,4.0,6.73
+312,Ligue 1,Toulouse,Seny Koumbassa,9,3,31,0,2.0,6.61
+313,Ligue 1,Le Havre,Timothee Pembele,9,2,15,0,1.0,6.61
+314,Ligue 1,Nantes,Hong Hyun-seok,9,3,3,0,1.0,6.6
+315,Ligue 1,Le Havre,Younes Namli,9,6,3,0,0.0,6.59
+316,Ligue 1,Lorient,Nathaniel Adjei,9,5,41,1,2.0,6.58
+317,Ligue 1,Paris FC,Timothée Kolodziejczak,9,8,37,2,3.0,6.48
+318,Ligue 1,Olympique de Marseille,Pierre-Emerick Aubameyang,8,5,10,1,0.0,6.92
+319,Ligue 1,Olympique Lyonnais,Mathys de Carvalho,8,5,8,0,1.0,6.8
+320,Ligue 1,Paris Saint-Germain,Dro Fernández,8,7,4,0,3.0,6.76
+321,Ligue 1,Toulouse,Frank Magri,8,3,13,0,1.0,6.71
+322,Ligue 1,Stade Rennais,Arnaud Nordin,8,0,5,0,0.0,6.66
+323,Ligue 1,Angers,Sidiki Cherif,8,7,2,0,0.0,6.59
+324,Ligue 1,Metz,Believe Munongo,8,5,7,0,1.0,6.56
+325,Ligue 1,Nice,Tiago Gouveia,8,9,6,1,0.0,6.49
+326,Ligue 1,AS Monaco,Eric Dier,7,10,29,1,10.0,7.0
+327,Ligue 1,Lille,Hamza Igamane,7,2,2,0,0.0,6.94
+328,Ligue 1,Auxerre,Romain Faivre,7,5,5,0,1.0,6.85
+329,Ligue 1,RC Strasbourg,Andrew Omobamidele,7,15,62,0,7.0,6.85
+330,Ligue 1,Metz,Nathan Mbala,7,1,3,0,0.0,6.81
+331,Ligue 1,Lorient,Ahmadou Bamba Dieng,7,3,14,0,1.0,6.8
+332,Ligue 1,Metz,Ibou Sane,7,1,4,0,0.0,6.73
+333,Ligue 1,Le Havre,Reda Khadra,7,0,1,0,0.0,6.73
+334,Ligue 1,Auxerre,Naouirou Ahamada,7,2,3,0,0.0,6.71
+335,Ligue 1,RC Lens,Abdallah Sima,7,2,12,0,0.0,6.69
+336,Ligue 1,Le Havre,Godson Kyeremeh,7,0,3,0,0.0,6.68
+337,Ligue 1,Angers,Djibirin Harouna,7,4,7,0,0.0,6.68
+338,Ligue 1,Nice,Dante,7,9,34,0,4.0,6.64
+339,Ligue 1,Angers,Prosper Peter,7,4,9,0,0.0,6.56
+340,Ligue 1,Olympique Lyonnais,Rachid Ghezzal,7,1,5,0,0.0,6.48
+341,Ligue 1,Angers,Lanroy Machine,7,0,3,0,0.0,6.44
+342,Ligue 1,Angers,Emmanuel Biumla,7,3,15,1,2.0,6.33
+343,Ligue 1,Stade Rennais,Esteban Lepaul,6,2,15,0,0.0,7.01
+344,Ligue 1,Nice,Brad-Hamilton Mantsounga,6,0,5,0,3.0,7.0
+345,Ligue 1,Le Havre,Étienne Youte Kinkoue,6,0,28,0,8.0,6.8
+346,Ligue 1,Auxerre,Lasso Coulibaly,6,5,0,0,1.0,6.66
+347,Ligue 1,Angers,Justin-Noel Kalumba,6,1,3,0,0.0,6.6
+348,Ligue 1,Olympique de Marseille,Tochukwu Nnadi,6,2,1,1,0.0,6.55
+349,Ligue 1,RC Strasbourg,Kendry Páez,6,3,6,0,0.0,6.5
+350,Ligue 1,RC Lens,Florian Sotoca,6,5,4,0,0.0,6.46
+351,Ligue 1,Paris Saint-Germain,Ousmane Dembélé,5,0,1,0,0.0,7.52
+352,Ligue 1,Olympique de Marseille,Ange Lago,5,0,1,0,0.0,7.3
+353,Ligue 1,Stade Brestois,Julien Le Cardinal,5,3,23,0,5.0,6.98
+354,Ligue 1,Nantes,Ignatius Kpene Ganago,5,2,8,0,1.0,6.85
+355,Ligue 1,AS Monaco,Folarin Balogun,5,4,7,0,2.0,6.79
+356,Ligue 1,Olympique de Marseille,Robinio Vaz,5,2,3,0,0.0,6.76
+357,Ligue 1,Lorient,Aiyegun Tosin,5,2,6,0,0.0,6.74
+358,Ligue 1,Metz,Giorgi Kvilitaia,5,0,8,0,1.0,6.74
+359,Ligue 1,Lille,Osame Sahraoui,5,3,2,1,1.0,6.73
+360,Ligue 1,Olympique Lyonnais,Martín Satriano,5,6,3,0,0.0,6.7
+361,Ligue 1,Metz,Morgan Bokele Mputu,5,1,2,0,1.0,6.64
+362,Ligue 1,Auxerre,Assane Dioussé,5,5,4,0,2.0,6.63
+363,Ligue 1,Olympique Lyonnais,Orel Mangala,5,6,5,0,2.0,6.61
+364,Ligue 1,Stade Brestois,Hamidou Makalou,5,4,2,0,1.0,6.59
+365,Ligue 1,Nantes,Mayckel Lahdo,5,0,2,0,0.0,6.58
+366,Ligue 1,Lorient,Sambou Soumano,5,4,13,0,0.0,6.57
+367,Ligue 1,Stade Brestois,Luc Zogbé,5,3,21,0,2.0,6.53
+368,Ligue 1,Nantes,Bahmed Deuff,5,2,6,0,3.0,6.47
+369,Ligue 1,Toulouse,Jacen Russell Rowe,5,1,4,0,2.0,6.45
+370,Ligue 1,Nantes,Mathieu Acapandié,5,3,11,0,0.0,6.38
+371,Ligue 1,RC Lens,Kyllian Antonio,4,5,12,0,0.0,7.2
+372,Ligue 1,Nice,Jérémie Boga,4,3,2,0,0.0,6.79
+373,Ligue 1,AS Monaco,Paul Pogba,4,1,5,0,0.0,6.75
+374,Ligue 1,Nice,Gabin Bernardeau,4,0,3,0,0.0,6.73
+375,Ligue 1,Nice,Elye Wahi,4,2,1,0,0.0,6.72
+376,Ligue 1,Olympique Lyonnais,Adam Karabec,4,1,2,0,1.0,6.71
+377,Ligue 1,Nice,Bernard Nguene,4,3,2,0,0.0,6.53
+378,Ligue 1,Nantes,Amady Camara,4,1,0,0,0.0,6.51
+379,Ligue 1,Lorient,Mohamed Bamba,4,2,6,0,0.0,6.49
+380,Ligue 1,Auxerre,Telli Siwe,4,4,6,0,1.0,6.43
+381,Ligue 1,RC Lens,Arthur Masuaku,4,1,1,0,0.0,6.1
+382,Ligue 1,RC Lens,Allan Saint-Maximin,3,1,0,0,0.0,7.34
+383,Ligue 1,Lille,Berke Özer,3,0,22,0,0.0,7.24
+384,Ligue 1,Olympique Lyonnais,Roman Yaremchuk,3,0,1,0,0.0,6.9
+385,Ligue 1,Lorient,Formose Mendy,3,3,15,0,0.0,6.9
+386,Ligue 1,Stade Rennais,Seko Fofana,3,4,7,0,1.0,6.86
+387,Ligue 1,Olympique de Marseille,Ethan Nwaneri,3,4,1,0,0.0,6.79
+388,Ligue 1,Olympique Lyonnais,Rémi Himbert,3,0,0,0,0.0,6.78
+389,Ligue 1,AS Monaco,Stanis Idumbo Muzambo,3,0,2,0,0.0,6.74
+390,Ligue 1,Stade Rennais,Mohamed Kader Meite,3,1,10,0,1.0,6.73
+391,Ligue 1,Toulouse,Julian Vignolo,3,0,0,0,0.0,6.72
+392,Ligue 1,Nice,Tanguy Ndombélé,3,1,3,0,0.0,6.71
+393,Ligue 1,Angers,Abdoulaye Bamba,3,3,8,0,3.0,6.67
+394,Ligue 1,Auxerre,Gabriel Osho,3,1,2,0,2.0,6.65
+395,Ligue 1,Lille,Soriba Diaoune,3,1,2,0,1.0,6.62
+396,Ligue 1,AS Monaco,Takumi Minamino,3,4,5,0,2.0,6.61
+397,Ligue 1,Paris FC,Willem Geubbels,3,5,12,0,3.0,6.54
+398,Ligue 1,RC Strasbourg,Amadou Cissé,3,0,8,0,1.0,6.5
+399,Ligue 1,Stade Rennais,Yassir Zabiri,3,0,0,0,1.0,6.5
+400,Ligue 1,Angers,Goduine Koyalipou,3,2,4,0,0.0,6.49
+401,Ligue 1,Stade Rennais,Fabian Rieder,3,2,2,0,1.0,6.4
+402,Ligue 1,Olympique de Marseille,Ulisses Garcia,3,0,6,0,2.0,6.25
+403,Ligue 1,Toulouse,Jaydee Canvot,2,0,8,0,,7.15
+404,Ligue 1,Olympique de Marseille,Gerónimo Rulli,2,0,25,1,0.0,7.1
+405,Ligue 1,Olympique Lyonnais,Dominik Greif,2,0,34,0,0.0,7.06
+406,Ligue 1,Auxerre,Donovan Léon,2,0,20,2,0.0,7.04
+407,Ligue 1,Le Havre,Mory Diaw,2,2,24,1,0.0,7.0
+408,Ligue 1,Stade Rennais,Brice Samba,2,0,19,2,0.0,6.96
+409,Ligue 1,Olympique de Marseille,Hilan Hamzaoui Slimani,2,0,2,0,0.0,6.9
+410,Ligue 1,Olympique Lyonnais,Steeve Kango,2,0,2,0,1.0,6.75
+411,Ligue 1,Metz,Jahyann Pandore,2,0,0,0,0.0,6.73
+412,Ligue 1,Le Havre,Thomas Delaine,2,3,7,0,0.0,6.72
+413,Ligue 1,Paris FC,Tuomas Ollila,2,3,10,1,0.0,6.63
+414,Ligue 1,Le Havre,Daren Nbenbege Mosengo,2,1,4,0,3.0,6.62
+415,Ligue 1,Nice,Moise Bombito,2,2,6,0,3.0,6.6
+416,Ligue 1,AS Monaco,Pape Cabral,2,1,4,0,0.0,6.6
+417,Ligue 1,Paris Saint-Germain,Quentin Ndjantou,2,2,2,0,1.0,6.56
+418,Ligue 1,Nantes,Uroš Radaković,2,3,8,0,2.0,6.54
+419,Ligue 1,Metz,Idrissa Gueye,2,0,5,0,0.0,6.5
+420,Ligue 1,Olympique de Marseille,Darryl Bakola,2,0,0,0,0.0,6.5
+421,Ligue 1,Metz,Ismaël Guerti,2,1,1,0,0.0,6.47
+422,Ligue 1,Stade Rennais,Elias Legendre Quiñonez Zae,2,1,0,0,0.0,6.43
+423,Ligue 1,RC Strasbourg,David Datro Fofana,2,1,2,0,0.0,6.42
+424,Ligue 1,AS Monaco,Eliesse Ben Seghir,2,0,0,0,0.0,6.4
+425,Ligue 1,Nice,Kevin Carlos Omoruyi,2,1,5,0,1.0,6.37
+426,Ligue 1,AS Monaco,Paris Brunner,2,1,0,0,0.0,6.34
+427,Ligue 1,RC Strasbourg,Rabby Nzingoula,2,1,1,0,0.0,6.28
+428,Ligue 1,RC Strasbourg,Dilane Bakwa,1,1,1,0,0.0,7.53
+429,Ligue 1,Angers,Hervé Koffi,1,0,27,1,0.0,7.34
+430,Ligue 1,RC Lens,Andy Diouf,1,0,0,0,,7.2
+431,Ligue 1,Angers,Melvin Zinga,1,0,1,0,0.0,7.15
+432,Ligue 1,Metz,Pape Sy,1,0,11,1,0.0,7.13
+433,Ligue 1,Nantes,Anthony Lopes,1,1,30,0,0.0,7.1
+434,Ligue 1,Lorient,Yvon Mvogo,1,1,25,1,0.0,6.96
+435,Ligue 1,AS Monaco,Lukáš Hrádecký,1,0,13,1,0.0,6.92
+436,Ligue 1,Nice,Pablo Rosario,1,0,0,0,,6.8
+437,Ligue 1,Angers,Jim Allevinah,1,0,1,0,1.0,6.77
+438,Ligue 1,RC Lens,Erawan Garnier,1,0,0,0,0.0,6.7
+439,Ligue 1,Lille,Maxima Goffi,1,0,1,0,0.0,6.7
+440,Ligue 1,Angers,Bané Diatta,1,0,0,0,0.0,6.7
+441,Ligue 1,Paris FC,Nouha Dicko,1,0,0,0,0.0,6.67
+442,Ligue 1,RC Lens,Anthony Bermont,1,3,0,0,0.0,6.67
+443,Ligue 1,Toulouse,Ilyas Azizi,1,0,0,0,0.0,6.6
+444,Ligue 1,Stade Rennais,Ibrahim Salah,1,0,1,0,,6.6
+445,Ligue 1,Paris FC,Lohann Doucet,1,0,3,1,1.0,6.58
+446,Ligue 1,Stade Rennais,Nordan Mukiele,1,0,1,0,0.0,6.57
+447,Ligue 1,AS Monaco,George Ilenikhena,1,0,2,0,1.0,6.54
+448,Ligue 1,Olympique Lyonnais,Adil Hamdani,1,0,0,0,1.0,6.53
+449,Ligue 1,Nice,Terem Moffi,1,0,1,0,0.0,6.53
+450,Ligue 1,Paris Saint-Germain,Noah Nsoki,1,0,0,0,0.0,6.5
+451,Ligue 1,Olympique Lyonnais,Saël Kumbedi,1,1,2,0,0.0,6.4
+452,Ligue 1,Olympique de Marseille,Tadjidine Mmadi,1,2,1,0,0.0,6.3
+453,Ligue 1,Lille,Ousmane Touré,1,2,5,0,,6.1
+454,Ligue 1,RC Strasbourg,Idrissa Sabaly,1,1,0,0,0.0,6.1
+455,Ligue 1,Stade Rennais,Henrick Do Marcolino,1,2,0,0,0.0,0.0
+456,Ligue 1,Le Havre,Lionel Mpasi Nzau,0,0,5,0,0.0,7.83
+457,Ligue 1,RC Lens,Mezian Mesloub,0,0,0,0,0.0,7.7
+458,Ligue 1,Olympique Lyonnais,Rémy Descamps,0,0,3,0,0.0,7.66
+459,Ligue 1,Nantes,Patrik Carlgren,0,0,6,0,0.0,7.37
+460,Ligue 1,RC Strasbourg,Karl-Johan Johnsson,0,0,3,0,0.0,7.3
+461,Ligue 1,Paris Saint-Germain,Renato Marin,0,0,0,0,0.0,7.2
+462,Ligue 1,Olympique Lyonnais,Georges Mikautadze,0,1,0,0,0.0,7.1
+463,Ligue 1,RC Lens,Robin Risser,0,0,15,1,0.0,7.09
+464,Ligue 1,Stade Brestois,Grégoire Coudert,0,0,17,0,0.0,7.08
+465,Ligue 1,Nice,Yehvann Diouf,0,2,28,0,0.0,7.02
+466,Ligue 1,Metz,Jonathan Fischer,0,0,24,0,0.0,6.98
+467,Ligue 1,Paris Saint-Germain,Lucas Chevalier,0,0,8,1,0.0,6.95
+468,Ligue 1,Auxerre,Théo De Percin,0,0,6,0,0.0,6.94
+469,Ligue 1,Paris FC,Kevin Trapp,0,1,15,1,0.0,6.93
+470,Ligue 1,AS Monaco,Philipp Köhn,0,1,9,1,0.0,6.93
+471,Ligue 1,Paris Saint-Germain,Matvey Safonov,0,0,11,1,0.0,6.92
+472,Ligue 1,RC Strasbourg,Emmanuel Emegha,0,0,5,0,0.0,6.92
+473,Ligue 1,RC Strasbourg,Mike Penders,0,0,18,3,0.0,6.91
+474,Ligue 1,Lille,André Gomes,0,0,0,0,0.0,6.9
+475,Ligue 1,RC Lens,Amadou Haidara,0,2,3,0,1.0,6.85
+476,Ligue 1,Le Havre,Noam Obougou Jacquet,0,1,0,0,0.0,6.82
+477,Ligue 1,Nantes,Sékou Doucoure,0,3,5,0,1.0,6.8
+478,Ligue 1,Olympique de Marseille,Derek Cornelius,0,1,4,0,2.0,6.8
+479,Ligue 1,Toulouse,Guillaume Restes,0,1,39,0,0.0,6.79
+480,Ligue 1,Lille,Arnaud Bodart,0,0,1,0,0.0,6.73
+481,Ligue 1,Paris FC,Ciro Immobile,0,1,6,0,2.0,6.72
+482,Ligue 1,Stade Rennais,Mikayil Faye,0,0,0,0,0.0,6.7
+483,Ligue 1,Nice,Billal Brahimi,0,0,0,0,0.0,6.7
+484,Ligue 1,Le Havre,Paul Argney,0,0,1,0,0.0,6.7
+485,Ligue 1,Stade Brestois,Radosław Majecki,0,0,5,2,0.0,6.65
+486,Ligue 1,Olympique de Marseille,Jeffrey De Lange,0,0,1,0,0.0,6.62
+487,Ligue 1,RC Strasbourg,Tyrese Noubissie,0,1,0,0,0.0,6.6
+488,Ligue 1,Nice,Djibril Coulibaly,0,1,0,0,0.0,6.6
+489,Ligue 1,Auxerre,Tidiane Devernois,0,0,0,0,0.0,6.6
+490,Ligue 1,RC Strasbourg,Aarón Anselmino,0,1,7,0,0.0,6.6
+491,Ligue 1,Stade Rennais,Glen Kamara,0,0,0,0,0.0,6.6
+492,Ligue 1,Nice,Badredine Bouanani,0,1,0,0,0.0,6.6
+493,Ligue 1,Paris FC,Mathieu Cafaro,0,0,1,0,0.0,6.58
+494,Ligue 1,Metz,Brian Madjo,0,0,2,0,0.0,6.58
+495,Ligue 1,Auxerre,Theo Bair,0,0,1,0,0.0,6.55
+496,Ligue 1,Angers,Oumar Pona,0,0,3,0,0.0,6.55
+497,Ligue 1,Stade Brestois,Serigne Diop,0,0,0,0,0.0,6.55
+498,Ligue 1,Le Havre,Kenny Quetant,0,1,3,0,0.0,6.52
+499,Ligue 1,Paris Saint-Germain,Mathis Jangeal,0,0,1,0,0.0,6.5
+500,Ligue 1,Lille,Ugo Raghouber,0,0,0,0,0.0,6.5
+501,Ligue 1,Toulouse,Mathis Saka,0,0,0,0,0.0,6.5
+502,Ligue 1,Nice,Zoumana Diallo,0,0,1,0,0.0,6.5
+503,Ligue 1,Paris FC,Mohamed Benoit-Dao,0,0,0,0,0.0,6.5
+504,Ligue 1,Nice,Maxime Dupé,0,0,7,1,0.0,6.5
+505,Ligue 1,Olympique de Marseille,Adrien Rabiot,0,0,1,0,0.0,6.5
+506,Ligue 1,Paris FC,Julien López,0,1,0,0,0.0,6.48
+507,Ligue 1,Le Havre,Damián Pizarro,0,0,0,0,0.0,6.45
+508,Ligue 1,Auxerre,Ryan Rodin,0,0,0,0,0.0,6.43
+509,Ligue 1,Paris FC,Obed Nkambadio,0,0,12,2,0.0,6.43
+510,Ligue 1,Olympique Lyonnais,Ernest Nuamah,0,0,0,0,0.0,6.4
+511,Ligue 1,Stade Brestois,Axel Camblan,0,0,0,0,0.0,6.4
+512,Ligue 1,Metz,Joseph N'Duquidi,0,0,0,0,0.0,6.4
+513,Ligue 1,Lorient,Daniel Semedo,0,1,0,0,0.0,6.4
+514,Ligue 1,Olympique de Marseille,Pol Lirola,0,1,0,0,0.0,6.4
+515,Ligue 1,Angers,Dan Sinaté,0,0,0,0,0.0,6.4
+516,Ligue 1,Olympique de Marseille,Nouhoum Kamissoko,0,0,0,0,0.0,6.4
+517,Ligue 1,Metz,Joel Asoro,0,0,1,0,0.0,6.34
+518,Ligue 1,Metz,Lucas Michal,0,0,2,0,0.0,6.34
+519,Ligue 1,Olympique Lyonnais,Enzo Molebe,0,0,0,0,0.0,6.3
+520,Ligue 1,Olympique Lyonnais,Noham Kamara,0,0,1,0,0.0,6.3
+521,Ligue 1,Olympique de Marseille,Ugo Lamare El Kadmiri,0,1,0,0,0.0,6.3
+522,Ligue 1,Olympique de Marseille,Jonathan Rowe,0,1,0,0,0.0,6.3
+523,Ligue 1,Paris FC,Pierre-Yves Hamel,0,1,0,0,1.0,6.25
+524,Ligue 1,Lille,Vincent Burlet,0,0,0,0,0.0,6.2
+525,Ligue 1,Toulouse,Kjetil Haug,0,0,0,0,0.0,6.2
+526,Ligue 1,Nice,Youssouf Ndayishimiye,0,2,4,0,1.0,6.2
+527,Ligue 1,Lorient,Bingourou Kamara,0,0,2,0,0.0,6.2
+528,Ligue 1,Nice,Everton Pereira,0,3,5,0,0.0,6.1
+529,Ligue 1,Stade Brestois,Justin Bourgault,0,1,1,0,0.0,6.1
+530,Ligue 1,RC Strasbourg,Yaya Diémé,0,0,0,0,0.0,6.1
+531,Ligue 1,Stade Brestois,Raphaël Le Guen,0,4,6,1,1.0,6.07
+532,Ligue 1,Nantes,Abakar Sylla,0,0,2,1,0.0,6.05
+533,Ligue 1,Stade Rennais,Mathys Silistrie,0,0,0,0,0.0,5.7
+534,Ligue 1,Paris Saint-Germain,Pierre Mounguengue,0,0,0,1,0.0,5.7
+535,Ligue 1,Metz,Cléo Mélières,0,0,2,0,0.0,5.6
+536,Ligue 1,Stade Rennais,Christopher Wooh,0,0,6,0,,5.0
+537,Ligue 1,Olympique de Marseille,Neal Maupay,0,0,0,0,0.0,0.0
+538,Ligue 1,Stade Rennais,Bertuğ Yıldırım,0,0,0,0,0.0,0.0
+539,Ligue 1,Nice,Hamza Koutoune,0,0,0,0,0.0,0.0
+540,Ligue 1,Lorient,Martin Bley,0,0,0,0,0.0,0.0
+541,Ligue 1,AS Monaco,Samuel Nibombe,0,0,0,0,0.0,0.0
+542,Ligue 1,Auxerre,Yvan Zaddy,0,0,0,0,0.0,0.0
+543,Ligue 1,Stade Rennais,Lucas Rosier,0,0,0,0,0.0,0.0
+544,Ligue 1,Auxerre,Mamoudou Cissokho,0,0,0,0,0.0,0.0
