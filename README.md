@@ -35,11 +35,11 @@ Các trang thống kê thể thao lớn thường bảo vệ dữ liệu rất n
 
 **3. Clone dự án về máy**
 ```bash
-git clone [https://github.com/tinppb/Top5-Leagues-Scraper-25-26](https://github.com/tinppb/Top5-Leagues-Scraper-25-26.git)
+git clone https://github.com/tinppb/Top5-Leagues-Scraper-25-26.git
 cd Top5-Leagues-Scraper-25-26
 ```
 
-**4. Tạo và kích hoạt môi trường ảo (Khuyến nghị)**
+**4. Tạo và kích hoạt môi trường ảo**
 ```bash
 python -m venv crawler
 # Dành cho Windows:
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ## Hướng Dẫn Sử Dụng
 
-**Cách 1: Chạy toàn bộ tiến trình cho Top 5 Giải (Khuyên dùng)**
+**Cách 1: Chạy toàn bộ tiến trình cho Top 5 giải đầu hàng đầu Châu Âu**
 Sử dụng file điều phối chính. Hệ thống sẽ tự động quét qua 5 giải đấu, thu thập 4 nhóm chỉ số cho từng giải.
 ```bash
 python main.py
