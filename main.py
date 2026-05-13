@@ -1,55 +1,56 @@
 import subprocess
-import time
 import sys
+import time
 
-# Khai báo kho tàng Top 5 Giải Đấu
-# Khai báo kho tàng Top 5 Giải Đấu với ID chuẩn xác 100%
-LEAGUES = {
-    "Premier_League": {"tour_id": "17", "season_id": "76986"},
-    "La_Liga": {"tour_id": "8", "season_id": "77559"},   
-    "Serie_A": {"tour_id": "23", "season_id": "76457"},  
-    "Bundesliga": {"tour_id": "35", "season_id": "77333"},
-    "Ligue_1": {"tour_id": "34", "season_id": "77356"}   
+# ==========================================
+# 1. TỪ ĐIỂN TOP 5 GIẢI ĐẤU CHÂU ÂU (Mùa 25/26)
+# ==========================================
+# Cấu trúc: "Tên_Giải": ("Tournament_ID", "Season_ID")
+# Lưu ý: Season ID có thể thay đổi theo từng năm, bạn có thể update lại nếu cần.
+TOP_5_LEAGUES = {
+    "Premier_League": ("17", "76986"),
+    "La_Liga": ("8", "77559"),
+    "Serie_A": ("23", "76457"),     # ID giải Ý
+    "Bundesliga": ("35", "77333"),  # ID giải Đức
+    "Ligue_1": ("34", "77356")      # ID giải Pháp
 }
 
-SPIDERS = ["attack.py", "defense.py", "passing.py", "goalkeeping.py"]
+def main():
+    print("="*60)
+    print("BẮT ĐẦU CHIẾN DỊCH CÀO DATA TOP 5 EUROPEAN LEAGUES (MÙA 25/26)!")
+    print("="*60)
 
-def run_spider(script_name, league, tour_id, season_id):
-    print(f"\n{'='*60}")
-    print(f"🚀 RUNNING: {script_name} | LEAGUE: {league.replace('_', ' ')}")
-    print(f"{'='*60}")
-    
-    try:
-        # Gọi lệnh: python crawler/attack.py La_Liga 8 61643
-        subprocess.run([
-            sys.executable, 
-            f"crawler/{script_name}", 
-            league,       # sys.argv[1]
-            tour_id,      # sys.argv[2]
-            season_id     # sys.argv[3]
-        ], check=True)
-    except subprocess.CalledProcessError as e:
-        print(f"❌ Lỗi khi chạy {script_name} cho {league}: {e}")
+    total_leagues = len(TOP_5_LEAGUES)
+    current = 1
+
+    for league_name, (tour_id, season_id) in TOP_5_LEAGUES.items():
+        print(f"\n[{current}/{total_leagues}] Đang xử lý giải đấu: {league_name.replace('_', ' ')}...")
+        
+        # Tạo câu lệnh gọi file full_stats.py chạy ngầm
+        # sys.executable đảm bảo nó gọi đúng môi trường ảo Python hiện tại
+        command = [sys.executable, "crawler/full_stats.py", league_name, tour_id, season_id]
+        
+        try:
+            # Chạy script con và chờ nó chạy xong
+            subprocess.run(command, check=True)
+            print(f"✅ Hoàn thành giải {league_name.replace('_', ' ')}!")
+            
+        except subprocess.CalledProcessError as e:
+            print(f"❌ Có lỗi xảy ra khi cào giải {league_name}: {e}")
+        except FileNotFoundError:
+            print(f"❌ Không tìm thấy file 'full_stats.py'.")
+            break
+
+        # Nếu chưa phải là giải đấu cuối cùng, nghỉ ngơi 10 giây để tránh bị block IP
+        if current < total_leagues:
+            print("⏳Nghỉ 5 giây...")
+            time.sleep(5)
+            
+        current += 1
+
+    print("\n" + "="*60)
+    print("BỘ DỮ LIỆU ĐÃ ĐƯỢC LƯU TẠI DATA/PROCESSED/ 🎉")
+    print("="*60)
 
 if __name__ == "__main__":
-    print("CRAWL TOP 5 GIẢI ĐẤU CHÂU ÂU TỪ SOFASCORE")
-    
-    # Chạy vòng lặp qua từng giải đấu
-    for league, ids in LEAGUES.items():
-        print(f"\n\n{'*'*60}")
-        print(f"🏆 BẮT ĐẦU CÀO GIẢI: {league.upper().replace('_', ' ')}")
-        print(f"{'*'*60}")
-        
-        # Với mỗi giải, chạy đủ 4 bộ chỉ số
-        for spider in SPIDERS:
-            run_spider(spider, league, ids["tour_id"], ids["season_id"])
-            
-            # Nghỉ ngơi giữa các script để chống block
-            print("⏳ Đang nghỉ 3 giây...")
-            time.sleep(3)
-            
-        print(f"✅ Hoàn thành toàn bộ dữ liệu cho {league}!")
-        print("⏳ Chuyển qua giải tiếp theo... nghỉ 5 giây")
-        time.sleep(5)
-        
-    print("\nĐÃ HOÀN THÀNH TOÀN BỘ TOP 5 GIẢI ĐẤU!")
+    main()
