@@ -41,11 +41,11 @@ cd Top5-Leagues-Scraper-25-26
 
 **4. Tạo và kích hoạt môi trường ảo**
 ```bash
-python -m venv crawler
+python -m venv .venv
 # Dành cho Windows:
-crawler\Scripts\activate
+.venv\Scripts\activate
 # Dành cho MacOS/Linux:
-source crawler/bin/activate
+source .venv/bin/activate
 ```
 
 **5. Cài đặt các thư viện cần thiết**
@@ -122,29 +122,31 @@ Các file CSV đầu ra bao gồm các trường dữ liệu chính:
 ## Cấu Trúc Thư Mục
 
 ```text
-EPL-Sofascore-Scraper/
+TOP 5 LEAGUE EU(25_26)/
 │
-├── crawler/                  # Chứa các kịch bản cào dữ liệu độc lập
-│   ├── attack.py
-│   ├── defense.py
-│   ├── goalkeeping.py
-│   └── passing.py
+├── .venv/                    # Môi trường ảo Python
+├── crawler/                  # Chứa các kịch bản cào dữ liệu (Workers)
+│   ├── full_stats.py         # Kịch bản chính: Cào tổng hợp 40+ chỉ số (All-in-One)
+│   ├── attack.py             # Kịch bản module: Chỉ cào chỉ số Tấn công
+│   ├── defense.py            # Kịch bản module: Chỉ cào chỉ số Phòng ngự
+│   ├── passing.py            # Kịch bản module: Chỉ cào chỉ số Chuyền bóng
+│   └── goalkeeping.py        # Kịch bản module: Chỉ cào chỉ số Thủ môn
 │
-├── data/                     # Thư mục lưu trữ dữ liệu
-│   ├── processed/            
-│   │   ├── Premier_League_attack_stats.csv
-│   │   ├── La_Liga_attack_stats.csv
-│   │   └── ... (Tương tự cho các giải và nhóm chỉ số khác)
-│   └── raw/                  # Dữ liệu dạng JSON thô
-│       ├── attack/
-│       ├── defense/
-│       ├── goalkeeping/
-│       └── passing/
+├── data/                     # Data Lake & Data Warehouse
+│   ├── processed/            # Dữ liệu CSV đã làm sạch
+│   │   ├── Premier_League_FULL_STATS.csv
+│   │   ├── La_Liga_FULL_STATS.csv
+│   │   └── ... (Serie A, Bundesliga, Ligue 1)
+│   └── raw/                  # Backup dữ liệu JSON thô từ API
+│       ├── full_stats/
+│       └── ...
 │
-├── .gitignore                
-├── main.py                   
-├── README.md                
-└── requirements.txt        
+├── logs/                     
+├── notebooks/       
+│
+├── main.py                  
+├── README.md                 
+└── requirements.txt
 ```
 
 ---
